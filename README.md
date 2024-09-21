@@ -41,9 +41,9 @@ This is to ensure all the needed libraries are at the correct version in order f
 ## Step 4:
 You should be good to go now.
 In order to compile the game you need to type something different on the Command Prompt/PowerShell or Terminal depending on what you're compiling on.
-`lime test windows` - Windows
-`haxelib run lime test mac` - Mac
-`haxelib run lime test linux` - Linux
+- `lime test windows` - Windows
+- `haxelib run lime test mac` - Mac
+- `haxelib run lime test linux` - Linux
 You can add ` -debug` to the end of the command to compile the game in debug mode.
 (DO NOT COMPILE IT TO HTML5!!)
 
