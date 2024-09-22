@@ -1,0 +1,236 @@
+{
+	"song": {
+		"events": [
+			[
+				230.769230769231,
+				[
+					[
+						"Lyric Text Event",
+						"Yuri is a raccoon.",
+						"#66E6FF"
+					]
+				]
+			],
+			[
+				1615.38461538462,
+				[
+					[
+						"Lyric Text Event",
+						"",
+						"#66E6FF"
+					]
+				]
+			],
+			[
+				1961.53846153846,
+				[
+					[
+						"Lyric Text Event",
+						"Sayori! How childish of you!",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				3879.80769230769,
+				[
+					[
+						"Lyric Text Event",
+						"I'm not a ra-",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				4730.76923076923,
+				[
+					[
+						"Lyric Text Event",
+						"Shhh!",
+						"#FF99FF"
+					]
+				]
+			],
+			[
+				5405.76923076923,
+				[
+					[
+						"Lyric Text Event",
+						"Raccoons don't talk!",
+						"#FF99FF"
+					]
+				]
+			],
+			[
+				6412.5,
+				[
+					[
+						"Lyric Text Event",
+						"",
+						"#FF99FF"
+					]
+				]
+			],
+			[
+				6692.30769230769,
+				[
+					[
+						"Lyric Text Event",
+						"*le gasp*",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				7384.61538461538,
+				[
+					[
+						"Lyric Text Event",
+						"",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				97846.1538461538,
+				[
+					[
+						"Camera Follow Pos",
+						"520",
+						"170"
+					]
+				]
+			],
+			[
+				98019.2307692307,
+				[
+					[
+						"Lyric Text Event",
+						"Yes she's 100% raccoon.",
+						"#00FF00"
+					]
+				]
+			],
+			[
+				99692.3076923076,
+				[
+					[
+						"Lyric Text Event",
+						"In fact, they're not abundant in this area.",
+						"#00FF00"
+					]
+				]
+			],
+			[
+				102230.769230769,
+				[
+					[
+						"Lyric Text Event",
+						"So she should take a tatic to the woods to reinact with her kind.",
+						"#00FF00"
+					]
+				]
+			],
+			[
+				104575.961538461,
+				[
+					[
+						"Lyric Text Event",
+						"MONIKA!!!",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				105230.769230769,
+				[
+					[
+						"Lyric Text Event",
+						"",
+						"#AA00FF"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154153.846153846,
+				[
+					[
+						"Lyric Text Event",
+						"Well, raccoons don't read books don't they?!",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				156201.923076923,
+				[
+					[
+						"Lyric Text Event",
+						"How do you answer that?!",
+						"#AA00FF"
+					]
+				]
+			],
+			[
+				156923.076923077,
+				[
+					[
+						"Camera Follow Pos",
+						"520",
+						"170"
+					],
+					[
+						"Lyric Text Event",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158273.076923077,
+				[
+					[
+						"Lyric Text Event",
+						"Searching the web for:",
+						"#00FF00"
+					]
+				]
+			],
+			[
+				159230.769230769,
+				[
+					[
+						"Lyric Text Event",
+						"Raccoons don't read books don't they? How do you answer that?",
+						"#00FF00"
+					]
+				]
+			],
+			[
+				160846.153846154,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161192.307692308,
+				[
+					[
+						"Lyric Text Event",
+						"*angry Yuri noises*",
+						"#AA00FF"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				28800,
+				[
+					[
+						"Hud Fade",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"White Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"White Screen Fade",
+						"0",
+						"0.5"
+					],
+					[
+						"DefaultCamZoom Change",
+						"0.91",
+						"0.3"
+					],
+					[
+						"Play Sound",
+						"Thunder",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.35",
+						"0.5"
+					]
+				]
+			],
+			[
+				37470.9677419355,
+				[
+					[
+						"Hud Fade",
+						"1",
+						"0.5"
+					],
+					[
+						"DefaultCamZoom Change",
+						"0.85",
+						"0.3"
+					]
+				]
+			]
+		]
+	}
+}

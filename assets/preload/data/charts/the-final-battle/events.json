@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "final-boss",
+		"player1": "monika-neo",
+		"player2": "sayorivil",
+		"player3": null,
+		"events": [
+			[
+				177000,
+				[
+					[
+						"Down on Up",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				201000,
+				[
+					[
+						"Down on Up",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				255000,
+				[
+					[
+						"Hud Angle",
+						"3240",
+						"6"
+					]
+				]
+			],
+			[
+				261000,
+				[
+					[
+						"Play Animation",
+						"glitch",
+						"dad"
+					],
+					[
+						"Hud Angle",
+						"0",
+						"0"
+					],
+					[
+						"White Screen Fade",
+						"1",
+						"1.4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "The Final Battle"
+	}
+}

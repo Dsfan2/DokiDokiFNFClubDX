@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "void",
+		"player1": "monika",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Black Screen Fade",
+						"0",
+						"1.08"
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"Song Blurb",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speakers",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Your Reality"
+	}
+}

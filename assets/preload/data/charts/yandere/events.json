@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				61090.9090909091,
+				[
+					[
+						"Black Screen Fade",
+						"0.8",
+						"18"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"18"
+					],
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				78545.4545454546,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"Play Sound",
+						"vine_boom",
+						""
+					]
+				]
+			],
+			[
+				78954.5454545455,
+				[
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"yurdere"
+					],
+					[
+						"Stage Morph",
+						"clubroom-skill",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Black Screen Fade",
+						"0.75",
+						"1"
+					]
+				]
+			],
+			[
+				194181.818181818,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

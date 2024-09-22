@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				22000,
+				[
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"1.9"
+					],
+					[
+						"Static Fade",
+						"0.8",
+						"1.9"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0"
+					],
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				39875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				55875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"1.9"
+					],
+					[
+						"Static Fade",
+						"0.8",
+						"1.9"
+					]
+				]
+			],
+			[
+				63875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0"
+					],
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				79875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Static Fade",
+						"0.8",
+						"1.9"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"1.9"
+					]
+				]
+			],
+			[
+				95875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					],
+					[
+						"Static Fade",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				103875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				111875,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"0.1"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			]
+		]
+	}
+}
