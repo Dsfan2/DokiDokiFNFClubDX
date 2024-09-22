@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkboxDDLC.png">
+<SubTexture name="checkbox0000" x="0" y="0" width="75" height="82"/>
+<SubTexture name="checkbox anim0000" x="75" y="0" width="75" height="82"/>
+<SubTexture name="checkbox anim0001" x="150" y="0" width="75" height="82"/>
+<SubTexture name="checkbox anim0002" x="0" y="82" width="75" height="82"/>
+<SubTexture name="checkbox anim0003" x="75" y="82" width="75" height="82"/>
+<SubTexture name="checkbox anim reverse0000" x="150" y="82" width="75" height="82"/>
+<SubTexture name="checkbox anim reverse0001" x="0" y="164" width="75" height="82"/>
+<SubTexture name="checkbox anim reverse0002" x="75" y="0" width="75" height="82"/>
+<SubTexture name="checkbox anim reverse0003" x="0" y="0" width="75" height="82"/>
+<SubTexture name="checkbox finish0000" x="75" y="82" width="75" height="82"/>
+</TextureAtlas>
