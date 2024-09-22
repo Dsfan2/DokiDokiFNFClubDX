@@ -532,7 +532,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(hive)){
+			else if (FlxG.mouse.overlaps(hive) && unlockHC){
 				if (curSelected != 2){
 					curSelected = 2;
 					changeSelection();
@@ -540,7 +540,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(grave)){
+			else if (FlxG.mouse.overlaps(grave) && unlockSN){
 				if (curSelected != 3){
 					curSelected = 3;
 					changeSelection();
@@ -548,7 +548,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(spider)){
+			else if (FlxG.mouse.overlaps(spider) && unlockSOM){
 				if (curSelected != 4){
 					curSelected = 4;
 					changeSelection();
@@ -556,7 +556,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(superLeaf)){
+			else if (FlxG.mouse.overlaps(superLeaf) && unlockYIAR){
 				if (curSelected != 5){
 					curSelected = 5;
 					changeSelection();
@@ -564,7 +564,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(ninjaStar)){
+			else if (FlxG.mouse.overlaps(ninjaStar) && unlockALN){
 				if (curSelected != 6){
 					curSelected = 6;
 					changeSelection();
@@ -572,7 +572,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(boxingGloves)){
+			else if (FlxG.mouse.overlaps(boxingGloves) && unlockRON){
 				if (curSelected != 7){
 					curSelected = 7;
 					changeSelection();
@@ -588,7 +588,7 @@ class BonusFreeplayState extends MusicBeatState
 				if (FlxG.mouse.justPressed)
 					selectSong();
 			}
-			else if (FlxG.mouse.overlaps(monikaX) && unlockCC){
+			else if (FlxG.mouse.overlaps(monikaX) && unlockFDX){
 				if (curSelected != 9){
 					curSelected = 9;
 					changeSelection();

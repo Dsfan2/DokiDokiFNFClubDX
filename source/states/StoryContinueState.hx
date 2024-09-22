@@ -525,7 +525,7 @@ class StoryContinueState extends MusicBeatState
 	function loadTexts()
 	{
 		var color:FlxColor = 0xFF575757;
-		if (TitleState.endEasterEgg) color = 0xFFFFFFFF;
+		if (CoolUtil.easterEgg == 'End') color = 0xFFFFFFFF;
 
 		var routeText1:FlxText = new FlxText(350, 285, 237, "Boyfriend Route (REGULAR)");
 		routeText1.setFormat(Paths.font("doki.ttf"), 12, color, CENTER);

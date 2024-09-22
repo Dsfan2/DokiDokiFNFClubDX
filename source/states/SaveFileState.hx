@@ -79,7 +79,7 @@ class SaveFileState extends MusicBeatState
 		titleBg = new DDLCBorderBG(Paths.image('mainmenu/rgbBg'), -40, -40);
 		add(titleBg);
 
-		if (TitleState.endEasterEgg)
+		if (CoolUtil.easterEgg == 'End')
 			boxSuffix = '-act3';
 
 		selector = new AttachedSprite();

@@ -61,7 +61,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		if (PlayState.SONG.song.toLowerCase() == 'spiders of markov') CoolUtil.makeSecretFile('fountain', 'The Key');
 		if (PlayState.SONG.song.toLowerCase() == 'roar of natsuki' && gotPunched) CoolUtil.makeSecretFile('(2.) CAN A MATCH BOX?', 'impossible_quiz_q2');
-		if (PlayState.SONG.player1 == 'bf-gone') CoolUtil.makeSecretFile('The tiny round balls that grow on trees and reflect light that\'s the same color as their name.', 'Fruity Clue');
+		if (PlayState.SONG.player1 == 'bf-gone') CoolUtil.makeSecretFile("The tiny round balls that grow on trees and reflect light that's the same color as their name.", 'Fruity Clue');
 
 		gotPunched = false;
 	}

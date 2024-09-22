@@ -41,10 +41,10 @@ class TitleState extends MusicBeatState
 	public static var loaded:Bool = false;
 	public static var videoPlayed:Bool = false;
 
-	public static var monkerEasterEgg:Bool = false;
+	//public static var monkerEasterEgg:Bool = false;
 	var ghostMenuEasterEgg:Bool = false;
-	public static var classicEasterEgg:Bool = false;
-	public static var endEasterEgg:Bool = false;
+	//public static var classicEasterEgg:Bool = false;
+	//public static var endEasterEgg:Bool = false;
 
 	var blackScreen:FlxSprite;
 	var credGroup:FlxGroup;
@@ -138,7 +138,7 @@ class TitleState extends MusicBeatState
 		{
 			if (randomChance > 0 && randomChance < 5 && SaveData.clearAllNormal)
 			{
-				monkerEasterEgg = true;
+				CoolUtil.easterEgg = 'Monker';
 			}
 			if (randomChance > 4 && randomChance < 9 && (SaveData.actTwo || SaveData.clearAllNormal))
 			{
@@ -148,19 +148,18 @@ class TitleState extends MusicBeatState
 			}
 			/*if (randomChance > 8 && randomChance < 14 && SaveData.clearAllNormal)
 			{
-				endEasterEgg = true;
+				CoolUtil.easterEgg = 'End
 			}*/
 			else
 			{
-				endEasterEgg = false;
 				if (randomChance > 8 && randomChance < 19 && SaveData.monikaRouteClear)
 				{
-					classicEasterEgg = true;
+					CoolUtil.easterEgg = 'Classic';
 					curWacky = FlxG.random.getObject(getSecretIntroTextTrash());
 				}
 				else
 				{
-					classicEasterEgg = false;
+					CoolUtil.easterEgg = 'None';
 					curWacky = FlxG.random.getObject(getIntroTextTrash());
 				}
 			}
@@ -219,7 +218,7 @@ class TitleState extends MusicBeatState
 			}
 		}
 
-		if (endEasterEgg)
+		if (CoolUtil.easterEgg == 'End')
 			Conductor.changeBPM(156);
 		else
 			Conductor.changeBPM(101);
@@ -228,11 +227,11 @@ class TitleState extends MusicBeatState
 
 		if (ghostMenuEasterEgg)
 			sprSuffix = "ghost";
-		else if (classicEasterEgg)
+		else if (CoolUtil.easterEgg == 'Classic')
 			sprSuffix = "classic";
-		else if (endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			sprSuffix = "end";
-		else if (monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			sprSuffix = "OG";
 
 		persistentUpdate = true;
@@ -297,14 +296,14 @@ class TitleState extends MusicBeatState
 		add(sayoriTitle);
 		add(natsukiTitle);
 		add(monikaTitle);
-		if (!classicEasterEgg)
+		if (CoolUtil.easterEgg != 'Classic')
 		{
 			add(gfTitle);
 			add(jrTitle);
 			add(bfTitle);
 		}
 
-		if (classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 		{
 			logoBl = new FlxSprite(-100, -320).loadGraphic(Paths.image('mainmenu/og-logo'));
 			monikaTitle.setGraphicSize(Std.int(monikaTitle.width * 1.3));
@@ -320,7 +319,7 @@ class TitleState extends MusicBeatState
 			natsukiTitle.y = 900;
 			monikaTitle.y = 900;
 		}
-		else if (monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 		{
 			logoBl = new FlxSprite(-100, -390).loadGraphic(Paths.image('mainmenu/previous-logo'));
 		}
@@ -355,9 +354,9 @@ class TitleState extends MusicBeatState
 		add(credGroup);
 		textGroup = new FlxGroup();
 
-		if (classicEasterEgg || ghostMenuEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic' || ghostMenuEasterEgg)
 			blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		else if (endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, 0xFF820000);
 		else
 			blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
@@ -567,7 +566,7 @@ class TitleState extends MusicBeatState
 
 	public static function setDefaultRGB()
 	{
-		if (endEasterEgg)
+		if (CoolUtil.easterEgg == 'End')
 			bgRGB = [0xFFCA1616, 0xFF950000, 0xFF560000];
 		else
 			bgRGB = [0xFFFFFFFF, 0xFFFFDBF0, 0xFFFFBDE1];
@@ -583,7 +582,7 @@ class TitleState extends MusicBeatState
 			sickBeats++;
 			if (!ghostMenuEasterEgg)
 			{
-				if (endEasterEgg)
+				if (CoolUtil.easterEgg == 'End')
 				{
 					switch (curBeat)
 					{
@@ -612,7 +611,7 @@ class TitleState extends MusicBeatState
 							skipIntro();
 					}
 				}
-				else if (classicEasterEgg)
+				else if (CoolUtil.easterEgg == 'Classic')
 				{
 					switch (curBeat)
 					{
@@ -679,7 +678,7 @@ class TitleState extends MusicBeatState
 						case 5:
 							FlxTween.tween(tdSpr, {alpha: 0}, 0.5);
 						case 7:
-							if (monkerEasterEgg)
+							if (CoolUtil.easterEgg == 'Monker')
 							{
 								textNormal1.text = "Monker";
 								FlxTween.tween(textNormal1, {alpha: 1}, 0.5);
@@ -691,7 +690,7 @@ class TitleState extends MusicBeatState
 								FlxTween.tween(textNormal2, {alpha: 1}, 0.5);
 							}
 						case 11:
-							if (monkerEasterEgg)
+							if (CoolUtil.easterEgg == 'Monker')
 							{
 								FlxTween.tween(textNormal1, {alpha: 0}, 0.5);
 								FlxTween.tween(smol, {alpha: 0}, 0.5);
@@ -753,7 +752,7 @@ class TitleState extends MusicBeatState
 				new FlxTimer().start(0.5, function(tmr:FlxTimer)
 				{
 					FlxTween.tween(logoBl, {y: -2}, 1.3, {type:PERSIST, ease:FlxEase.bounceOut});
-					if (classicEasterEgg)
+					if (CoolUtil.easterEgg == 'Classic')
 					{
 						FlxTween.tween(monikaTitle, {y: 320}, 1.1, {type:PERSIST, ease:FlxEase.backInOut});
 						FlxTween.tween(sayoriTitle, {y: 320}, 1.1, {type:PERSIST, ease:FlxEase.backInOut});
@@ -776,7 +775,7 @@ class TitleState extends MusicBeatState
 			else
 			{
 				logoBl.y = -5;
-				if (classicEasterEgg)
+				if (CoolUtil.easterEgg == 'Classic')
 				{
 					monikaTitle.y = 380;
 					sayoriTitle.y = 240;
@@ -785,7 +784,7 @@ class TitleState extends MusicBeatState
 				}
 				else
 				{
-					if (endEasterEgg)
+					if (CoolUtil.easterEgg == 'End')
 					{
 						monikaTitle.y = 240;
 						sayoriTitle.y = 240;

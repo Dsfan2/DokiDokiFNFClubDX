@@ -34,7 +34,7 @@ class StageSelectSubstate extends MusicBeatSubstate
 		add(bg);
 		bg.alpha = 0.6;
 
-		if (TitleState.endEasterEgg)
+		if (CoolUtil.easterEgg == 'End')
 			boxSuffix = '-act3';
 
 		difficultyNum = diff;

@@ -170,7 +170,7 @@ class PlayerSelectMenu extends MusicBeatSubstate
 
 	function changeCharacter()
 	{
-		if (curSelected + 1 == ClientPrefs.playerChar) CoolUtil.makeSecretFile('What runs but doesn\'t move?\nWhat leaks but isn\'t a Zelda Game?\nMy hands are dirty. Time to was \'em.', 'A Riddle');
+		if (curSelected + 1 == ClientPrefs.playerChar) CoolUtil.makeSecretFile("What runs but doesn't move?"+ '\n' + "What leaks but isn't a Zelda Game?" + '\n' + "My hands are dirty. Time to was 'em.", 'A Riddle');
 		switch(curSelected) 
 		{
 			case 0:

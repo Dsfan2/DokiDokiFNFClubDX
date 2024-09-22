@@ -79,11 +79,11 @@ class MainMenuState extends MusicBeatState
 		add(titleBorder);
 
 		var monikaTitle:FlxSprite;
-		if (TitleState.classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 			monikaTitle = new FlxSprite(950, 380).loadGraphic(Paths.image('mainmenu/chars/monika_classic'));
-		else if (TitleState.endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			monikaTitle = new FlxSprite(950, 240).loadGraphic(Paths.image('mainmenu/chars/monika_end'));
-		else if (TitleState.monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			monikaTitle = new FlxSprite(950, 240).loadGraphic(Paths.image('mainmenu/chars/monika_OG'));
 		else
 			monikaTitle = new FlxSprite(950, 240).loadGraphic(Paths.image('mainmenu/chars/monika_menu'));
@@ -92,11 +92,11 @@ class MainMenuState extends MusicBeatState
 		monikaTitle.antialiasing = ClientPrefs.globalAntialiasing;
 
 		var sayoriTitle:FlxSprite;
-		if (TitleState.classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 			sayoriTitle = new FlxSprite(380, 240).loadGraphic(Paths.image('mainmenu/chars/sayori_classic'));
-		else if (TitleState.endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			sayoriTitle = new FlxSprite(570, 240).loadGraphic(Paths.image('mainmenu/chars/sayori_end'));
-		else if (TitleState.monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			sayoriTitle = new FlxSprite(570, 240).loadGraphic(Paths.image('mainmenu/chars/sayori_OG'));
 		else
 			sayoriTitle = new FlxSprite(570, 240).loadGraphic(Paths.image('mainmenu/chars/sayori_menu'));
@@ -105,11 +105,11 @@ class MainMenuState extends MusicBeatState
 		sayoriTitle.antialiasing = ClientPrefs.globalAntialiasing;
 
 		var yuriTitle:FlxSprite;
-		if (TitleState.classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 			yuriTitle = new FlxSprite(500, 90).loadGraphic(Paths.image('mainmenu/chars/yuri_classic'));
-		else if (TitleState.endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			yuriTitle = new FlxSprite(700, 180).loadGraphic(Paths.image('mainmenu/chars/yuri_end'));
-		else if (TitleState.monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			yuriTitle = new FlxSprite(700, 185).loadGraphic(Paths.image('mainmenu/chars/yuri_OG'));
 		else
 			yuriTitle = new FlxSprite(700, 185).loadGraphic(Paths.image('mainmenu/chars/yuri_menu'));
@@ -118,11 +118,11 @@ class MainMenuState extends MusicBeatState
 		yuriTitle.antialiasing = ClientPrefs.globalAntialiasing;
 
 		var natsukiTitle:FlxSprite;
-		if (TitleState.classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 			natsukiTitle = new FlxSprite(670, 140).loadGraphic(Paths.image('mainmenu/chars/natsuki_classic'));
-		else if (TitleState.endEasterEgg)
+		else if (CoolUtil.easterEgg == 'End')
 			natsukiTitle = new FlxSprite(830, 230).loadGraphic(Paths.image('mainmenu/chars/natsuki_end'));
-		else if (TitleState.monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			natsukiTitle = new FlxSprite(830, 260).loadGraphic(Paths.image('mainmenu/chars/natsuki_OG'));
 		else
 			natsukiTitle = new FlxSprite(830, 260).loadGraphic(Paths.image('mainmenu/chars/natsuki_menu'));
@@ -135,7 +135,7 @@ class MainMenuState extends MusicBeatState
 		add(natsukiTitle);
 		add(monikaTitle);
 
-		if (TitleState.classicEasterEgg)
+		if (CoolUtil.easterEgg == 'Classic')
 		{
 			logoBl = new FlxSprite(-100, 0).loadGraphic(Paths.image('mainmenu/og-logo'));
 			monikaTitle.setGraphicSize(Std.int(monikaTitle.width * 1.5));
@@ -143,7 +143,7 @@ class MainMenuState extends MusicBeatState
 			yuriTitle.setGraphicSize(Std.int(yuriTitle.width * 1.1));
 			natsukiTitle.setGraphicSize(Std.int(natsukiTitle.width * 1.1));
 		}
-		else if (TitleState.monkerEasterEgg)
+		else if (CoolUtil.easterEgg == 'Monker')
 			logoBl = new FlxSprite(-100, 0).loadGraphic(Paths.image('mainmenu/previous-logo'));
 		else
 			logoBl = new FlxSprite(-100, 0).loadGraphic(Paths.image('mainmenu/update-logo'));
@@ -188,10 +188,10 @@ class MainMenuState extends MusicBeatState
 		if (leDate.getDay() == 5 && leDate.getHours() >= 18)
 			Achievements.unlock('friday_night_play');
 
-		if (TitleState.classicEasterEgg) Achievements.unlock('classic_menu');
+		if (CoolUtil.easterEgg == 'Classic') Achievements.unlock('classic_menu');
 		if (SaveData.seenGhost) Achievements.unlock('ghost_menu');
-		if (TitleState.monkerEasterEgg && !TitleState.endEasterEgg && !TitleState.classicEasterEgg) Achievements.unlock('monker_appear');
-		if (TitleState.endEasterEgg) Achievements.unlock('end_menu');
+		if (CoolUtil.easterEgg == 'Monker') Achievements.unlock('monker_appear');
+		if (CoolUtil.easterEgg == 'End') Achievements.unlock('end_menu');
 		#end
 
 		super.create();

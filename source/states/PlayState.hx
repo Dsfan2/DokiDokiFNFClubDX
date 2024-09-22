@@ -3960,7 +3960,7 @@ class PlayState extends MusicBeatState
 		for (i in CoolUtil.bonusSongs)
 		{
 			if (SaveData.regularCleared.contains(i)) bonnum++;
-			if (bonnum >= 16) {
+			if (bonnum >= 10) {
 				SaveData.clearAllBonus = true;
 				SaveData.bonusSongs = 10;
 			}
@@ -4306,8 +4306,8 @@ class PlayState extends MusicBeatState
 
 			CustomFadeTransition.isHeartTran = true;
 
-			if (songName == 'respect' && songMisses < 1) CoolUtil.makeSecretFile('PoemCupcake\n\n\nI don\'t ship Monika with the other Dokis btw...', 'Monsuki');
-			if (songName == 'malnourished' && songMisses < 1) CoolUtil.makeSecretFile('IT\'S THE [File name] YOU [Funky] LITTLE [Worm]!', '1997');
+			if (songName == 'respect' && songMisses < 1) CoolUtil.makeSecretFile('PoemCupcake\n\n\n' + "I don't ship Monika with the other Dokis btw...", 'Monsuki');
+			if (songName == 'malnourished' && songMisses < 1) CoolUtil.makeSecretFile("IT'S THE [File name] YOU [Funky] LITTLE [Worm]!", '1997');
 			if (songName == 'revelation') CoolUtil.makeSecretFile('What was Revelation called in the previous version of this mod?', 'A question');
 
 			if (isStoryMode)
@@ -4370,9 +4370,8 @@ class PlayState extends MusicBeatState
 						if (ClientPrefs.playerChar != 3 && curSong.toLowerCase() == 'script error')
 						{
 							if (ClientPrefs.playerChar == 1) CoolUtil.makeSecretFile('Not bad, for an _________!', 'Funkin Clue');
-							if (ClientPrefs.playerChar == 2) CoolUtil.makeSecretFile('Game of origin: Bowser\'s Block Party', 'Mario Clue');
+							if (ClientPrefs.playerChar == 2) CoolUtil.makeSecretFile("Find the game of origin - Bowser's Block Party", 'Mario Clue');
 							openSubState(new CustomFadeTransition(0.4, false, new CreditsState()));
-							CoolUtil.playMusic(CoolUtil.getTitleTheme());
 						}
 						else
 						{
@@ -4386,7 +4385,6 @@ class PlayState extends MusicBeatState
 							{
 								if (curSong.toLowerCase() == 'system failure')
 								{
-									CoolUtil.makeSecretFile('Monika\'s favorite song', 'Monika\'s Clue');
 									FlxG.sound.music.stop();
 									vocals.stop();
 									playervox.stop();
@@ -4461,9 +4459,9 @@ class PlayState extends MusicBeatState
 				if (!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false))
 				{
 					if (songName == 'poem-panic' && songMisses < 1) CoolUtil.makeSecretFile('{ERROR: Contents of file redacted by admin. Contact admin "darkXwolf17"}', 'solver_install');
-					if (songName == 'your-reality' && songMisses < 1) CoolUtil.makeSecretFile('Congratulations! You\'re one year older! Wishing you all the best!\nMay your year be filled with many blessings!\n-Love, Blabbot\n\nC C D C F E', 'Birthday Card');
-					if (songName == 'yuri-is-a-raccoon' && songMisses < 1) CoolUtil.makeSecretFile('I\'ve been watching this skateboard YouTuber, skaterboi360.\nIn his latest video, he was trying to do some skateboarding tricks, but his shoelace got caught on one of the wheels and he ended up falling off.\nFunniest thing I\'ve seen today lol XD', 'Funny Video');
-					if (SaveData.clearAllNormal && SaveData.clearAllClassic && SaveData.clearAllBonus) CoolUtil.makeSecretFile('The most popular DDLC Mod that isn\'t Blue Skies.', 'The story ends');
+					if (songName == 'your-reality' && songMisses < 1) CoolUtil.makeSecretFile("Congratulations! You're one year older! Wishing you all the best!" + '\nMay your year be filled with many blessings!\n-Love, Blabbot\n\nC C D C F E', 'Birthday Card');
+					if (songName == 'yuri-is-a-raccoon' && songMisses < 1) CoolUtil.makeSecretFile("I've been watching this skateboard YouTuber," + 'skaterboi360.\nIn his latest video, he was trying to do some skateboarding tricks, but his shoelace got caught on one of the wheels and he ended up falling off.\n' + "Funniest thing I've seen today lol XD", 'Funny Video');
+					if (SaveData.clearAllNormal && SaveData.clearAllClassic && SaveData.clearAllBonus) CoolUtil.makeSecretFile("The most popular DDLC Mod that isn't Blue Skies.", 'The story ends');
 				}
 
 				if (!ClientPrefs.freeplayCutscenes)
@@ -4576,6 +4574,7 @@ class PlayState extends MusicBeatState
 
 		if (route == 3 && isStoryMode && !isBadEnding)
 		{
+			CoolUtil.makeSecretFile("Monika's favorite song", "Doki Clue");
 			SaveData.sayoriDeaths++;
 			checkSongClear();
 			if (!storyFreeplay) routeCheck();

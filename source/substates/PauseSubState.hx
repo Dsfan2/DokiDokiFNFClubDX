@@ -269,7 +269,7 @@ class PauseSubState extends MusicBeatSubstate
 		}
 		if (FlxG.mouse.overlaps(p2Icon) && FlxG.mouse.justPressed && p2Icon.getCharacter() == 'natsuki' && PlayState.SONG.song.toLowerCase() == 'anime')
 		{
-			CoolUtil.makeSecretFile('Who\'s the vocaloid idol from out of this world?\nBlue hair in your face, the world is her\'s!\nIf Japanese Japes are something you wish...\nThen put your hands up and make them go swish!', 'Are you a weeb');
+			CoolUtil.makeSecretFile("Who's the vocaloid idol from out of this world?" + '\n' + "Blue hair in your face, the world is her's!" + '\nIf Japanese Japes are something you wish...\nThen put your hands up and make them go swish!', 'Are you a weeb');
 		}
 	}
 

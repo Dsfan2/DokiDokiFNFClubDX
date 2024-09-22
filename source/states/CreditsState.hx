@@ -109,6 +109,9 @@ class CreditsState extends MusicBeatState
 		FlxG.cameras.add(camText, false);
 		FlxG.cameras.setDefaultDrawTarget(camMain, true);
 
+		FlxG.sound.music.stop();
+		CoolUtil.playMusic('Credits');
+
 		TitleState.setDefaultRGB();
 		var titleBg:DDLCBorderBG;
 		titleBg = new DDLCBorderBG(Paths.image('mainmenu/rgbBg'), -40, -40);
@@ -172,6 +175,8 @@ class CreditsState extends MusicBeatState
 			{
 				if (!selectedSomethin) {
 					FlxG.sound.play(Paths.sound('cancelMenu'));
+					FlxG.sound.music.stop();
+					CoolUtil.playMusic(CoolUtil.getTitleTheme());
 					openSubState(new CustomFadeTransition(0.6, false, new ExtraStuffState()));
 					quitting = true;
 				}

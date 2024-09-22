@@ -28,7 +28,7 @@ class FreeplaySelect extends MusicBeatSubstate
 		add(bg);
 		bg.alpha = 0.6;
 
-		if (TitleState.endEasterEgg)
+		if (CoolUtil.easterEgg == 'End')
 			boxSuffix = '-act3';
 
 		box = new FlxSprite(0, 0).loadGraphic(Paths.image('blankPopup' + boxSuffix));
