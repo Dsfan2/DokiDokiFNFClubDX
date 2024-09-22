@@ -1,0 +1,19 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Monika::Yay::R::"Sounds like you still got it Natsuki!"
+Monika::Normal::R::
+Natsuki::Sass::L::"I've always had it Monika."
+Natsuki::Normal::L::
+Monika::Normal::R::"I assume you'd be a bit rusty since you haven't done something like this in years."
+Natsuki::Pose::L::"Well...I...It's..."
+Natsuki::Pose::L::"It's a little, embarrassing to say..."
+Sayori::Point::M::"Well, anything you have to say, you can say in front of us!"
+Sayori::Normal::M::
+Natsuki::Pose::L::"Well, I tend to sing into my bar of soap in the shower."
+Sayori::Pose::M::"Hey! So do I!"
+Sayori::Normal::M::
+Natsuki::Normal::L::"Really? Well, glad to know I'm not the only one that does that."
+Monika::Sass::R::"So, do you want to go again Natsuki?"
+Monika::Normal::R::
+Natsuki::Happy::L::"Uh...Sure...I guess I could go for another song."
+Natsuki::Normal::L::"I've kind of forgotten how much fun this was..."

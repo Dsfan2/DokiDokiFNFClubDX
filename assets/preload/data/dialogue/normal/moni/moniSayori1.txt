@@ -1,0 +1,11 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Pose::L::"Wow, Monika! You did amazing!"
+Sayori::Normal::L::
+Monika::Yay::R::"Thanks! Usually I play piano while I sing, but this isn't a bad change of pace."
+Monika::Normal::R::"Well anyways, now that I have finished, who wants to sing with me first?"
+Sayori::Pose::L::"Ooh! I can!"
+Sayori::Normal::L::
+Monika::Pose::R::"Okay then Sayori! Go for it!"
+Monika::Normal::R::
+Sayori::Point::L::"Yeah! Let's go!"

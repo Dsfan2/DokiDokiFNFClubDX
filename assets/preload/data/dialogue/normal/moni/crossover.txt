@@ -1,0 +1,46 @@
+@bg::fade
+@startmusic::DDTO
+Monika::Confused::L::"H...Huh?"
+Monika::Confused::L::"What happened?"
+Monika (DDTO)::Worried::R::"I was gonna ask you the same thing."
+Monika::Scared::L::"Wh...What?!"
+Monika::Scared::L::"Why do you look like me? But taller, and with longer hair?"
+Sayori (DDTO)::Normal::R::
+Sayori::Pose::L::"Wow! This is actually kinda cool!"
+Sayori (DDTO)::Happy::R::"I know! It's like looking at a funhouse mirror!"
+Yuri (DDTO)::Normal::R::
+Yuri::Pose::L::"This is... interesting... Are you... another me?"
+Yuri (DDTO)::Nervous::R::"This is... kind of starting to freak me out a little bit."
+Natsuki (DDTO)::Normal::R::
+Natsuki::Pose::L::"What the heck is this?! Identity fraud?!"
+Natsuki (DDTO)::Angry::R::"I was gonna ask you the same thing! You literally look like an impersonator!"
+Monika (DDTO)::Normal::R::
+Monika::Confused::L::"So uh... Who are you guys?"
+Monika (DDTO)::Speak::R::"Uh... We're the literature club."
+Monika (DDTO)::Normal::R::
+Sayori::Pose::L::"No way! We're the literature club too!"
+Natsuki (DDTO)::Angry::R::"Hey! There's only ONE literature club here!"
+Natsuki (DDTO)::Angry::R::"You copycats have to go!"
+Sayori::Upset::L::"Hey! I don't like being called that! :("
+Natsuki::Angry::L::"We aren't the copycats here! YOU ARE!"
+Sayori (DDTO)::Upset::R::"Uh, guys, I don't like this fighting..."
+Yuri::Nervous::L::"Neither do I..."
+Yuri (DDTO)::Nervous::R::"Can we resolve this in a more... mature way?"
+Monika::Sad::L::"Hmmm..."
+Monika::Normal::L::"Maybe... We can have a rap battle!"
+Monika (DDTO)::Normal::R::"A rap battle..."
+Sayori::Point::L::"Yeah! That's a great idea! An 8-way rap battle!"
+Natsuki::Normal::L::"Huh... Now that's an idea I can get behind."
+Yuri::Pose::L::"Is this okay with you guys?"
+Monika (DDTO)::Speak::R::"Yeah. We've done rap battles before."
+Monika::Normal::L::"Wait... Really?"
+Sayori (DDTO)::Normal::R::"Yeah! We've done rap battles before, so we know what we're getting ourselves into."
+Yuri (DDTO)::Cool::R::"Even I have to admit... Rap battles are more enjoyable than I thought."
+Yuri (DDTO)::Normal::R::"But how would an 8-way rap battle even work?"
+Monika::Pose::L::"Perhaps... Two of us can take turns rap battling each other."
+Monika (DDTO)::Speak::R::"That seems like it could work!"
+Natsuki (DDTO)::Cocky::R::"Heh... We all know that I'm the best at rap battles!"
+Natsuki::Sass::L::"Heh... We'll see about that!"
+Monika (DDTO)::Normal::R::
+Monika::Pose::L::"Anyway... Are you guys ready to start?"
+Monika (DDTO)::Speak::R::"Alright! Let the 8-way rap battle begin!"

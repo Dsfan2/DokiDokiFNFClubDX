@@ -1,0 +1,36 @@
+@bg::club
+Sayori::Upset::L::"Hmmm, I wonder where Monika is?"
+Yuri::Pose::M::"Yeah. It's not like her to be late."
+@startmusic::Monika-Theme
+Monika::Pose::R::"Hey everyone! Sorry I'm late!"
+Sayori::Pose::L::"Monika! You're here! I was starting to think you wouldn't show up!"
+Natsuki::Pose::M::"Yeah Monika, what took you so long?"
+Monika::Normal::R::"I was...uh...practicing piano, and I kinda lost track of time."
+Sayori::Pose::L::"Ooh! You can play piano Monika? You should really play for us sometime!"
+Monika::Pose::R::"Yeah, but I guess right now we should begin our club meeting."
+Yuri::Pose::L::"So...uh...what should we do today."
+Monika::Confused::R::"Yeah...I still haven't figured that out yet..."
+Monika::Confused::R::"We've done a lot of stuff over the last few days..."
+Monika::Confused::R::"We wrote poems and shared them with each other, we talked about our favorite books..."
+Monika::Confused::R::"I'm still at a loss on what we should do today..."
+Sayori::Point::L::"Well, maybe you can play the piano for us then..."
+Sayori::Normal::L::
+Monika::Confused::R::"Wait a sec...Sayori..."
+Monika::Happy::R::"That's it!"
+Monika::Normal::R::
+Sayori::Normal::L::"It is?"
+Monika::Pose::R::"Music is a unique form of literature!"
+Monika::Pose::R::"So maybe we can have singing battles with each other!"
+Monika::Normal::R::
+Sayori::Pose::L::"Ooh! I like the sound of that!"
+Monika::Pose::R::"Glad you're on board with it Sayori! How about you two?"
+Monika::Normal::R::
+Yuri::Nervous::M::"Uhhhh..."
+Natsuki::Upset::L::"Do we really have to?"
+Monika::Normal::R::"How about this, I'll do a solo first to kind of encourage you guys."
+Natsuki::Pose::L::"I guess that'll be okay. But don't we need music first?"
+Monika::Pose::R::"It's a good thing I keep speakers in the closet!"
+Monika::Normal::R::
+Yuri::Pose::M::"Since when have we had speakers in the closet?"
+Monika::Normal::R::"There's a lot about me you guys don't know."
+Monika::Pose::R::"Anyways, please turn on the music."

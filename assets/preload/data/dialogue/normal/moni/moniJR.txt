@@ -1,0 +1,16 @@
+@bg::hall
+@startmusic::Club-Theme
+BF::Speak::R::"I gotta say, you did really amazing Monika. And that's saying a lot, I've face a lot of people throughout my journeys."
+BF::Normal::R::
+Monika::Yay::L::"Thanks. I mean, I was just singing with my club members a while ago."
+Monika::Normal::L::
+Bowser Jr::Speak::M::"Alright Boyfriend. Out of the way. It's my turn to sing now!"
+Bowser Jr::Normal::M::
+BF::Worried::R::"Uhh... You want to sing now?"
+Bowser Jr::Sass::M::"Yeah! I could use a bit of a singing rehersal for my Dad's Epic Wonder Concert!"
+Bowser Jr::Normal::M::
+Monika::Pose::L::"Oh, you wanna sing with me next Bowser Jr?"
+Monika::Normal::L::
+Bowser Jr::Sass::M::"Yeah! Just so you know, I'm pretty good at this."
+Bowser Jr::Normal::M::
+Monika::Sass::L::"Ahaha~ Let's just see for ourselves, shall we?"

@@ -1,0 +1,9 @@
+@bg::spaceroom
+@startmusic::Act-Three
+Monika::JM-Giga::M::"Hello, {USERNAME}."
+Monika::JM-Giga::M::"You know, you're not supposed to be here."
+Monika::JM-Giga::M::"Are you just looking for hidden Easter Eggs in the dialogues for songs that didn't appear in a character's route?"
+Monika::JM-Giga::M::"Well, I regret to inform you, there is no hidden dialogue for any songs that didn't appear in a specific character's route."
+Monika::JM-Giga::M::"If I'm honest, searching through all these songs as other characters is kind of a waste of time if you ask me."
+Monika::JM-Giga::M::"You'd probably be better off looking through the game files."
+Monika::JM-Giga::M::"That is all I wanted to say. Have a nice weekend!"

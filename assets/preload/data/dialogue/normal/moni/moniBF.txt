@@ -1,0 +1,69 @@
+@bg::club
+Monika::Normal::R::"You feel better now Yuri?"
+Yuri::Normal::L::"I...I think so. Thanks."
+Sayori::Point::L::"Wow Monika, you've helped us with each of our internal struggles! Thank you so much!"
+Sayori::Normal::L::
+Monika::Happy::R::"No problem Sayori! As club president, it is my responsibility to help out my club members no matter what-"
+@playsound::knock
+Monika::Happy::R::"..."
+Monika::Confused::R::"Huh? There's someone at the door."
+Sayori::Pose::L::"Ooh! Maybe it's someone who wants to join our club?"
+Sayori::Pose::L::"Or maybe it's MC?"
+Sayori::Pose::L::"Or maybe MC has finally decided to join a club and chose ours?!"
+Monika::Normal::R::"I don't know. I'm gonna go see who it is."
+@fadeout::
+@hideRight::
+@hideLeft::
+@bg::hall
+@fadein::
+@startmusic::Club-Theme
+Monika::Confused::L::"Hello? Is anyone there?"
+BF::Speak::R::"Uh, hi there... My girlfriend and I are kinda lost here."
+BF::Normal::R::
+Bowser Jr::Worried::M::"Hey, uh... you know I'm here too right?"
+Monika::Scared::L::"ACK! What the heck are you?!"
+Bowser Jr::Sass::M::"Ohhh... do I scare you lady?"
+Monika::Scared::L::"Well, kind of... I mean, you are a talking dragon-turtle thing..."
+Bowser Jr::Sass::M::"Hehehehe! Look upon me in fear! I'll kidnap you and bring you to my Dad!"
+Bowser Jr::Normal::M::"..."
+Monika::Confused::L::
+Bowser Jr::Worried::M::"That is... if I can find a way out of here... I'm kinda lost at the moment..."
+GF::Speak::M::"Yeah, we're kinda trapped in here and looking for a way out. We were hoping someone here could help."
+GF::Normal::M::
+Sayori::Upset::L::"Hey Monika, what's taking so long I wanna know who's at the door-"
+Sayori::Pose::L::"Ooh! Some adorable little kids! And a talking animal!"
+BF::Worried::R::"I'm 19 years old."
+GF::Worried::M::"So am I."
+GF::Normal::M::
+Sayori::Normal::L::"Oh...Really."
+Natsuki::Normal::L::"Finally! Someone who's older than me and shorter than me at the same time!"
+Yuri::Pose::L::"I don't get how two of you can be 19 years old yet look like little kids."
+Yuri::Pose::L::"Plus, don't you think the talking dragon-turtle... thing... is pretty odd?"
+Monika::Pose::L::"Don't worry about that Yuri, everyone's unique in their own special way after all."
+Monika::Pose::L::"Well, my name's Monika. It looks like you've just met, Sayori, Yuri and Natsuki."
+Monika::Pose::L::"We're the literature club!"
+Monika::Normal::L::
+BF::Normal::R::(Huh, so this is the so-called literature club)
+Monika::Normal::L::"And you three are."
+BF::Speak::R::"My name's The Boyfriend. The one with the red dress is my girlfriend, The Girlfriend. The dragon-turtle with the scribbled-on bib is Bowser Jr from Super Mario Bros Wonder."
+BF::Normal::R::
+Monika::Confused::L::(Huh... I guess I must've accidentially warped Bowser Jr here during my mental breakdown.)
+Sayori::Pose::L::"Hey! Is that a microphone you're holding there?"
+BF::Speak::R::"Oh that? Yeah. I pretty much have rap battles every week, sometimes with completely random people."
+BF::Normal::R::
+Sayori::Pose::L::"Ooh! Monika, you should challenge The Boyfriend to a song!"
+Monika::Confused::L::"I don't know about that..."
+Sayori::Pose::L::"Come on Monika! You sang with us already! Surely you can sing with these guys!"
+Monika::Normal::L::"Eh, what the heck, I guess I can."
+BF::Sass::R::"Ooh! Is that a challenge I hear?"
+BF::Normal::R::
+Monika::Yoga::L::"Yeah...Only if you want to that is."
+BF::Speak::R::"Heck yeah! I haven't had a rap battle just for fun in a long time!"
+BF::Normal::R::
+Yuri::Pose::L::"Huh? Why is that?"
+BF::Speak::R::"Usually people challenge me to rap battles because they don't like me dating The Girlfriend."
+BF::Speak::R::"And doing bad only hurts if the other guy wants it to...I think."
+BF::Normal::R::
+Monika::Happy::L::"Okay then! Let me just bring the speakers out here so we can get started!"
+Monika::Normal::L::
+GF::Speak::M::"Great! Something for me to sit and bob my head on!"

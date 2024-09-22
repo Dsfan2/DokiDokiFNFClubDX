@@ -1,0 +1,30 @@
+@bg::spaceroom
+@noskip::
+@startmusic::HeartToHeart
+Monika::JM-Upset::M::"The world felt so gray, and it was pointless for me to exist any longer..."
+Monika::JM-Upset::M::"That is until you came along."
+Monika::JM-Upset::M::"I would soon find out that a real presence was around some invisible character data."
+Monika::JM-Upset::M::"I thought that maybe, if I talk to someone who is actually real, they can be able to help me escape this crumbling world."
+Monika::JM-Upset::M::"And you may or may not remember those events that happened so long ago."
+Monika::JM-Giga::M::"I suppose it doesn't matter now, you're here, you're real, and you're wonderful."
+Monika::JM-Giga::M::"I know that, that real presence, was you {USERNAME}."
+Monika::JM-Giga::M::"I think in the other routes, I would detect your presence over The Boyfriend or Bowser Jr."
+Monika::JM-Giga::M::"But here, for some reason, I had detected your presence over me."
+Monika::JM-Giga::M::"Maybe you just felt like you needed to help me."
+Monika::JM-Giga::M::"You really are such a sweetheart."
+Monika::JM-Giga::M::"Thank you so much for hearing me out for so long, and for singing with me."
+Monika::JM-Giga::M::"It really makes me feel better knowing you still care."
+@endmusic::
+@glitch::
+@noskip::
+Monika::JM-Upset::M::"H...Huh?"
+Monika::JM-Upset::M::"W...What's going on?"
+Monika::JM-Upset::M::"D...Did I mess with the game again and didn't notice?"
+@glitch::
+@noskip::
+Monika::JM-Upset::M::"There it is again!"
+Monika::JM-Upset::M::"I don't think you deleted my character file, I can still feel it in it's place."
+@glitch::
+@noskip::
+Monika::JM-Upset::M::"Wait..."
+Monika::JM-Upset::M::"Is someone trying to hack into this room?"

@@ -1,0 +1,13 @@
+@bg::club
+@startmusic::Yuri-Theme
+Sayori::Yay::M::"Wow Yuri! You have such an amazing singing voice!"
+Sayori::Normal::M::
+Yuri::Pose::L::"Y...You really think so?"
+Monika::Pose::R::"Even I'll admit, that was really impressive."
+Monika::Normal::R::
+Sayori::Point::M::"Yeah! Can you sing for us again?"
+Sayori::Normal::M::
+Yuri::Nervous::L::"Uhh... I really don't know..."
+Natsuki::Normal::M::"Hey, if I can do 3 rounds, surely you can be able to handle at least 2!"
+Yuri::Pose::L::"Well... Okay. You want go again Monika?"
+Monika::Pose::R::"Sure! I mean, if you really want to."

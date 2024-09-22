@@ -1,0 +1,25 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Normal::L::"That was pretty good Monika. Better than before..."
+Monika::Confused::R::"Are you doing okay Sayori?"
+@endmusic::
+Sayori::Normal::L::"I'm fine Monika. I'm perfectly fine."
+Monika::Confused::R::"Sayori... I can tell you're not perfectly fine."
+Monika::Confused::R::"You know you can tell me anything, right?"
+Sayori::Upset::L::"..."
+Sayori::Upset::L::"It's just..."
+@startmusic::Comforting
+Sayori::Depress::L::"I know I'm... supposed to be happy... but... I don't feel happy..."
+Sayori::Depress::L::"The rain clouds... they won't... go away..."
+Monika::Sad::R::"Sayori... I..."
+Sayori::Depress::L::"I keep having these... really nasty thoughts..."
+Sayori::Depress::L::"Like... Why go to school?"
+Sayori::Depress::L::"Why eat?"
+Sayori::Depress::L::"Why make friends?"
+Sayori::Depress::L::"Why do anything when we're all just worthless?"
+Sayori::Depress::L::"Especially me..."
+Monika::Sad::R::"S-Sayori! That's not true!"
+Monika::Sad::R::"You're just as important as every one of us!"
+Monika::Confused::R::"..."
+Monika::Normal::R::"Hey, do you want to do one more song to get that off your mind?"
+Sayori::Normal::L::"Y-yeah... I like the sound of that..."

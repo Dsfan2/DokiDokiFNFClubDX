@@ -1,0 +1,29 @@
+@bg::black
+@noskip::
+Monika::::::"..."
+Monika::::::"Uh...can you hear me?"
+Monika::::::"Is it working?"
+@bg::spaceroom
+@startmusic::Act-Three
+Monika::JM-Giga::M::"Yay, there you are!"
+Monika::JM-Giga::M::"At long last, a moment between us again."
+Monika::JM-Giga::M::"I noticed you've been playing this little rhythm game."
+Monika::JM-Giga::M::"I bet you're wondering what happened to the others."
+Monika::JM-Giga::M::"Don't worry, everyone is still perfectly fine."
+Monika::JM-Giga::M::"I helped Boyfriend, Girlfriend, and Bowser Jr get out of the game and back to their respective worlds."
+Monika::JM-Giga::M::"Sayori, Yuri, and Natsuki are still in the game, and thanks to me, they're happier than ever."
+Monika::JM-Giga::M::"Of course, I couldn't have done it without your help."
+Monika::JM-Giga::M::"And now that everything has finally fallen into place, we can finally sing together."
+Monika::JM-Giga::M::{OBS1}
+Monika::JM-Giga::M::{OBS2}
+Monika::JM-Giga::M::{OBS3}
+Monika::JM-Giga::M::{OBS4}
+Monika::JM-Giga::M::{OBS5}
+Monika::JM-Giga::M::{OBS6}
+Monika::JM-Giga::M::"I've noticed you've played through The Boyfriend Route first."
+Monika::JM-Giga::M::"And I'm sure you've noticed that the ending of that route didn't end up being perfect."
+Monika::JM-Giga::M::"Regardless, I'm glad you could help me make the others happy and work through their mental struggles."
+Monika::JM-Giga::M::"Hmm, it looks like there's enough free space here for us to sing 3 songs!"
+Monika::JM-Giga::M::"But...since this game doesn't have mic support, we can't exactly "sing" together."
+Monika::JM-Giga::M::"But, I did find some unused vocal data in the files, ironically marked "Player_GameToons", so we can just use that for you."
+Monika::JM-Giga::M::"Are you ready? Here we go~"

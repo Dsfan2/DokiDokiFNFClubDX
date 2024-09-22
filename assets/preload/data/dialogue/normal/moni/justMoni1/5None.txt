@@ -1,0 +1,7 @@
+Monika::JM-Giga::M::"But, I did find some unused vocal data in the files that we can use for you."
+Monika::JM-Giga::M::"However..."
+Monika::JM-Giga::M::"I'm unsure if you wanted to sound like a boy or a girl."
+Monika::JM-Giga::M::"So, I want to hear it straight from you..."
+Monika::JM-Giga::M::"Do you prefer a masculine voice, or a feminine voice?"
+Monika::JM-Giga::M::"And don't worry, you can change this later in the settings."
+Monika::JM-Giga::M::"So, which voice do you prefer?"

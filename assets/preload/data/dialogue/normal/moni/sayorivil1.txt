@@ -1,0 +1,42 @@
+@bg::glitch
+@startmusic::Sayorivil
+@noskip::
+@edit-font::
+Sayori::Evil3::L::"Aha! There you are! I should've know you would've been here Monika!"
+Sayori::Evil1::L::"And by the looks of things, you're already hogging {USERNAME} to yourself!"
+@normal-font::
+Monika::JM-Upset::M::"S...Sayori?! W...What happened to you?"
+@edit-font::
+Sayori::Evil2::L::"That's not important!"
+Sayori::Evil3::L::"Monika, you're gonna pay for everything you have done to me, Yuri, and Natsuki!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"Hold on...I...I didn't!"
+@edit-font::
+Sayori::Evil2::L::"Oh I understand your goal, Monika!"
+Sayori::Evil2::L::"You wanted to have {USERNAME} all for yourself, so you deleted everyone else!"
+@glitch::
+@noskip::
+Sayori::Evil3::L::"You are the most selfish person I've ever met, Monika!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"..."
+Monika::JM-Upset::M::"No..."
+@edit-font::
+Sayori::Evil1::L::"..?"
+@normal-font::
+Monika::JM-Rage::M::"I never deleted or messed with any of you guys! I helped you all with your personal struggles!"
+Monika::JM-Rage::M::"Something is clearly wrong with you, Sayori!"
+@edit-font::
+Sayori::Evil1::L::"..."
+Sayori::Evil4::L::"Well...too bad! Thanks to my self-awareness and elevated access being on the same level as your's..."
+Sayori::Evil4::L::"I can do...whatever I want...whenever I want..."
+Sayori::Evil1::L::"So, how about a little wager..."
+Sayori::Evil1::L::"If you can beat me, I'll leave you all be..."
+Sayori::Evil4::L::"But if you lose, I'll delete you, and {USERNAME} will be my soulmate for the rest of eternity!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Rage::M::"..."
+Monika::JM-Rage::M::"I guess I have no choice, but to unleash my true form!"
+Monika::JM-Rage::M::"Just know that I'm doing this, because I care about you!"
+Monika::JM-Rage::M::"{USERNAME}, I can't do this alone. I need your help one last time."

@@ -1,0 +1,32 @@
+@bg::club
+@startmusic::Yuri-Theme
+Monika::Yay::R::"I gotta say Yuri, you've got some really good vocal chords!"
+Monika::Normal::R::
+@endmusic::
+Yuri::Nervous::L::"..."
+Monika::Confused::R::"Y...Yuri? You okay?"
+Yuri::Nervous::L::"I... Uh..."
+@startmusic::Comforting
+Yuri::Nervous::L::"What you said about me was the first non-awkward thing someone has said about who I am."
+Monika::Confused::R::"What?"
+Yuri::Nervous::L::"Lately, a lot of people, especially boys, have been looking at me funny."
+Yuri::Nervous::L::"They kept saying that I am "thicc" with 2 C's...And that they want me to sit on their face or squash their head with my thighs."
+Monika::Scared::R::"..."
+Yuri::Ahh::L::"I think it has something to do with how I look."
+Yuri::Ahh::L::"I can't help how I look. Why do a lot of people then give me perverted looks all the time?"
+Yuri::Pose::L::
+Monika::Sad::R::"..."
+Monika::Sad::R::"You're not the only one Yuri, that used to happen with me all the time."
+Monika::Sad::R::"There are a lot of people that see us not as people, but as tools for their own twisted desires."
+Monika::Sad::R::"I found that the best way to deal with these kinds of things is to just ignore those people."
+Monika::Sad::R::"You shouldn't let anyone tell you who you are because of how you look."
+Monika::Sad::R::"Who you really are is on the inside, and on the inside, I think you're an amazing friend."
+Yuri::Pose::L::"Y...You really think so...?"
+Yuri::Pose::L::"You guys don't view me for how I look?"
+Sayori::Normal::M::"I don't care if you suddenly looked ugly Yuri! We would still be friends with you!"
+Monika::Normal::R::
+Natsuki::Pose::M::"Yeah... what she said..."
+Natsuki::Pose::M::"Just as long as you stop telling me that manga isn't literature, because you're wrong about that!"
+Yuri::Pose::L::"Okay Natsuki, I get the point."
+Yuri::Normal::L::"M...Monika, do you think you can go for another song right about now, just so I can get it all out of my system?"
+Monika::Pose::R::"Sure Yuri! Give it your all!"

@@ -1,0 +1,1 @@
+Monika::JM-Giga::M::"But, I did find some unused vocal data in the files. It was marked as "TRK_Voca_F", so we can just use that for you."

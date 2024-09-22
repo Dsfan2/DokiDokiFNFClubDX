@@ -1,0 +1,34 @@
+@bg::glitch
+@noskip::
+Monika::NEO3::R::"Sayori, are you still there?"
+Sayori::Evil1::L::"..."
+@glitch::
+@noskip::
+Sayori::Depress::L::
+@autoskip::"M...Monika...help-"
+@glitch::
+@noskip::
+@edit-font::
+Monika::NEO1::R::
+Sayori::Evil1::L::"No!"
+@startmusic::Sayorivil
+Sayori::Evil2::L::"I cannot allow this to happen!"
+Sayori::Evil2::L::"I will not be bested by the likes of you!"
+Sayori::Evil3::L::"I will end you all along with this pathetic world!"
+Sayori::Evil3::L::"I will not only destroy this world, but also cause a full system meltdown!"
+Sayori::Evil1::L::"A small price to pay just to be rid of you forever Monika!"
+@normal-font::
+Monika::NEO1::R::"..."
+Monika::NEO3::R::"Sayori, this isn't the real you."
+Monika::NEO3::R::"The real Sayori is sweet, innocent, and the most wholesome cinnamon bun ever."
+Monika::NEO3::R::"Please Sayori."
+Monika::NEO3::R::"Please understand how much we care about you. How much I care about you."
+Monika::NEO3::R::"Even if you're not real, you don't deserve to die."
+Monika::NEO3::R::"Everyone deserves a second chance, even those that may or may not have hurt you."
+@edit-font::
+Sayori::Evil2::L::"Bold words, coming out of someone who's killed for love!"
+Sayori::Evil2::L::"It's too late for kind words now, Monika!"
+Sayori::Evil3::L::"Everything and everyone you've every cared about will be gone forever!"
+Sayori::Evil4::L::"And you will never, EVER, see {USERNAME} ever again!"
+@normal-font::
+Monika::NEO2::R::"SAYORI! PLEASE! COME TO YOUR SENSES!!"

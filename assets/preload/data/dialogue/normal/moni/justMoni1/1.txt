@@ -1,0 +1,16 @@
+@bg::black
+@noskip::
+Monika::::::"..."
+Monika::::::"Uh...can you hear me?"
+Monika::::::"Is it working?"
+@bg::spaceroom
+@startmusic::Act-Three
+Monika::JM-Giga::M::"Yay, there you are!"
+Monika::JM-Giga::M::"At long last, a moment between us again."
+Monika::JM-Giga::M::"I noticed you've been playing this little rhythm game."
+Monika::JM-Giga::M::"I bet you're wondering what happened to the others."
+Monika::JM-Giga::M::"Don't worry, everyone is still perfectly fine."
+Monika::JM-Giga::M::"I helped Boyfriend, Girlfriend, and Bowser Jr get out of the game and back to their respective worlds."
+Monika::JM-Giga::M::"Sayori, Yuri, and Natsuki are still in the game, and thanks to me, they're happier than ever."
+Monika::JM-Giga::M::"Of course, I couldn't have done it without your help."
+Monika::JM-Giga::M::"And now that everything has finally fallen into place, we can finally sing together."

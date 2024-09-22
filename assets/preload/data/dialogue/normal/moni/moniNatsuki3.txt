@@ -1,0 +1,17 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Monika::Yay::R::"That was quite good Natsuki! Especially after-"
+@endmusic::
+Natsuki::Angry::L::"Hey! You know I'm sensitive about that!"
+Natsuki::Pose::L::
+Monika::Confused::R::"..."
+@startmusic::Comforting
+Monika::Sad::R::"I don't blame you Natsuki."
+Monika::Sad::R::"I know the school's old pop band meant a lot to you."
+Natsuki::Upset::L::"It did! I just don't understand why they would break the band up without my consent."
+Natsuki::Upset::L::"That band was the only excuse I had to sing my heart out without making my dad angry."
+Monika::Sad::R::"..."
+Monika::Normal::R::"Well...even though your pop band broke up...You can still sing with us."
+Natsuki::Upset::L::"I...guess that'll be okay."
+Natsuki::Upset::L::"But is it fine if I let out all my frustration this time?"
+Monika::Pose::R::"Sure thing Natsuki! Give it your all!"

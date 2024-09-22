@@ -1,0 +1,16 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Yay::L::"Wow! That was awesome!"
+Monika::Yay::R::"You did pretty good Sayori!"
+Monika::Normal::R::
+Sayori::Normal::L::"Yeah, I kinda sing to myself sometimes. Helps keep my mind positive."
+Monika::Normal::R::"You always do you best to look at the happy thoughts, don't you?"
+Sayori::Point::L::"Yeah...I guess you're right about that."
+Sayori::Point::L::"Hey, can we do another song together?"
+Sayori::Normal::L::
+Monika::Confused::R::"Uh...I don't know..."
+Sayori::Ahh::L::"Please?"
+Sayori::Normal::L::
+Monika::Pose::R::"Eh, what the heck, I can't say no to that face."
+Monika::Normal::R::
+Sayori::Yay::L::"Yay!"

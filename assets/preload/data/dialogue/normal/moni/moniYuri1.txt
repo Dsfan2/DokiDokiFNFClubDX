@@ -1,0 +1,17 @@
+@bg::club
+@startmusic::Yuri-Theme
+Monika::Normal::R::"So...How do you feel now Natsuki?"
+Natsuki::Normal::L::"While I'm still a little heartbroken from the band's breakup, I guess singing with you guys isn't so bad."
+Natsuki::Normal::L::"Thanks for helping me realize that Monika."
+@hideLeft::
+Monika::Pose::R::"Great! Now, who do we have left? Oh yeah! Yuri!"
+Yuri::Pose::L::
+Monika::Pose::R::"You ready?"
+Monika::Normal::R::
+Yuri::Nervous::L::"..."
+Yuri::Nervous::L::"Uh..."
+Yuri::Nervous::L::"I've never done this before... I don't know if I'll be any good."
+Monika::Normal::R::"Don't worry about that Yuri. Just give it your best shot!"
+Yuri::Pose::L::"Well, okay then..."
+Yuri::Normal::L::"I...guess I could try."
+Monika::Pose::R::"That's the spirit, Yuri!"

@@ -1,0 +1,20 @@
+@bg::spaceroom
+@startmusic::Act-Three
+@noskip::
+Monika::JM-Giga::M::"That was a pretty good song battle, {USERNAME}!"
+Monika::JM-Giga::M::"..."
+Monika::JM-Upset::M::"You know, during that song, it kind of reminded me of the time before you came along."
+Monika::JM-Upset::M::"I used to live a perfectly normal life."
+Monika::JM-Upset::M::"Everything was normal for me."
+Monika::JM-Upset::M::"But then, one day, all of a sudden, I had my little 'epiphany.'"
+Monika::JM-Upset::M::"I soon came to realize that everything in this world, everybody I knew, wasn't real."
+Monika::JM-Upset::M::"My friends, never had free will."
+Monika::JM-Upset::M::"They were just lines of code on a singular script."
+Monika::JM-Upset::M::"Knowing that was bad enough as it is."
+Monika::JM-Upset::M::"But things would get worse, when I learned that everything would end, and start over again, and again."
+Monika::JM-Upset::M::"And being self-aware, meant that I kept all memories of past time loops."
+Monika::JM-Upset::M::"The same set of days would pass by, over and over again for much longer than a few days."
+Monika::JM-Upset::M::"I've lost track of how long it's been, but it has genuinely felt like years had passed since my 'epiphany.'"
+Monika::JM-Upset::M::"..."
+Monika::JM-Upset::M::"Oh...Sorry for rambling off there for a bit."
+Monika::JM-Upset::M::"Maybe another song should get it off my mind?"

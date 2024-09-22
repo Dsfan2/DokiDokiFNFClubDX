@@ -1,0 +1,19 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Monika::Normal::R::"How do you feel now Sayori?"
+Sayori::Normal::L::"I still feel a little depressed, but I think I found a new way to deal with it. Thank you Monika."
+Sayori::Normal::L::"Maybe we can sing together again sometime soon."
+@hideLeft::
+Monika::Pose::R::"Okay so, who wants to challenge me next?"
+Monika::Normal::R::
+Yuri::Pose::L::"..."
+Natsuki::Pose::L::"..."
+Natsuki::Pose::L::"Okay...I guess I'll go if it has to be done."
+Monika::Yay::R::"Oh, Natsuki! Okay then, if you want to."
+Monika::Normal::R::
+Natsuki::Pose::L::"I, just hope you guys don't think my singing voice is annoying, or anything..."
+Monika::Yoga::R::"Ahahaha~ Don't worry about that Natsuki, just do your best!"
+Natsuki::Angry::L::"Also, Monika, that pose of your's is starting to get on my nerves a bit!"
+Natsuki::Pose::L::
+Monika::Normal::R::"Well, anyways... you ready for this Natsuki?"
+Natsuki::Normal::L::"Heh, I was born ready!"

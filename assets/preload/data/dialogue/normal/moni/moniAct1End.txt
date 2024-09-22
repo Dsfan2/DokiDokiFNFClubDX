@@ -1,0 +1,68 @@
+@bg::hall
+@startmusic::Resolve
+Bowser Jr::Speak::R::"Wow, I gotta say, You did pretty good that time!"
+Bowser Jr::Normal::R::
+Monika::Yay::L::"I'm glad you think so-"
+Bowser Jr::Sass::R::"But I'm pretty sure I did better!"
+Bowser Jr::Normal::R::
+Monika::Confused::L::"..."
+Monika::Confused::L::"Wow... way to be over-confident..."
+Monika::Pose::L::"Anyway, I think that'll do it for today's club meeting."
+Monika::Normal::L::
+Sayori::Pose::M::"Okay then. That was a lot of fun Monika! We should totally sing together again for our next club meeting!"
+Yuri::Normal::M::"Yeah... I agree. Singing together was a lot more fun than I originally thought."
+Natsuki::Normal::M::"Even I have to admit, singing with you guys was a lot of fun."
+Natsuki::Normal::M::"Maybe one day, when we're done with high school, we could form our own band together?"
+Sayori::Yay::M::"Ooh! Natsuki! I'd love that!"
+Monika::Pose::L::"That sounds kinda fun actually."
+Monika::Pose::L::"Well, you three girls can go now, I'm gonna stay for a while and put the speakers back in the closet."
+@hideMiddle::
+Monika::Normal::L::"..."
+Monika::Confused::L::"Now that they're gone, there's something I wanted to ask you guys."
+BF::Speak::R::"Sure, go ahead."
+BF::Normal::R::
+Monika::Confused::L::"What exactly brought you three to my literature club?"
+Bowser Jr::Speak::R::"Well, it's quite the awkward story... For me at least..."
+BF::Speak::R::"Let me tell mine first, Bowser Jr."
+BF::Speak::R::"So my girlfriend and I were just chillin' at her house on a rainy day..."
+BF::Speak::R::"We thought that we would play the Nintendo Switch while we were there..."
+BF::Speak::R::"She suggested that Doki Doki Literature Club Plus would be our game to play, but as soon as she inserted the game card..."
+BF::Speak::R::"Her dad just had to ruin the fun by trapping us both in the game."
+BF::Normal::R::
+Monika::Confused::L::"Uhhh... H-How did he do that...?"
+GF::Speak::M::"Both my parents and I are all demons, so something like that just comes naturally to us."
+GF::Speak::M::"Plus, trapping people in video games is just one of my dad's guilty pleasures."
+GF::Normal::M::
+Monika::Confused::L::"Okay... that's a bit weird..."
+Bowser Jr::Speak::R::"You thought that was weird?"
+Bowser Jr::Speak::R::"For me, I was getting ready for my Dad's Epic Wonder Concert."
+Bowser Jr::Speak::R::"I was gonna be back-up singer while my Dad tries to pummel Mario & his friends."
+Bowser Jr::Speak::R::"But before I could get on stage, there was this glitchy portal over me, and it dragged me in."
+Bowser Jr::Normal::R::
+Monika::Confused::L::"Uhhh... How did that happen?"
+Bowser Jr::Worried::R::"I have no idea..."
+BF::Speak::R::"So, yeah, we need to find a way each of us to get back to our own worlds."
+BF::Normal::R::
+Monika::Pose::L::"I think I might be able to help."
+BF::Speak::R::"You can?"
+BF::Normal::R::
+Monika::Normal::L::"You see, characters here exist through .chr files."
+Monika::Normal::L::"And it looks like the .chr files for you three are not native to the game."
+Monika::Normal::L::"So I can move your .chr files out of the game and you three will go back to where you came from."
+BF::Worried::R::"Wait how do you know that?"
+Monika::Normal::L::"Nevermind about that. This should only take a second."
+BF::Speak::R::"Well regardless, thanks for your help Monika!"
+BF::Normal::R::
+GF::Speak::M::"Yeah, thanks!"
+GF::Normal::M::
+Bowser Jr::Speak::R::
+@noskip::
+@autoskip::"So how can you do this exactly-"
+@endmusic::
+@glitch::
+@noskip::
+@hideRight::
+@hideLeft::
+Monika::Normal::M::"..."
+Monika::Normal::M::"And just like that, they're back to where they came from..."
+Monika::Normal::M::"Now...There's only one thing left for me to do..."
