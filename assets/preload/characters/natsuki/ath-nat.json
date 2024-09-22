@@ -60,7 +60,7 @@
 	"image": "characters/natsuki_new_assets",
 	"position": [
 		-117,
-		-27
+		10
 	],
 	"healthicon": "natsuki",
 	"flip_x": false,
