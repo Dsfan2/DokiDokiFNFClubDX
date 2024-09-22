@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loading-spr.png">
+<SubTexture name="Loading0000" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0001" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0002" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0003" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0004" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0005" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0006" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0007" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0008" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0009" x="0" y="0" width="483" height="324"/>
+<SubTexture name="Loading0010" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0011" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0012" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0013" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0014" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0015" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0016" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0017" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0018" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0019" x="483" y="0" width="483" height="324"/>
+<SubTexture name="Loading0020" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0021" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0022" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0023" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0024" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0025" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0026" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0027" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0028" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0029" x="0" y="324" width="483" height="324"/>
+<SubTexture name="Loading0030" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0031" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0032" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0033" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0034" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0035" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0036" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0037" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0038" x="483" y="324" width="483" height="324"/>
+<SubTexture name="Loading0039" x="483" y="324" width="483" height="324"/>
+</TextureAtlas>
