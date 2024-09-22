@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuri_new_assets.png">
+<SubTexture name="crazyuri idle0000" x="0" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0001" x="600" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0002" x="1200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0003" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0004" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0005" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0006" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri idle0007" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0000" x="2400" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0001" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0002" x="3600" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0003" x="4200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0004" x="4200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0005" x="4200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0006" x="4200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri left0007" x="4200" y="0" width="600" height="800"/>
+<SubTexture name="crazyuri down0000" x="0" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0001" x="600" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0002" x="1200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0003" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0004" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0005" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0006" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri down0007" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0000" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0001" x="3000" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0002" x="3600" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0003" x="4200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0004" x="4200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0005" x="4200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0006" x="4200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri up0007" x="4200" y="800" width="600" height="800"/>
+<SubTexture name="crazyuri right0000" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0001" x="600" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0002" x="1200" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0003" x="1800" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0004" x="1800" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0005" x="1800" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0006" x="1800" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri right0007" x="1800" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0000" x="2400" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0001" x="3000" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0002" x="3600" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0003" x="4200" y="1600" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0004" x="0" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0005" x="600" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0006" x="1200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0007" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0008" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0009" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0010" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0011" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0012" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0013" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0014" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0015" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0016" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri knife out0017" x="1800" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0000" x="2400" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0001" x="3000" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0002" x="3600" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0003" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0004" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0005" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0006" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0007" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0008" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0009" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0010" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0011" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0012" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri laugh0013" x="4200" y="2400" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0000" x="0" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0001" x="600" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0002" x="1200" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0003" x="1800" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0004" x="2400" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0005" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0006" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0007" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0008" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0009" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0010" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0011" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0012" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri pre stab0013" x="3000" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0000" x="3600" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0001" x="4200" y="3200" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0002" x="0" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0003" x="600" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0004" x="1200" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0005" x="1800" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0006" x="2400" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0007" x="3000" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0008" x="1200" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0009" x="1800" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0010" x="2400" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stabbed0011" x="3000" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stab loop0000" x="1200" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stab loop0001" x="1800" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stab loop0002" x="2400" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri stab loop0003" x="3000" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri die0000" x="3600" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri die0001" x="4200" y="4000" width="600" height="800"/>
+<SubTexture name="crazyuri die0002" x="0" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0003" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0004" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0005" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0006" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0007" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0008" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0009" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0010" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri die0011" x="600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri killed0000" x="1200" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri killed0001" x="1800" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri killed0002" x="2400" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri killed0003" x="3000" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri killed0004" x="3600" y="4800" width="600" height="800"/>
+<SubTexture name="crazyuri kill loop0000" x="3600" y="4800" width="600" height="800"/>
+</TextureAtlas>

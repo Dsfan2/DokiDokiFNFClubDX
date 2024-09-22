@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuri_new_assets.png">
+<SubTexture name="yuri idle0000" x="0" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0001" x="0" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0002" x="700" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0003" x="700" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0004" x="1400" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0005" x="1400" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0006" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0007" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0008" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0009" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0010" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri idle0011" x="2100" y="0" width="700" height="850"/>
+<SubTexture name="yuri left0000" x="0" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0001" x="0" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0002" x="700" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0003" x="700" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0004" x="1400" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0005" x="1400" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0006" x="2100" y="850" width="700" height="850"/>
+<SubTexture name="yuri left0007" x="2100" y="850" width="700" height="850"/>
+<SubTexture name="yuri down0000" x="0" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0001" x="0" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0002" x="700" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0003" x="700" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0004" x="1400" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0005" x="1400" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0006" x="2100" y="1700" width="700" height="850"/>
+<SubTexture name="yuri down0007" x="2100" y="1700" width="700" height="850"/>
+<SubTexture name="yuri up0000" x="0" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0001" x="0" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0002" x="700" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0003" x="700" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0004" x="1400" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0005" x="1400" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0006" x="2100" y="2550" width="700" height="850"/>
+<SubTexture name="yuri up0007" x="2100" y="2550" width="700" height="850"/>
+<SubTexture name="yuri right0000" x="0" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0001" x="0" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0002" x="700" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0003" x="700" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0004" x="1400" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0005" x="1400" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0006" x="2100" y="3400" width="700" height="850"/>
+<SubTexture name="yuri right0007" x="2100" y="3400" width="700" height="850"/>
+</TextureAtlas>
