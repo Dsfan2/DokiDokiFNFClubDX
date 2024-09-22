@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Doki_Yuri_Assets.png">
+<SubTexture name="Yuri Sing Note Down0000" x="1616" y="1221" width="258" height="531" frameX="-53" frameY="-121" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0001" x="1616" y="1221" width="258" height="531" frameX="-53" frameY="-121" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0002" x="1499" y="589" width="257" height="548" frameX="-57" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0003" x="1499" y="589" width="257" height="548" frameX="-57" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0004" x="1087" y="1221" width="265" height="548" frameX="-57" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0005" x="1087" y="1221" width="265" height="548" frameX="-57" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0006" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0007" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0008" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0009" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0010" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Sing Note Down0011" x="1352" y="1221" width="264" height="548" frameX="-56" frameY="-104" frameWidth="372" frameHeight="683" />
+<SubTexture name="Yuri Idle0000" x="805" y="1221" width="282" height="571" frameX="-29" frameY="-99" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0001" x="805" y="1221" width="282" height="571" frameX="-29" frameY="-99" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0002" x="1758" y="0" width="273" height="588" frameX="-38" frameY="-82" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0003" x="1758" y="0" width="273" height="588" frameX="-38" frameY="-82" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0004" x="1499" y="0" width="259" height="589" frameX="-52" frameY="-81" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0005" x="1499" y="0" width="259" height="589" frameX="-52" frameY="-81" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0006" x="929" y="616" width="258" height="591" frameX="-53" frameY="-79" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0007" x="929" y="616" width="258" height="591" frameX="-53" frameY="-79" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0008" x="1187" y="616" width="259" height="590" frameX="-52" frameY="-80" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Idle0009" x="1187" y="616" width="259" height="590" frameX="-52" frameY="-80" frameWidth="355" frameHeight="675" />
+<SubTexture name="Yuri Sing Note Right0000" x="627" y="616" width="302" height="597" frameX="-191" frameY="-90" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0001" x="627" y="616" width="302" height="597" frameX="-191" frameY="-90" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0002" x="321" y="616" width="306" height="600" frameX="-191" frameY="-87" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0003" x="321" y="616" width="306" height="600" frameX="-191" frameY="-87" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0004" x="1178" y="0" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0005" x="1178" y="0" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0006" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0007" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0008" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0009" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0010" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Right0011" x="0" y="616" width="321" height="605" frameX="-191" frameY="-82" frameWidth="712" frameHeight="712" />
+<SubTexture name="Yuri Sing Note Left0000" x="0" y="1221" width="276" height="582" frameX="-44" frameY="-83" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0001" x="0" y="1221" width="276" height="582" frameX="-44" frameY="-83" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0002" x="276" y="1221" width="264" height="581" frameX="-58" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0003" x="276" y="1221" width="264" height="581" frameX="-58" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0004" x="1758" y="588" width="263" height="582" frameX="-54" frameY="-83" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0005" x="1758" y="588" width="263" height="582" frameX="-54" frameY="-83" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0006" x="540" y="1221" width="265" height="581" frameX="-52" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0007" x="540" y="1221" width="265" height="581" frameX="-52" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0008" x="540" y="1221" width="265" height="581" frameX="-52" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Left0009" x="540" y="1221" width="265" height="581" frameX="-52" frameY="-84" frameWidth="371" frameHeight="670" />
+<SubTexture name="Yuri Sing Note Up0000" x="0" y="0" width="296" height="616" frameX="-26" frameY="-39" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0001" x="0" y="0" width="296" height="616" frameX="-26" frameY="-39" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0002" x="296" y="0" width="298" height="609" frameX="-26" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0003" x="296" y="0" width="298" height="609" frameX="-26" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0004" x="882" y="0" width="296" height="608" frameX="-29" frameY="-47" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0005" x="882" y="0" width="296" height="608" frameX="-29" frameY="-47" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0006" x="594" y="0" width="288" height="609" frameX="-37" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0007" x="594" y="0" width="288" height="609" frameX="-37" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0008" x="594" y="0" width="288" height="609" frameX="-37" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Sing Note Up0009" x="594" y="0" width="288" height="609" frameX="-37" frameY="-46" frameWidth="458" frameHeight="668" />
+<SubTexture name="Yuri Miss Note Left0000" x="0" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0001" x="0" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0002" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0003" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0004" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0005" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0006" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0007" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0008" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Left0009" x="457" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0000" x="914" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0001" x="914" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0002" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0003" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0004" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0005" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0006" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0007" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0008" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Down0009" x="1371" y="1803" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0000" x="0" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0001" x="0" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0002" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0003" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0004" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0005" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0006" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0007" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0008" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Up0009" x="457" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0000" x="914" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0001" x="914" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0002" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0003" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0004" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0005" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0006" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0007" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0008" x="1371" y="2462" width="457" height="659"/>
+<SubTexture name="Yuri Miss Note Right0009" x="1371" y="2462" width="457" height="659"/>
+</TextureAtlas>

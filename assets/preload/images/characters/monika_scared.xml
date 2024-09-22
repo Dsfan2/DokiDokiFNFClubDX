@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monika_scared.png">
+<SubTexture name="monika idle scared0000" x="0" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0001" x="0" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0002" x="600" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0003" x="600" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0004" x="1200" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0005" x="1200" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0006" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="monika idle scared0007" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0000" x="2400" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0001" x="2400" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0002" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0003" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0004" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE LEFT0005" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0000" x="0" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0001" x="0" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0002" x="600" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0003" x="600" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0004" x="600" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE DOWN0005" x="600" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0000" x="1200" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0001" x="1200" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0002" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0003" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0004" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE UP0005" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0000" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0001" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0002" x="3000" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0003" x="3000" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0004" x="3000" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE RIGHT0005" x="3000" y="800" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0000" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0001" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0002" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0003" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0004" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0005" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0006" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0007" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0008" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0009" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0010" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="monika NOTE MISS0011" x="0" y="1600" width="600" height="800"/>
+</TextureAtlas>

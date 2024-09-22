@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Monika_NEO.png">
+<SubTexture name="neo monika defeat0000" x="0" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0001" x="600" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0002" x="600" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0003" x="1200" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0004" x="1200" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0005" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0006" x="1800" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0007" x="2400" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0008" x="2400" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0009" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0010" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0011" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0012" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0013" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0014" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0015" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0016" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0017" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0018" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0019" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0020" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0021" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0022" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0023" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0024" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0025" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0026" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0027" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0028" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0029" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0030" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0031" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0032" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0033" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0034" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0035" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0036" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0037" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0038" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0039" x="3000" y="0" width="600" height="800"/>
+<SubTexture name="neo monika defeat0040" x="0" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0041" x="0" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0042" x="600" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0043" x="600" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0044" x="1200" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0045" x="1200" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0046" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0047" x="1800" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0048" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0049" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0050" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="neo monika defeat0051" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="neo monika dead loop0000" x="2400" y="800" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0000" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0001" x="0" y="1600" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0002" x="600" y="1600" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0003" x="600" y="1600" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0004" x="1200" y="1600" width="600" height="800"/>
+<SubTexture name="neo monika dead confirm0005" x="1200" y="1600" width="600" height="800"/>
+</TextureAtlas>
