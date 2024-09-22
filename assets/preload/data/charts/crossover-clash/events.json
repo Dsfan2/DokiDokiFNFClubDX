@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "ddto_club",
+		"player1": "monika_ddto",
+		"player2": "monika-opponent",
+		"player3": null,
+		"events": [
+			[
+				90000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sayori_ddto"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sayori"
+					],
+					[
+						"Back Chars Invisible",
+						"sayori",
+						""
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"yuri"
+					],
+					[
+						"Change Character",
+						"bf",
+						"yuri_ddto"
+					],
+					[
+						"Back Chars Invisible",
+						"yuri",
+						""
+					]
+				]
+			],
+			[
+				210000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"natsuki_ddto"
+					],
+					[
+						"Change Character",
+						"dad",
+						"natsuki"
+					],
+					[
+						"Back Chars Invisible",
+						"natsuki",
+						""
+					]
+				]
+			],
+			[
+				277500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"yuri"
+					],
+					[
+						"Change Character",
+						"bf",
+						"yuri_ddto"
+					],
+					[
+						"Back Chars Invisible",
+						"yuri",
+						""
+					]
+				]
+			],
+			[
+				283500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sayori_ddto"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sayori"
+					],
+					[
+						"Back Chars Invisible",
+						"sayori",
+						""
+					]
+				]
+			],
+			[
+				289500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"monika-opponent"
+					],
+					[
+						"Change Character",
+						"bf",
+						"monika_ddto"
+					],
+					[
+						"Back Chars Invisible",
+						"monika",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speakers",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Crossover Clash"
+	}
+}

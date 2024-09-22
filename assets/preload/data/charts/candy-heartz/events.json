@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 1.3,
+		"stage": "s-bedroom",
+		"player1": "bf-scared",
+		"player2": "sayori-hang",
+		"player3": null,
+		"events": [
+			[
+				9750,
+				[
+					[
+						"Black Screen Fade",
+						"0",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"1",
+						"0.2"
+					],
+					[
+						"Play Sound",
+						"Lights_Turn_On",
+						""
+					],
+					[
+						"Song Blurb",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46909.0909090909,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"10.5"
+					],
+					[
+						"Hud Fade",
+						"0",
+						"1.5"
+					]
+				]
+			],
+			[
+				51272.7272727273,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"5"
+					]
+				]
+			],
+			[
+				56318.1818181819,
+				[
+					[
+						"Show End Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 80,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Candy Heartz"
+	}
+}

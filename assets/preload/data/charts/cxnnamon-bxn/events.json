@@ -1,0 +1,154 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "clubroom",
+		"player1": "bf",
+		"player2": "sayori",
+		"player3": null,
+		"events": [
+			[
+				58285.7142857143,
+				[
+					[
+						"Black Screen Fade",
+						"0.8",
+						"5.8"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"6"
+					],
+					[
+						"Glitch Effect",
+						"1",
+						"0.2"
+					]
+				]
+			],
+			[
+				63964.2857142858,
+				[
+					[
+						"Glitch Effect",
+						"",
+						"0.5"
+					]
+				]
+			],
+			[
+				64392.8571428572,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"Play Sound",
+						"Lights_Shut_off",
+						""
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				65785.7142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sayori-hang"
+					],
+					[
+						"Stage Morph",
+						"s-bedroom",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Black Screen Fade",
+						"0.2",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"",
+						"0.2"
+					],
+					[
+						"Play Sound",
+						"Lights_Turn_On",
+						""
+					]
+				]
+			],
+			[
+				126857.142857143,
+				[
+					[
+						"Glitch Effect",
+						"",
+						"0.1"
+					]
+				]
+			],
+			[
+				181714.285714286,
+				[
+					[
+						"Glitch Effect",
+						"",
+						"9"
+					],
+					[
+						"Hud Fade",
+						"0",
+						"1.2"
+					]
+				]
+			],
+			[
+				188571.428571428,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"1.4"
+					]
+				]
+			],
+			[
+				191571.428571428,
+				[
+					[
+						"Show End Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cxnnamon Bxn"
+	}
+}
