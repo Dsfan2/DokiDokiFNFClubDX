@@ -641,8 +641,8 @@ class PlayState extends MusicBeatState
 		else
 		{
 			add(gfGroup); //Needed for blammed lights
-			add(boyfriendGroup);
 			add(dadGroup);
+			add(boyfriendGroup);
 		}
 		stageMorph(curStage);
 
@@ -4372,6 +4372,7 @@ class PlayState extends MusicBeatState
 							if (ClientPrefs.playerChar == 1) CoolUtil.makeSecretFile('Not bad, for an _________!', 'Funkin Clue');
 							if (ClientPrefs.playerChar == 2) CoolUtil.makeSecretFile('Game of origin: Bowser\'s Block Party', 'Mario Clue');
 							openSubState(new CustomFadeTransition(0.4, false, new CreditsState()));
+							CoolUtil.playMusic(CoolUtil.getTitleTheme());
 						}
 						else
 						{
