@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yuri (DDTO)_Portraits.png">
+<SubTexture name="Normal0000" x="0" y="0" width="500" height="500"/>
+<SubTexture name="Scared0000" x="500" y="0" width="500" height="500"/>
+<SubTexture name="Umm0000" x="1000" y="0" width="500" height="500"/>
+<SubTexture name="Blush0000" x="1500" y="0" width="500" height="500"/>
+<SubTexture name="Nervous0000" x="0" y="500" width="500" height="500"/>
+<SubTexture name="Happy0000" x="500" y="500" width="500" height="500"/>
+<SubTexture name="Cool0000" x="1000" y="500" width="500" height="500"/>
+</TextureAtlas>

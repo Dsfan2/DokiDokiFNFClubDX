@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue-box.png">
+<SubTexture name="Talking0000" x="0" y="0" width="816" height="185"/>
+<SubTexture name="Thinking0000" x="0" y="185" width="816" height="185"/>
+</TextureAtlas>

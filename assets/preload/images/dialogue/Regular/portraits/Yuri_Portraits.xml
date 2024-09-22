@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yuri_Portraits.png">
+<SubTexture name="Pose0000" x="0" y="0" width="500" height="500"/>
+<SubTexture name="Normal0000" x="500" y="0" width="500" height="500"/>
+<SubTexture name="Ahh0000" x="1000" y="0" width="500" height="500"/>
+<SubTexture name="Nervous0000" x="1500" y="0" width="500" height="500"/>
+<SubTexture name="Mad0000" x="0" y="500" width="500" height="500"/>
+<SubTexture name="Happy0000" x="500" y="500" width="500" height="500"/>
+<SubTexture name="Yandere10000" x="1000" y="500" width="500" height="500"/>
+<SubTexture name="Yandere20000" x="1500" y="500" width="500" height="500"/>
+<SubTexture name="Yandere30000" x="0" y="1000" width="500" height="500"/>
+<SubTexture name="Dead0000" x="500" y="1000" width="500" height="500"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sayori_Portraits.png">
+<SubTexture name="Pose0000" x="0" y="0" width="500" height="500"/>
+<SubTexture name="Normal0000" x="500" y="0" width="500" height="500"/>
+<SubTexture name="Yay0000" x="1000" y="0" width="500" height="500"/>
+<SubTexture name="Point0000" x="1500" y="0" width="500" height="500"/>
+<SubTexture name="Ahh0000" x="0" y="500" width="500" height="500"/>
+<SubTexture name="Upset0000" x="500" y="500" width="500" height="500"/>
+<SubTexture name="Depress0000" x="1000" y="500" width="500" height="500"/>
+<SubTexture name="Evil10000" x="1500" y="500" width="500" height="500"/>
+<SubTexture name="Evil20000" x="0" y="1000" width="500" height="500"/>
+<SubTexture name="Evil30000" x="500" y="1000" width="500" height="500"/>
+<SubTexture name="Evil40000" x="1000" y="1000" width="500" height="500"/>
+</TextureAtlas>

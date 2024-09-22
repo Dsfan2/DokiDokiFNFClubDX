@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monika (DDTO)_Portraits.png">
+<SubTexture name="Normal0000" x="0" y="0" width="500" height="500"/>
+<SubTexture name="Speak0000" x="500" y="0" width="500" height="500"/>
+<SubTexture name="Ahaha0000" x="1000" y="0" width="500" height="500"/>
+<SubTexture name="Upset0000" x="1500" y="0" width="500" height="500"/>
+<SubTexture name="Worried0000" x="0" y="500" width="500" height="500"/>
+<SubTexture name="Happy Tears0000" x="500" y="0" width="500" height="500"/>
+<SubTexture name="Waa0000" x="1000" y="0" width="500" height="500"/>
+</TextureAtlas>
