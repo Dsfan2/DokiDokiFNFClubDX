@@ -1,0 +1,16 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Yay::L::"Wow! That was awesome! What do you think?"
+Bowser Jr::Normal::R::"I have to say, that was pretty impressive."
+Bowser Jr::Sass::R::"But not as impressive as me!"
+Bowser Jr::Normal::R::
+Sayori::Normal::L::"Well, I do sometimes sing to myself. Helps keep my mind positive."
+Bowser Jr::Speak::R::"Huh, I never thought of singing as being self-motivating."
+Bowser Jr::Speak::R::"Maybe my Dad should sing more, then he could finally beat Mario!"
+Bowser Jr::Normal::R::
+Sayori::Point::L::"Well, you could say that..."
+Sayori::Point::L::"But, I mean, my friends do care about me."
+Sayori::Point::L::"After all, they don't call me a sweet cinnamon bun for nothing."
+Sayori::Point::L::"So... you wanna do another song?"
+Sayori::Normal::L::
+Bowser Jr::Speak::R::"Uh, okay. I guess I'd like another song with you."

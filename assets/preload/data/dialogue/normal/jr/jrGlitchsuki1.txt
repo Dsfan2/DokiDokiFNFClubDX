@@ -1,0 +1,22 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Bowser Jr::Sass::R::"That was pretty cool, but I still think I did better than you!"
+Bowser Jr::Normal::R::(Huh...That's weird. I thought I saw her doing something with a rope.)
+Sayori::Point::L::"Yeah! That was fun, but I think it's someone else's turn."
+Sayori::Point::L::"So...Who wants to go next?"
+Sayori::Normal::M::
+Yuri::Pose::L::"..."
+Natsuki::Pose::L::"..."
+Natsuki::Pose::L::"Okay...Fine...I'll go next...If I have to."
+Sayori::Yay::M::"That's the spirit Natsuki!"
+Sayori::Normal::M::
+Natsuki::Pose::L::"I hope that you don't think my singing voice is annoying..."
+@edit-font::
+Natsuki::Angry::L::"Because if you laugh at how I sing, I'm gonna rip your liver out! Got it?!"
+@normal-font::
+Bowser Jr::Speak::R::"Wow... If you can do that, why don't you join my Dad's army? You'd easily defeat Mario!"
+Bowser Jr::Speak::R::"But anyways, you ready for this Natsuki?"
+Bowser Jr::Normal::R::
+@endmusic::
+@glitch::
+Natsuki::Pose::L::"Heh, I was born to be FAST!"

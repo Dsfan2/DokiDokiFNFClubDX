@@ -1,0 +1,37 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Pose::L::"Wow! That was amazing!"
+Sayori::Normal::L::
+Bowser Jr::Yay::R::"Yeah, my Dad taught me everything I know about singing! Which is a lot."
+Bowser Jr::Speak::R::"So yeah, I do have some singing experience."
+Bowser Jr::Normal::R::
+Monika::Pose::L::"I figured since I've never really seen someone like you before."
+Monika::Normal::L::"If you don't mind me asking, who are you exactly?"
+Bowser Jr::Speak::R::"I'm Bowser Jr. Son of King Bowser, and heir to the Koopa Throne."
+Bowser Jr::Normal::R::
+Natsuki::Pose::L::"Wow... I didn't know I was in the presence of royalty..."
+Monika::Pose::L::"Well, my name's Monika. I'm the president of this club."
+Sayori::Pose::L::"I'm Sayori! I always look at the positives!"
+Yuri::Nervous::L::"M...my name's... Yuri..."
+Yuri::Nervous::L::"S...Sorry, I kinda get... nervous sometimes."
+Natsuki::Pose::L::"Well, my name's Natsuki."
+Natsuki::Pose::L::"But don't expect any quirky details out of me!"
+Bowser Jr::Worried::R::(Wow... these girls are weirder than they look...)
+Monika::Normal::L::"You said you've done singing before, right?"
+Bowser Jr::Worried::R::"Yeah..."
+Monika::Happy::L::"That's great!"
+Monika::Normal::L::
+Natsuki::Pose::M::"How so, Monika?"
+Monika::Pose::L::"Well, if you really think about it, songs are basically just poems, but you follow along with a tempo and melody."
+Monika::Pose::L::"So here's my idea: We can each take turns singing against Bowser Jr!"
+Monika::Pose::L::"It'd be a great way to try this kind of poem writting."
+Monika::Yoga::L::"So what do you say?"
+Bowser Jr::Speak::R::"Well, I guess a few more rehersals for the Epic Wonder won't do anyone any harm..."
+Bowser Jr::Normal::R::
+Sayori::Pose::L::"Ooh! Can I go first?"
+Monika::Pose::L::"Sure Sayori! Go for it!"
+Sayori::Yay::L::"Yay!"
+Sayori::Normal::L::
+Bowser Jr::Sass::R::"Alright Sayori! You ready for me?!"
+Bowser Jr::Normal::R::
+Sayori::Point::L::"Yeah! Let's go!"

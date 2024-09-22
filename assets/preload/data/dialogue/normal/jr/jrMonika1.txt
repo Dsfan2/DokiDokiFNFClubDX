@@ -1,0 +1,50 @@
+@bg::club
+@startmusic::Club-Theme
+Bowser Jr::Yay::R::"Gotta say, you did pretty good. Although I think I did better."
+Bowser Jr::Normal::R::
+Yuri::Happy::L::"Thanks... I was trying that time..."
+@endmusic::
+Natsuki::Normal::M::"Oh? I didn't realize you were so invested in trying to impress this creature, Yuri."
+@startmusic::Argument
+Bowser Jr::Worried::R::
+Yuri::Nervous::L::"E...Eh? That's not what I... You just..."
+Yuri::Mad::L::"Maybe you're just jealous that he liked my performance more than yours!"
+Natsuki::Upset::M::"What do you mean? He clearly said that he did better than you!"
+Yuri::Nervous::L::"..."
+Yuri::Mad::L::"Well, he also said that he did better than you did!"
+Natsuki::Angry::M::"Well, he's probably just full of himself! He does have an evil king as his father!"
+Natsuki::Pose::M::"I bet his dad would beat up mine..."
+Bowser Jr::Worried::R::"Uh oh! I think we might be getting a fight here!"
+Yuri::Mad::L::"Well I'm sorry... It's not my fault that you act like a small child!"
+Natsuki::Angry::M::
+@autoskip::"And I'm sorry that I wasn't the one who's bo-"
+@yesskip::
+@endmusic::
+Monika::Confused::L::"And we'll stop right there."
+Natsuki::Upset::M::
+Monika::Confused::L::"I think all this fighting has made Bowser Jr uncomfortable."
+Monika::Normal::L::"Uh...hey Sayori?"
+Sayori::Normal::M::"Yeah Monika?"
+Monika::Normal::L::"Would you mind chilling out Yuri and Natsuki for a minute? I'm gonna take Bowser Jr outside while you do."
+Sayori::Normal::M::"Uh...Okay!"
+Monika::Normal::L::"Great! Thanks!"
+@fadeout::
+@bg::hall
+@hideLeft::
+@hideRight::
+@hideMiddle::
+@startmusic::Monika-Theme
+@fadein::
+Bowser Jr::Worried::R::"Well, that was quite the sticky situation..."
+Monika::Pose::L::"Yeah, sorry about that..."
+Monika::Normal::L::
+Bowser Jr::Speak::R::"Do those two usually argue like that?"
+Bowser Jr::Normal::R::
+Monika::Normal::L::"Well, not exactly. That was the first time that happened actually."
+Monika::Normal::L::"Even I'm surprised. I know that they don't see eye-to-eye with each other, but they never went off the rails like that before."
+Bowser Jr::Speak::R::"So... what shall we do while your friend is chilling them out?"
+Bowser Jr::Normal::R::
+Monika::Yoga::L::"Well, how about you and I do a quick song?"
+Bowser Jr::Speak::R::"Okay then. Let's see how well you can do against me."
+Bowser Jr::Normal::R::
+Monika::Happy::L::"Ahahaha~ Great! This is gonna be fun!"

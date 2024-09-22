@@ -1,0 +1,15 @@
+@bg::club-skill
+@startmusic::Natsuki-Theme-Act2
+Bowser Jr::Yay::R::"Gotta say, you did pretty well for a first-timer!"
+Bowser Jr::Normal::R::
+@edit-font::
+Natsuki::noface::L::"QWxsIHJvdXRlcyBhcmUgY2Fub24gbG9sLg=="
+@normal-font::
+Bowser Jr::Worried::R::"What the... Natsuki what happened to your face?"
+@edit-font::
+Natsuki::Glitch::L::"RnJpZGF5IE5pZ2h0IEZ1bmtpbicgaGFzIHRoZSB3b3JzdCBmYW5kb20gZXZlci4="
+@normal-font::
+Bowser Jr::Scared::R::"W...What?"
+Bowser Jr::Scared::R::"What the heck is happening?!"
+@edit-font::
+Natsuki::Glitch::L::"V2UgYXJlIHdvcmtlciBkcm9uZXMuIEF1dG9ub21vdXMgcm9ib3RzIGhlbHBpbmcgaHVtYW5zIG1pbmUgZXhvcGxhbmV0cyBmb3Igb3VyIGludGVyc3RlbGxhciBwYXJlbnQgY29tcGFueSwgSkNKZW5zb24gSU4gU1BBQUFBQ0VFISEhIQ=="

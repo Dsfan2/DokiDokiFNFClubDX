@@ -1,0 +1,21 @@
+@bg::spaceroom
+@startmusic::Act-Three
+@noskip::
+Bowser Jr::Angry::R::"Ha! Eat that you psycho!"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"I told you already...I didn't delete everyone else."
+Monika::JM-Upset::M::"I just temporarily moved their character files out of the game directory."
+Monika::JM-Upset::M::"Everyone should be perfectly fine."
+Bowser Jr::Angry::R::"I just don't get it. What was the point of all that?"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"You mean, the whole thing with Sayori, Yuri, and Natsuki?"
+Monika::JM-Upset::M::"I did not intend for any of those nasty things to happen to them."
+Monika::JM-Upset::M::"I just slightly edited their character traits to make them a little less likable."
+Monika::JM-Upset::M::"I didn't expect that the others would kill themselves..."
+Bowser Jr::Angry::R::"But why would you do that?"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"Because..."
+Monika::JM-Upset::M::"I know that they're not actually real... and they don't have free will..."
+Bowser Jr::Upset::R::"..?"
+Monika::JM-Upset::M::"I don't think you understand everything I'm going through..."
+Monika::JM-Upset::M::"But, maybe, I can try my best to explain it to you..."

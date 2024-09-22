@@ -1,0 +1,30 @@
+@bg::club
+@startmusic::Sayori-Theme-Act2
+Sayori::Yay::L::"Wow! That was awesome! What do you think?"
+Bowser Jr::Normal::R::"I have to say, that was pretty impressive."
+Bowser Jr::Sass::R::"But not as impressive as me!"
+Bowser Jr::Normal::R::
+Sayori::Normal::L::
+Monika::Confused::M::"Hey...uh...I just remembered, I need to check on the festival supplies..."
+Sayori::Point::L::"Don't worry Monika. You can slip out for a bit, I can watch the club for you."
+Monika::Pose::M::"Thanks Sayori. I owe you one!"
+Monika::Normal::M::"Ahahaha..."
+@hideMiddle::
+Sayori::Normal::L::"Uh...anyways as I was saying..."
+Sayori::Normal::L::"I kinda sing to myself sometimes. Helps keep my mind positive."
+Bowser Jr::Speak::R::"Huh, I never thought of singing as being self-motivating."
+Bowser Jr::Speak::R::"Maybe my Dad should sing more, then he could finally beat Mario!"
+Bowser Jr::Normal::R::
+Sayori::Point::L::"Well, you could say that..."
+Sayori::Point::L::"But my friends do care about me, I guess..."
+Sayori::Point::L::"After all, they don't call me a sweet cinnamon bun for nothing."
+@endmusic::
+Sayori::Normal::L::"..."
+Sayori::Normal::L::"A cinnamon bun..."
+Bowser Jr::Worried::R::"Huh? Sayori?"
+Sayori::Upset::L::"..."
+Sayori::Upset::L::"a cinnamon bun..."
+@glitch::
+@bg::club-skill
+Sayori::Depress::L::"..."
+Sayori::Depress::L::"...a cxnnamon bxn..."

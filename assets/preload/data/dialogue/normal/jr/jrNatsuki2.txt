@@ -1,0 +1,20 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Bowser Jr::Yay::R::"Gotta say, you did pretty well for a first-timer!"
+Bowser Jr::Normal::R::
+Natsuki::Angry::L::"Hey! I'm not new to this or anything! I've done this before!"
+Natsuki::Pose::L::
+Bowser Jr::Speak::R::"Wait...you have?"
+Bowser Jr::Normal::R::
+Natsuki::Upset::L::"Yeah. Why do you think this is my first time doing it?"
+Bowser Jr::Worried::R::"Well, I assumed it was your first time singing like that, since that's also the case for the others."
+Monika::Confused::M::"Well, I play piano, so I wouldn't really say I'm new to singing..."
+Bowser Jr::Speak::R::"Oh! As a matter of fact, my Dad can play the piano pretty well!"
+Bowser Jr::Normal::R::"Although, he only does it to try and impress Peach..."
+Natsuki::Pose::L::"Wow, your Dad must be a mega-simp to do something like that..."
+Monika::Sad::M::"..."
+@hideMiddle::
+Bowser Jr::Speak::R::"Well, if you have sung before, you wanna show me what you can do?"
+Bowser Jr::Normal::R::
+Natsuki::Pose::L::"Sure, I guess."
+Natsuki::Normal::L::"To be honest...I've kind of forgotten how fun this was..."

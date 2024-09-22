@@ -1,0 +1,43 @@
+@bg::club-skill
+@startmusic::ButNobodyCame
+@edit-font::
+Yuri::Dead::L::"SSBjYW1lIGhlcmUgYSB3aGlsZSBiYWNrIHRvIGRlc3Ryb3kgSG9va3RhaWwsIGJ1dCBJIGFtIHN0dWNrIGFuZCBjYW4gZ28gbm8gZnVydGhlci4="
+Yuri::Dead::L::"U28gaW4gdGhpcyBsZXR0ZXIsIEkgc2hhbGwgbm90ZSBIb29rdGFpbCdzIHdlYWtuZXNzZXMgZm9yIHRob3NlIHdobyBmb2xsb3cu"
+Yuri::Dead::L::"VGhlIGRyZWFkIEhvb2t0YWlsIGNhbm5vdCB0b2xlcmF0ZSBjcm9ha2luZyBjcmVhdHVyZXMgdGhhdCBiZWdpbiB3aXRoICdmJyBhbmQgZW5kIHdpdGggJ3JvZycu"
+@normal-font::
+Bowser Jr::Scared::R::"..."
+Bowser Jr::Scared::R::"I don't think even my Dad would aprove something like this..."
+Bowser Jr::Worried::R::"Hey Sayori. There's some kind of strange red liquid coming out of Yuri over here..."
+@glitch::
+@edit-font::
+Sayori::Depress::L::"SGlkZGVuIHNvbWV3aGVyZSBpbiB0aGlzIGNhc3RsZSBpcyBhbiBpdGVtIHJlbGF0ZWQgdG8gSG9va3RhaWwncyB3ZWFrbmVzcy4="
+Sayori::Depress::L::"SWYgb25lIGlzIHRvIGhhdmUgYW55IGhvcGUgb2YgZGVmZWF0aW5nIEhvb2t0YWlsLCBvbmUgbXVzdCBmaXJzdCBmaW5kIHRoYXQgaXRlbS4="
+@normal-font::
+Bowser Jr::Scared::R::"Sayori?! Are you... okay?"
+Bowser Jr::Upset::R::"Uh...Natsuki, why is Sayori making that face?"
+@edit-font::
+@glitch::
+Natsuki::Glitch::L::"T25lIGxhc3QgdGhpbmc6IElmIGZhY2VkIHdpdGggdWx0aW1hdGUgZG9vbSwgdGhlIGZpZW5kIHdpbGwgdXNlIGFueSB0cmljayB0byBzYXZlIGhlcnNlbGYu"
+Natsuki::Glitch::L::"SWYgeW91IGhvcGUgdG8gZGVmZWF0IGhlciwgZG8gbm90IGdpdmUgaW4gdG8geW91ciBraW5kZXIgbmF0dXJlIGFuZCBmYWxsIGZvciBoZXIgdHJpY2tzLg=="
+Natsuki::Glitch::L::"QWxhcywgSSBkbyBub3QgaGF2ZSB0aGUgc3RyZW5ndGggdG8gY29udGludWUgd3JpdGluZy4uLiBBbHJlYWR5LCBtaXN0IHZlaWxzIG15IGV5ZXMuLi4="
+@normal-font::
+Bowser Jr::Scared::R::"What?! I did see all those things happen to them?!"
+Monika::Pose::L::"Hey everyone! Sorry I took so long! How's it going-"
+Monika::Confused::L::"..."
+Monika::Scared::L::"EYAH!"
+Monika::Scared::L::"What the heck just happened?!"
+Bowser Jr::Scared::R::"Monika! Thank goodness you're back!"
+Bowser Jr::Worried::R::"Since you left, everyone else just went crazy and I think they all game over'd!"
+Monika::Scared::L::"I left Sayori in charge for a few minutes, and I come back to a disaster!"
+Monika::Scared::L::(This DEFINETELY didn't go as I expected it would!)
+Monika::Confused::L::"Not to worry. I think I can fix this."
+Bowser Jr::Worried::R::"Oh thank goodness! Wait, how are you gonna fix this?"
+Monika::Confused::L::"Just give me a second..."
+@endmusic::
+@glitch::
+Bowser Jr::Worried::R::
+@autoskip::"Wait... what's going on?"
+@glitch::
+@hideall::
+@bg::black
+::::::.

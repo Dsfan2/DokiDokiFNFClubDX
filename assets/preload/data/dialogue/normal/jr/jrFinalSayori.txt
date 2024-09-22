@@ -1,0 +1,60 @@
+@bg::glitch
+@startmusic::Sayorivil
+@noskip::
+@edit-font::
+Sayori::Evil3::L::"Aha! There you are! I should've know you would've been here Monika!"
+Sayori::Evil1::L::"And by the looks of things, you're already hogging Bowser Jr to yourself!"
+@normal-font::
+Monika::JM-Upset::M::"S...Sayori?! W...What happened to you?"
+Bowser Jr::Worried::R::"Yeah...Something seems...off with you. Why do you have red eyes like my Dad?"
+@edit-font::
+Sayori::Evil2::L::"That's not important!"
+Sayori::Evil3::L::"Monika, you're gonna pay for everything you have done to me, Yuri, and Natsuki!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"Hold on...I...You...You don't understand!"
+@edit-font::
+Sayori::Evil2::L::"Oh I understand your goal, Monika!"
+Sayori::Evil2::L::"You wanted to have Bowser Jr all for yourself, so you deleted everyone else!"
+@glitch::
+@noskip::
+Sayori::Evil3::L::"You are the most selfish person I've ever met, Monika!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"..."
+Bowser Jr::Angry::R::"Hey! Leave her alone!"
+Bowser Jr::Upset::R::
+@edit-font::
+Sayori::Evil1::L::"..?"
+@normal-font::
+Bowser Jr::Angry::R::"She never deleted anyone! She told me that she just moved everyone else's character files temporarily."
+Bowser Jr::Angry::R::"So, sure. She may have done some questionable actions to get here, but I don't blame her!"
+Bowser Jr::Angry::R::"Heck, I'd probably be self-conscious if I had some reality-breaking powers!"
+Bowser Jr::Upset::R::
+@edit-font::
+Sayori::Evil1::L::"Y...You're...Defending her?"
+Sayori::Evil2::L::"But...I thought... You were a bad guy. You were one in your original world..."
+Sayori::Evil1::L::
+@normal-font::
+Bowser Jr::Angry::R::"Something is clearly wrong with you, Sayori! You weren't like this before!"
+Bowser Jr::Upset::R::"Besides, good and evil are outdated simplistic terms! Everything is relative!"
+@edit-font::
+Sayori::Evil1::L::"..."
+Sayori::Evil4::L::"Well... That doesn't matter, Thanks to my powers being on the same level as Monika's..."
+Sayori::Evil4::L::"I can do...whatever I want...whenever I want..."
+Sayori::Evil1::L::
+@normal-font::
+Bowser Jr::Angry::R::"But can you beat me in a song battle?!"
+Bowser Jr::Upset::R::
+@edit-font::
+Sayori::Evil1::L::"..."
+Sayori::Evil3::L::"Yes I can! I can do anything!"
+Sayori::Evil1::L::"So, how about a little wager..."
+Sayori::Evil1::L::"If you can beat me, I'll leave you all be..."
+Sayori::Evil4::L::"But if you lose, I'll delete Monika's character file..."
+Sayori::Evil4::L::"And you, your Dad, and all his minions will be under my control for the rest of eternity!"
+Sayori::Evil1::L::
+@normal-font::
+Bowser Jr::Worried::R::"Guess I don't really have a choice, do I?"
+Bowser Jr::Upset::R::"If this is what it takes to save both our worlds..."
+Bowser Jr::Angry::R::"...then, here we go!"

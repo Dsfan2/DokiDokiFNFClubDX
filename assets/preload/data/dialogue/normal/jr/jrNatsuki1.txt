@@ -1,0 +1,22 @@
+@bg::club
+@startmusic::Natsuki-Theme
+Bowser Jr::Sass::R::"That was pretty cool, but I still think I did better than you!"
+Bowser Jr::Normal::R::
+Sayori::Point::L::"Yeah! That was fun, but I think it's someone else's turn."
+Monika::Pose::M::"You're right about that, Sayori. Now, who wants to go next?"
+Yuri::Pose::L::"..."
+Natsuki::Pose::L::"..."
+Monika::Normal::M::"Well...Anyone?"
+Natsuki::Pose::L::"..."
+Natsuki::Pose::L::"Okay...Fine...I'll go next...If I have to."
+Monika::Yay::M::"That's the spirit Natsuki!"
+Natsuki::Pose::L::"I hope that you don't think my singing voice is annoying..."
+Natsuki::Angry::L::"Because if you laugh at how I sing, I'm gonna rip your vocal chords out! Got it?!"
+Bowser Jr::Speak::R::"Wow... If you can do that, why don't you join my Dad's army? You'd easily defeat Mario!"
+Bowser Jr::Normal::R::
+Monika::Yoga::M::"Ahahaha~ Looks like someone woke up on the wrong side of the bed this morning."
+Natsuki::Angry::L::"Also, Monika, that pose of your's is starting to get on my nerves a bit!"
+Natsuki::Pose::L::
+Bowser Jr::Speak::R::"Well, Natsuki, are you ready for this?!"
+Bowser Jr::Normal::R::
+Natsuki::Normal::L::"Heh, I was born ready!"

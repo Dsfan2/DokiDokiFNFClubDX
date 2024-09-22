@@ -1,0 +1,12 @@
+@bg::hall
+@startmusic::Monika-Theme
+Bowser Jr::Yay::R::"Wow! Out of everyone in your literature club, you definately have the best singing voice!"
+Bowser Jr::Sass::R::"But mine is way better than all of you combined!"
+Bowser Jr::Normal::R::
+Monika::Sad::L::"Well... I'd be lying if I said I didn't expect that..."
+Monika::Normal::L::
+Bowser Jr::Speak::R::"Hey, are those two fistey cats chilled out now?"
+Bowser Jr::Normal::R::
+Monika::Confused::L::"Hmmm...It looks like Sayori is still talking to them."
+Monika::Normal::L::"So maybe we have time for another song."
+Bowser Jr::Speak::R::"Well, okay then, I guess one more song couldn't hurt."

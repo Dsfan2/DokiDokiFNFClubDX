@@ -1,0 +1,21 @@
+@bg::spaceroom
+@startmusic::Act-Three
+@noskip::
+Monika::JM-Giga::M::"There we go. No more distractions."
+Bowser Jr::Worried::R::"W...What the...where am I?"
+Bowser Jr::Worried::R::"Where are the others?"
+Monika::JM-Giga::M::"Yeah...sorry Bowser Jr."
+Monika::JM-Giga::M::"I kinda...moved them out of the game's main directory for a bit."
+Bowser Jr::Scared::R::"Wait...My memories...They're coming back..."
+Bowser Jr::Worried::R::"Wait... Monika..."
+Bowser Jr::Angry::R::"You did all that?!"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"Okay, I know this looks bad, but just hear me out for a second..."
+Bowser Jr::Angry::R::"You caused everyone to die?!?!"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"That...That's literally not what I said!"
+Bowser Jr::Angry::R::"Okay, I thought that what happened to the others was insane, but hearing you admitting to causing that to happen..."
+Bowser Jr::Angry::R::"I won't let you get away with this!"
+Bowser Jr::Upset::R::
+Monika::JM-Upset::M::"..."
+Monika::JM-Upset::M::"I guess I won't get to talk to you until I prove my innocence to you."

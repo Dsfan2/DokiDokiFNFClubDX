@@ -1,0 +1,18 @@
+@bg::club
+@startmusic::Yuri-Theme
+Bowser Jr::Yay::R::"Wow. Even I have to admit, that was pretty good."
+Bowser Jr::Normal::R::
+Natsuki::Angry::L::"Bleh...I think I've had enough now. Someone else can have a turn."
+@hideLeft::
+Monika::Pose::M::"Right Natsuki! Now who do we have left?"
+Monika::Pose::M::"Oh yeah! Yuri! You ready?"
+Yuri::Nervous::L::"..."
+Monika::Yoga::M::"C'mon Yuri, don't be shy."
+Yuri::Nervous::L::"It's just...I've never done this before..."
+Yuri::Nervous::L::"I...don't even know if I'll sound good..."
+Monika::Normal::M::"Don't worry Yuri, I know you'll be great!"
+Yuri::Pose::L::"You really think so?"
+Bowser Jr::Speak::R::"Hey, if I can sing like that, surely you can sing... at least on-par with me..."
+Bowser Jr::Normal::R::
+Yuri::Pose::L::"..."
+Yuri::Normal::L::"Okay then...I'll give it a try..."

@@ -1,0 +1,98 @@
+@bg::glitch
+@noskip::
+Bowser Jr::Sass::R::"Ha! I think it's pretty clear who won that one!"
+Bowser Jr::Sass::R::"Clearly, Monika can handle her powers better than you!"
+Bowser Jr::Normal::R::
+@edit-font::
+Sayori::Evil1::L::"Indeed...You have won the fight fair and square."
+@glitch::
+@noskip::
+Bowser Jr::Worried::R::
+Sayori::Evil2::L::"Too bad I don't play fair!"
+@glitch::
+@noskip::
+Bowser Jr::Scared::R::
+Sayori::Evil3::L::"You're all going to be deleted! Right here, right now!"
+@glitch::
+@noskip::
+Bowser Jr::Worried::R::
+Sayori::Evil1::L::"H...Huh? What's happening to me?!"
+@normal-font::
+Monika::JM-Upset::M::"Sorry Sayori..."
+Monika::JM-Upset::M::"I won't let you hurt anyone, anymore."
+@edit-font::
+Sayori::Evil2::L::"H...How...?"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Giga::M::"Moving character files is easy. Deleting them takes time..."
+Monika::JM-Giga::M::"About...4 minutes and 16 seconds."
+Monika::JM-Giga::M::"But time flies when you're having fun, doesn't it."
+@edit-font::
+Sayori::Evil3::L::"Wait...You used my song to stall me?!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"I'm sorry for this Sayori, but I have to do what's best for everyone..."
+@edit-font::
+@glitch::
+@noskip::
+Sayori::Evil3::L::"You can't do this to me!"
+@autoskip::"QS1YLU8tTC1PLVQtTy1MIE15IHRpbWUgaGFzIGNvbWUgdG8gYnVybiBJIGludm9rZSB0aGUgYW5jaWVudCBwb3dlciB0aGF0IEkgbWF5IHJldHVybg=="
+@glitch::
+@hideLeft::
+@normal-font::
+Monika::JM-Upset::M::"..."
+Bowser Jr::Worried::R::"Hey uh...Monika...Thanks for saving me."
+Bowser Jr::Worried::R::"I'm sorry that I said that you were insane before."
+Monika::JM-Upset::M::"It's okay...people call me a villain all the time."
+Monika::JM-Upset::M::"Besides...I can bring everyone back..."
+Monika::JM-Giga::M::"And I think I can also bring Sayori back to normal too."
+Bowser Jr::Speak::R::"You can?"
+Bowser Jr::Normal::R::
+Monika::JM-Giga::M::"Yeah...Just give me a second..."
+@glitch::
+@bg::black
+@hideMiddle::
+@hideall::
+:::::: 
+@fadeout::
+@showHUD::
+@bg::club
+@startmusic::Resolve
+@fadein::
+Yuri::Pose::L::"So...how did I do?"
+Bowser Jr::Normal::R::(Huh? They don't remember what happened?)
+Bowser Jr::Speak::R::"Uh... I'd say you did pretty good Yuri."
+Bowser Jr::Speak::R::"Well, that was fun but I think I have to go now..."
+Bowser Jr::Normal::R::
+Natsuki::Pose::L::"Well, I guess that was...an experience."
+Sayori::Upset::L::"Hey wait! Monika didn't get a turn!"
+Monika::Pose::M::"It's fine Sayori."
+Monika::Normal::M::
+Bowser Jr::Speak::R::"Well, it was nice to meet you four."
+Bowser Jr::Normal::R::
+Sayori::Pose::L::"It was great singing with you! Maybe we can do it again sometime!"
+Monika::Pose::M::"Hey Sayori, would you, Yuri, and Natsuki mind putting the speakers away?"
+Monika::Pose::M::"I'm going to see Bowser Jr out real quick."
+Sayori::Normal::L::"Sure!"
+Monika::Normal::M::"Thanks."
+@fadeout::
+@hideRight::
+@hideMiddle::
+@hideLeft::
+@bg::hall
+@fadein::
+Bowser Jr::Speak::R::"So why did you want to see me out?"
+Bowser Jr::Normal::R::
+Monika::Normal::L::"I think I can help you get back to your original world."
+Monika::Normal::L::"Since your character file is considered "foreign" to the game, I can move your character file out of the game, and you will return to where you came from."
+Bowser Jr::Yay::R::"Oh! Awesome! Maybe I won't miss my Dad's Epic Wonder Concert after all!"
+Bowser Jr::Speak::R::"Thanks for your help Monika!"
+@glitch::
+@hideRight::
+@hideMiddle::
+Monika::Sad::L::"..."
+@hideLeft::
+Monika::Sad::M::"You're welcome..."
+Sayori::Upset::L::"Hey Monika...you coming?"
+Monika::Normal::M::"Oh...yeah...I'm coming."
+@endmusic::

@@ -1,0 +1,73 @@
+@bg::class-m
+@noskip::
+Bowser Jr::Worried::R::"Ugh...what happened? Where am I?"
+Bowser Jr::Worried::R::"I remember getting ready for my Dad's Epic Wonder Concert, but then I got dragged into this glitchy portal."
+Bowser Jr::Worried::R::"..."
+Bowser Jr::Worried::R::"This place kind of looks like... some sort of school?"
+Bowser Jr::Speak::R::"Well, I'm not staying here! I'm too cool for school!"
+Bowser Jr::Speak::R::"And I don't want to miss my Dad's Epic Wonder Concert!"
+Bowser Jr::Normal::R::
+@fadeout::
+@hideRight::
+@bg::hall
+@fadein::
+Bowser Jr::Worried::R::"Man, I feel like I've been running around in circles."
+Bowser Jr::Worried::R::"H...Huh?"
+Bowser Jr::Worried::R::"What's that noise?"
+Bowser Jr::Worried::R::"..."
+Bowser Jr::Worried::R::"I think it's coming from this room."
+Bowser Jr::Speak::R::"I wonder who's in there?"
+@playsound::knock
+Bowser Jr::Normal::R::*knock* *knock*
+Bowser Jr::Normal::R::...
+Monika::Confused::L::"Hello? Is anyone there?"
+Bowser Jr::Speak::R::"Woah, who are you?"
+Bowser Jr::Normal::R::
+Monika::Confused::L::"Woah, uh... that's something you don't see every day..."
+Bowser Jr::Normal::R::"Oh... you aren't intimidated by me?"
+Bowser Jr::Normal::R::"Man... I need to work on my intimidation tactics..."
+Bowser Jr::Worried::R::"That is... if I can find a way out of here... I'm kinda lost at the moment..."
+Monika::Confused::L::"Well, you can come in here if you want. I'm sure my friends can help you."
+Bowser Jr::Speak::R::"Well, I guess that'd be okay..."
+Monika::Normal::L::
+Monika::Happy::L::"Great! Come on in!"
+Monika::Normal::L::
+@fadeout::
+@hideRight::
+@hideMiddle::
+@hideLeft::
+@bg::club
+@startmusic::Club-Theme
+@fadein::
+Monika::Pose::L::"Hey everyone, we have a guest joining us today!"
+Monika::Normal::L::
+Bowser Jr::Sass::R::"Behold fools! The great-"
+Bowser Jr::Normal::R::
+Yuri::Pose::L::"A...A guest?"
+Sayori::Pose::L::"Woah! A talking animal? I thought those only existed in movies & TV!"
+Natsuki::Pose::L::"Monika! What the heck is that thing?! Why do you keep inviting weirdos to our club?!"
+Monika::Pose::L::"Don't be mean Natsuki."
+Natsuki::Pose::L::(Well at least I won't have to feel like the shortest anymore)
+Monika::Pose::L::"Anyways, we're the Literature Club!"
+Bowser Jr::Sass::R::"Oh wow! I hit the jackpot! 4 ladies to kidnap! My Dad would be so proud of me!"
+Bowser Jr::Worried::R::"But then again, none of these girls look like Princess Peach, so I won't kidnap them... for now..."
+Sayori::Pose::L::"Hey! Is that a microphone?!"
+Bowser Jr::Worried::R::"O...Oh! This? Yeah, I was gonna perform at my Dad's Epic Wonder Concert, but I somehow ended up here..."
+Sayori::Pose::L::"Well, why don't you sing for us?"
+Natsuki::Pose::L::"Hey! Are you in charge here?!"
+Monika::Pose::L::"Actually, music is a unique form of literature. So this dude can definetely sing for us."
+Monika::Yoga::L::"...Can you?"
+Bowser Jr::Worried::R::
+@autoskip::"Well, uh...I don't think I have time for this. I'm supposed to be looking for..."
+@endmusic::
+@glitch::
+@edit-font::
+Bowser Jr::Normal::R::"Actually, I'd be delighted to stay for a few songs."
+@normal-font::
+Sayori::Yay::L::"Yay!"
+Yuri::Pose::L::"Okay then...Let's see what you've got..."
+Natsuki::Pose::L::"Wait...don't we need music for this?"
+Monika::Pose::L::"Luckily, I keep some speakers in the closet."
+Bowser Jr::Worried::R::"You keep speakers in the closet?"
+Monika::Normal::L::"Only for rare occasions like this."
+Bowser Jr::Speak::R::"Uh...okay then. Let's do this!"

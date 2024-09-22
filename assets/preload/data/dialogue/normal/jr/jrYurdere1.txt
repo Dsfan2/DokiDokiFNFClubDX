@@ -1,0 +1,22 @@
+@bg::club
+@startmusic::Yuri-Theme
+Bowser Jr::Yay::R::"Wow. Even I have to admit, that was pretty good."
+Bowser Jr::Normal::R::(That's odd, I thought I saw her eyes blacking out...)
+Natsuki::Angry::L::"Bleh...I think I've had enough now. Someone else can have a turn."
+@hideLeft::
+Sayori::Normal::M::"Yeah, I think Yuri hasn't had a turn yet."
+Yuri::Nervous::L::"..."
+Sayori::Point::M::"C'mon Yuri, You got this!"
+Yuri::Nervous::L::"Uu..."
+Yuri::Nervous::L::"It's just...I've never done this before..."
+Yuri::Nervous::L::"I...don't even know if I'll sound good..."
+Sayori::Normal::M::"Don't worry Yuri, I know you'll be great!"
+Yuri::Pose::L::"Y...You really think so?"
+Bowser Jr::Speak::R::"Hey, if I can sing like that, surely you can sing... at least on-par with me..."
+Bowser Jr::Normal::R::
+@endmusic::
+@glitch::
+@hideMiddle::
+Yuri::Pose::L::"W...well, singing...does look kind of fun..."
+Yuri::Normal::L::"I'll do it."
+Bowser Jr::Sass::R::"Alright! This is gonna be fun!"

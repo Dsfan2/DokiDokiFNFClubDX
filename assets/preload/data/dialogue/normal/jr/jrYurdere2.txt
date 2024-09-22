@@ -1,0 +1,35 @@
+@bg::club-skill
+@startmusic::Yuri-Theme-Act2
+@glitch::
+Yuri::Yandere2::L::"Khahahaha! I never thought that singing would be so... exciting! Especially singing with another person!"
+Yuri::Yandere3::L::"We should sing together more. For the rest of eternity!"
+Yuri::Yandere1::L::
+Bowser Jr::Worried::R::"Uhhh...Yuri you're starting to freak me out a little."
+Bowser Jr::Worried::R::"Something's not quite right here..."
+Yuri::Yandere2::L::"What are you talking about? I've never felt this good my whole life!"
+Yuri::Yandere2::L::"Which is why I have to tell you, I...I'm madly in love with you!"
+Yuri::Yandere1::L::
+Bowser Jr::Scared::R::"I'm sorry, what?!"
+Yuri::Yandere2::L::"You have the perfect voice, Bowser Jr! I wanna hear that voice for the rest of my life!"
+Yuri::Yandere2::L::"We can be together every day!"
+Yuri::Yandere3::L::"We can sing together..."
+Yuri::Yandere3::L::"Eat together..."
+Yuri::Yandere3::L::"Sleep together..."
+Bowser Jr::Scared::R::"Okay, no... I am a child. I have a Dad."
+Yuri::Yandere1::L::
+Bowser Jr::Worried::R::"Actually, you know what, I'm not gonna kidnap you anymore." 
+Bowser Jr::Worried::R::"Once I escape this dump, I'm gonna get my Dad to punch you into the ground!"
+Yuri::Yandere1::L::"Oh I don't think so! You aren't going anywhere!"
+Yuri::Yandere2::L::"Bowser Jr, you know you want to be with me forever!"
+Yuri::Yandere2::L::"Please tell me that you want to be my lover! Do you accept my confession?"
+Yuri::Yandere1::L::
+Bowser Jr::Angry::R::"Are you kidding me? NO!"
+Bowser Jr::Angry::R::"Not even my own Dad would do something like this!"
+Bowser Jr::Angry::R::"And believe me, he's done some very evil stuff!"
+Bowser Jr::Angry::R::"But this, this is just pure insanity!"
+Bowser Jr::Angry::R::"You're even worse than that Fawful guy my Dad told me about before!"
+Bowser Jr::Upset::R::
+@endmusic::
+@glitch::
+Yuri::Yandere1::L::"..."
+Yuri::Yandere1::L::"Ahahahaha!"
