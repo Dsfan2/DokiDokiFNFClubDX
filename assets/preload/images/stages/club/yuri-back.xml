@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yuri-back.png">
+<SubTexture name="Yuri Bop0000" x="0" y="0" width="700" height="850"/>
+<SubTexture name="Yuri Bop0001" x="0" y="0" width="700" height="850"/>
+<SubTexture name="Yuri Bop0002" x="700" y="0" width="700" height="850"/>
+<SubTexture name="Yuri Bop0003" x="700" y="0" width="700" height="850"/>
+<SubTexture name="Yuri Bop0004" x="0" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0005" x="0" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0006" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0007" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0008" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0009" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0010" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0011" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0012" x="700" y="850" width="700" height="850"/>
+<SubTexture name="Yuri Bop0013" x="700" y="850" width="700" height="850"/>
+</TextureAtlas>

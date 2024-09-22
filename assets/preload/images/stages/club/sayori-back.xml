@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sayori-back.png">
+<SubTexture name="Sayori Bop0000" x="0" y="0" width="600" height="750"/>
+<SubTexture name="Sayori Bop0001" x="0" y="0" width="600" height="750"/>
+<SubTexture name="Sayori Bop0002" x="600" y="0" width="600" height="750"/>
+<SubTexture name="Sayori Bop0003" x="600" y="0" width="600" height="750"/>
+<SubTexture name="Sayori Bop0004" x="0" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0005" x="0" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0006" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0007" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0008" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0009" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0010" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0011" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0012" x="600" y="750" width="600" height="750"/>
+<SubTexture name="Sayori Bop0013" x="600" y="750" width="600" height="750"/>
+</TextureAtlas>

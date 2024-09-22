@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monika-back.png">
+<SubTexture name="Monika Bop0000" x="0" y="0" width="600" height="800"/>
+<SubTexture name="Monika Bop0001" x="0" y="0" width="600" height="800"/>
+<SubTexture name="Monika Bop0002" x="600" y="0" width="600" height="800"/>
+<SubTexture name="Monika Bop0003" x="600" y="0" width="600" height="800"/>
+<SubTexture name="Monika Bop0004" x="0" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0005" x="0" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0006" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0007" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0008" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0009" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0010" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0011" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0012" x="600" y="800" width="600" height="800"/>
+<SubTexture name="Monika Bop0013" x="600" y="800" width="600" height="800"/>
+</TextureAtlas>

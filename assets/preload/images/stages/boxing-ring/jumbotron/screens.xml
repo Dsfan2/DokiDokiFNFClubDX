@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screens.png">
+<SubTexture name="One0000" x="0" y="0" width="744" height="318"/>
+<SubTexture name="One0001" x="0" y="0" width="744" height="318"/>
+<SubTexture name="One0002" x="0" y="318" width="744" height="318"/>
+<SubTexture name="One0003" x="0" y="318" width="744" height="318"/>
+<SubTexture name="Two0000" x="744" y="0" width="744" height="318"/>
+<SubTexture name="Two0001" x="744" y="0" width="744" height="318"/>
+<SubTexture name="Two0002" x="744" y="318" width="744" height="318"/>
+<SubTexture name="Two0003" x="744" y="318" width="744" height="318"/>
+<SubTexture name="Three0000" x="1488" y="0" width="744" height="318"/>
+<SubTexture name="Three0001" x="1488" y="0" width="744" height="318"/>
+<SubTexture name="Three0002" x="1488" y="318" width="744" height="318"/>
+<SubTexture name="Three0003" x="1488" y="318" width="744" height="318"/>
+<SubTexture name="Four0000" x="2232" y="0" width="744" height="318"/>
+<SubTexture name="Five0000" x="2976" y="0" width="744" height="318"/>
+<SubTexture name="Five0001" x="2976" y="0" width="744" height="318"/>
+<SubTexture name="Five0002" x="2976" y="318" width="744" height="318"/>
+<SubTexture name="Five0003" x="2976" y="318" width="744" height="318"/>
+<SubTexture name="Six0000" x="3720" y="0" width="744" height="318"/>
+<SubTexture name="Six0001" x="3720" y="0" width="744" height="318"/>
+<SubTexture name="Six0002" x="3720" y="318" width="744" height="318"/>
+<SubTexture name="Six0003" x="3720" y="318" width="744" height="318"/>
+<SubTexture name="Blank0000" x="2232" y="318" width="744" height="318"/>
+</TextureAtlas>

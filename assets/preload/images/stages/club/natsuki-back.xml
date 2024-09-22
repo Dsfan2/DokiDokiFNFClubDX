@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="natsuki-back.png">
+<SubTexture name="Natsuki Bop0000" x="0" y="0" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0001" x="0" y="0" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0002" x="500" y="0" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0003" x="500" y="0" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0004" x="0" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0005" x="0" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0006" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0007" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0008" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0009" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0010" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0011" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0012" x="500" y="750" width="500" height="750"/>
+<SubTexture name="Natsuki Bop0013" x="500" y="750" width="500" height="750"/>
+</TextureAtlas>
