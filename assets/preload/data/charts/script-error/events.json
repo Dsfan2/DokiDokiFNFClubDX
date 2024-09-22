@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "final-boss",
+		"player1": "bf-angry",
+		"player2": "sayorivil",
+		"player3": null,
+		"events": [
+			[
+				5333.33333333333,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.15"
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Glitch Effect",
+						"2",
+						"5.33"
+					]
+				]
+			],
+			[
+				250666.666666667,
+				[
+					[
+						"Glitch Effect",
+						"3",
+						"2"
+					],
+					[
+						"White Screen Fade",
+						"1",
+						"1.4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Script Error"
+	}
+}

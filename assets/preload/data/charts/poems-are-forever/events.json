@@ -1,0 +1,93 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "clubroom",
+		"player1": "bf",
+		"player2": "yuri",
+		"player3": null,
+		"events": [
+			[
+				151655.172413793,
+				[
+					[
+						"Static Fade",
+						"0.4",
+						"0"
+					]
+				],
+				151655.172413793
+			],
+			[
+				152275.862068965,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0"
+					]
+				],
+				152275.862068965
+			],
+			[
+				177103.448275862,
+				[
+					[
+						"Static Fade",
+						"0.7",
+						"0"
+					]
+				],
+				177103.448275862
+			],
+			[
+				178344.827586207,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0"
+					]
+				],
+				178344.827586207
+			],
+			[
+				205241.379310345,
+				[
+					[
+						"Black Screen Fade",
+						"0.8",
+						"13.24"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.7",
+						"13.24"
+					],
+					[
+						"Camera Follow Pos",
+						"580",
+						"400"
+					]
+				]
+			],
+			[
+				218482.758620689,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Poems Are Forever"
+	}
+}

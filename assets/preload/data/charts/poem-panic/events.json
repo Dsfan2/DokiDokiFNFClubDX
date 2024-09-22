@@ -1,0 +1,181 @@
+{
+	"song": {
+		"events": [
+			[
+				122033.898305085,
+				[
+					[
+						"Hud Fade",
+						"0",
+						"1.5"
+					]
+				]
+			],
+			[
+				123670.261941448,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"bf"
+					]
+				]
+			],
+			[
+				124215.716486903,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				124761.171032357,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				125306.625577812,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				125852.080123267,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				126397.534668721,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				126942.989214176,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				127488.44375963,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				128033.898305085,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				128579.352850539,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				129124.807395994,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				129670.261941448,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				130215.716486903,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				130761.171032357,
+				[
+					[
+						"Play Animation",
+						"killed",
+						"dad"
+					]
+				]
+			],
+			[
+				131170.261941448,
+				[
+					[
+						"Play Animation",
+						"fall",
+						"dad"
+					]
+				]
+			],
+			[
+				131306.625577812,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

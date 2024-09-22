@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				3692.30769230769,
+				[
+					[
+						"Glitch Effect",
+						"3",
+						"0.1"
+					]
+				]
+			],
+			[
+				166153.846153846,
+				[
+					[
+						"Hud Fade",
+						"0",
+						"3"
+					]
+				]
+			],
+			[
+				169846.153846154,
+				[
+					[
+						"Play Animation",
+						"knife",
+						"dad"
+					]
+				]
+			],
+			[
+				170368.269230769,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				171346.153846154,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				171692.307692308,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				172153.846153846,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				172500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				172846.153846154,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				173192.307692308,
+				[
+					[
+						"Play Animation",
+						"pre-stab",
+						"dad"
+					]
+				]
+			],
+			[
+				173538.461538461,
+				[
+					[
+						"Play Sound",
+						"stab",
+						""
+					]
+				]
+			],
+			[
+				173942.307692308,
+				[
+					[
+						"Play Animation",
+						"stab-loop",
+						"dad"
+					]
+				]
+			],
+			[
+				175153.846153846,
+				[
+					[
+						"Play Animation",
+						"fall",
+						"dad"
+					]
+				]
+			],
+			[
+				175384.615384615,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"Play Sound",
+						"body-fall",
+						""
+					]
+				]
+			]
+		]
+	}
+}
