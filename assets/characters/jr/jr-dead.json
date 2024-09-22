@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "First Death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Death Loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Death Confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BowserJrDEAD",
+	"position": [
+		-150,
+		-240
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		94,
+		0
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

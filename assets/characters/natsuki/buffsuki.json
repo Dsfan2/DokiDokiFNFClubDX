@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Buffsuki idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Buffsuki left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Buffsuki down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Buffsuki up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Buffsuki right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				72
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "punchLeft",
+			"indices": [],
+			"name": "Attack!"
+		},
+		{
+			"offsets": [
+				30,
+				64
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "punchRight",
+			"indices": [],
+			"name": "Attack2!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/Buffsuki",
+	"position": [
+		-90,
+		-40
+	],
+	"healthicon": "buffsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		78,
+		78
+	],
+	"camera_position": [
+		-200,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "spider idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spider left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spider down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spider up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spider right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/yurachnae",
+	"position": [
+		-260,
+		-10
+	],
+	"healthicon": "spider",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		82,
+		224
+	],
+	"camera_position": [
+		20,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.93
+}
