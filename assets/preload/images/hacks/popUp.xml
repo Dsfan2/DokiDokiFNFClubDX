@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="popUp.png">
+<SubTexture name="popIn0000" x="0" y="0" width="400" height="400"/>
+<SubTexture name="popIn0001" x="0" y="0" width="400" height="400"/>
+<SubTexture name="popIn0002" x="400" y="0" width="400" height="400"/>
+<SubTexture name="popIn0003" x="400" y="0" width="400" height="400"/>
+<SubTexture name="popIn0004" x="800" y="0" width="400" height="400"/>
+<SubTexture name="popIn0005" x="800" y="0" width="400" height="400"/>
+<SubTexture name="popOut0000" x="800" y="0" width="400" height="400"/>
+<SubTexture name="popOut0001" x="800" y="0" width="400" height="400"/>
+<SubTexture name="popOut0002" x="400" y="0" width="400" height="400"/>
+<SubTexture name="popOut0003" x="400" y="0" width="400" height="400"/>
+<SubTexture name="popOut0004" x="0" y="0" width="400" height="400"/>
+<SubTexture name="popOut0005" x="0" y="0" width="400" height="400"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitchPopUp.png">
+<SubTexture name="glitch0000" x="0" y="0" width="420" height="340"/>
+<SubTexture name="glitch0001" x="0" y="0" width="420" height="340"/>
+<SubTexture name="glitch0002" x="420" y="0" width="420" height="340"/>
+<SubTexture name="glitch0003" x="420" y="0" width="420" height="340"/>
+<SubTexture name="glitch0004" x="0" y="340" width="420" height="340"/>
+<SubTexture name="glitch0005" x="0" y="340" width="420" height="340"/>
+<SubTexture name="glitch0006" x="420" y="340" width="420" height="340"/>
+<SubTexture name="glitch0007" x="420" y="340" width="420" height="340"/>
+</TextureAtlas>

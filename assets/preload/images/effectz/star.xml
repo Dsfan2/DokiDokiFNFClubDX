@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="star.png">
+<SubTexture name="starz0000" x="0" y="0" width="64" height="64"/>
+<SubTexture name="starz0001" x="64" y="0" width="64" height="64"/>
+<SubTexture name="starz0002" x="128" y="0" width="64" height="64"/>
+<SubTexture name="starz0003" x="192" y="0" width="64" height="64"/>
+<SubTexture name="starz0004" x="0" y="64" width="64" height="64"/>
+<SubTexture name="starz0005" x="64" y="64" width="64" height="64"/>
+<SubTexture name="starz0006" x="128" y="64" width="64" height="64"/>
+<SubTexture name="starz0007" x="192" y="64" width="64" height="64"/>
+</TextureAtlas>
