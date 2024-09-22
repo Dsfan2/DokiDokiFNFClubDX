@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mon-Ika.png">
+<SubTexture name="Idle0000" x="0" y="0" width="170" height="125"/>
+<SubTexture name="Selected0000" x="170" y="0" width="170" height="125"/>
+<SubTexture name="Locked0000" x="340" y="0" width="170" height="125"/>
+</TextureAtlas>

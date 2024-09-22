@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Supernatural.png">
+<SubTexture name="Idle0000" x="0" y="0" width="230" height="210"/>
+<SubTexture name="Selected0000" x="230" y="0" width="230" height="210"/>
+<SubTexture name="Locked0000" x="460" y="0" width="230" height="210"/>
+</TextureAtlas>

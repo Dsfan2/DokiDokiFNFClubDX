@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diffHeart.png">
+<SubTexture name="All Idle0000" x="0" y="0" width="121" height="95"/>
+<SubTexture name="All Select0000" x="121" y="0" width="121" height="95"/>
+<SubTexture name="Favs Idle0000" x="242" y="0" width="121" height="95"/>
+<SubTexture name="Favs Select0000" x="363" y="0" width="121" height="95"/>
+<SubTexture name="Monika Idle0000" x="484" y="0" width="121" height="95"/>
+<SubTexture name="Monika Select0000" x="605" y="0" width="121" height="95"/>
+<SubTexture name="Sayori Idle0000" x="0" y="95" width="121" height="95"/>
+<SubTexture name="Sayori Select0000" x="121" y="95" width="121" height="95"/>
+<SubTexture name="Yuri Idle0000" x="242" y="95" width="121" height="95"/>
+<SubTexture name="Yuri Select0000" x="363" y="95" width="121" height="95"/>
+<SubTexture name="Natsuki Idle0000" x="484" y="95" width="121" height="95"/>
+<SubTexture name="Natsuki Select0000" x="605" y="95" width="121" height="95"/>
+</TextureAtlas>

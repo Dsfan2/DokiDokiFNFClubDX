@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Spiders Of Markov.png">
+<SubTexture name="Idle0000" x="0" y="0" width="200" height="240"/>
+<SubTexture name="Selected0000" x="200" y="0" width="200" height="240"/>
+<SubTexture name="Locked0000" x="400" y="0" width="200" height="240"/>
+</TextureAtlas>

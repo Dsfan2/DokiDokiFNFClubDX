@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crossover Clash.png">
+<SubTexture name="Idle0000" x="0" y="0" width="353" height="482"/>
+<SubTexture name="Selected0000" x="353" y="0" width="353" height="482"/>
+<SubTexture name="Locked0000" x="706" y="0" width="353" height="482"/>
+</TextureAtlas>

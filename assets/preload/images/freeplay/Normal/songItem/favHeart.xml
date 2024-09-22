@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diffHeart.png">
+<SubTexture name="Appear0000" x="0" y="0" width="140" height="126"/>
+<SubTexture name="Appear0001" x="140" y="0" width="140" height="126"/>
+<SubTexture name="Appear0002" x="280" y="0" width="140" height="126"/>
+<SubTexture name="Appear0003" x="420" y="0" width="140" height="126"/>
+<SubTexture name="Appear0004" x="560" y="0" width="140" height="126"/>
+<SubTexture name="Appear0005" x="700" y="0" width="140" height="126"/>
+<SubTexture name="Disappear0000" x="0" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0001" x="140" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0002" x="280" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0003" x="420" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0004" x="560" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0005" x="700" y="126" width="140" height="126"/>
+<SubTexture name="Disappear0006" x="409" y="79" width="24" height="33"/>
+</TextureAtlas>

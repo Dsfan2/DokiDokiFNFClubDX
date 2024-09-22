@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="difficultyNumbers.png">
+<SubTexture name="Diff 01" x="0" y="0" width="65" height="37"/>
+<SubTexture name="Diff 02" x="65" y="0" width="65" height="37"/>
+<SubTexture name="Diff 03" x="130" y="0" width="65" height="37"/>
+<SubTexture name="Diff 04" x="195" y="0" width="65" height="37"/>
+<SubTexture name="Diff 05" x="260" y="0" width="65" height="37"/>
+<SubTexture name="Diff 06" x="0" y="37" width="65" height="37"/>
+<SubTexture name="Diff 07" x="65" y="37" width="65" height="37"/>
+<SubTexture name="Diff 08" x="130" y="37" width="65" height="37"/>
+<SubTexture name="Diff 09" x="195" y="37" width="65" height="37"/>
+<SubTexture name="Diff 10" x="260" y="37" width="65" height="37"/>
+<SubTexture name="Diff 11" x="0" y="74" width="65" height="37"/>
+<SubTexture name="Diff 12" x="65" y="74" width="65" height="37"/>
+<SubTexture name="Diff 13" x="130" y="74" width="65" height="37"/>
+<SubTexture name="Diff 14" x="195" y="74" width="65" height="37"/>
+<SubTexture name="Diff 15" x="260" y="74" width="65" height="37"/>
+<SubTexture name="Diff 16" x="0" y="111" width="65" height="37"/>
+<SubTexture name="Diff 17" x="65" y="111" width="65" height="37"/>
+<SubTexture name="Diff 18" x="130" y="111" width="65" height="37"/>
+<SubTexture name="Diff 19" x="195" y="111" width="65" height="37"/>
+<SubTexture name="Diff 20" x="260" y="111" width="65" height="37"/>
+</TextureAtlas>

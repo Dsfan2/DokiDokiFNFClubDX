@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Honeycomb.png">
+<SubTexture name="Idle0000" x="0" y="0" width="225" height="210"/>
+<SubTexture name="Selected0000" x="225" y="0" width="225" height="210"/>
+<SubTexture name="Locked0000" x="450" y="0" width="225" height="210"/>
+</TextureAtlas>

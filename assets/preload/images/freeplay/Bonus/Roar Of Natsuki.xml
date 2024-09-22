@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Roar Of Natsuki.png">
+<SubTexture name="Idle0000" x="0" y="0" width="240" height="220"/>
+<SubTexture name="Selected0000" x="250" y="0" width="240" height="220"/>
+<SubTexture name="Locked0000" x="500" y="0" width="240" height="220"/>
+</TextureAtlas>

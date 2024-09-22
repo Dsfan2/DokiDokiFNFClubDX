@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rankbadges.png">
+<SubTexture name="PERFECT rank0000" x="0" y="0" width="31" height="19"/>
+<SubTexture name="SPECTACULAR rank0000" x="31" y="0" width="31" height="19"/>
+<SubTexture name="SUPER rank0000" x="62" y="0" width="31" height="19"/>
+<SubTexture name="AWESOME rank0000" x="0" y="19" width="31" height="19"/>
+<SubTexture name="BEAUTIFUL rank0000" x="31" y="19" width="31" height="19"/>
+<SubTexture name="COOL rank0000" x="62" y="19" width="31" height="19"/>
+<SubTexture name="DUMB rank0000" x="0" y="38" width="31" height="19"/>
+<SubTexture name="EMBARRASSING rank0000" x="31" y="38" width="31" height="19"/>
+<SubTexture name="FAILURE rank0000" x="62" y="38" width="31" height="19"/>
+<SubTexture name="GARBAGE rank0000" x="0" y="57" width="31" height="19"/>
+<SubTexture name="HORRIBLE rank0000" x="31" y="57" width="31" height="19"/>
+<SubTexture name="LOSER rank0000" x="62" y="57" width="31" height="19"/>
+</TextureAtlas>

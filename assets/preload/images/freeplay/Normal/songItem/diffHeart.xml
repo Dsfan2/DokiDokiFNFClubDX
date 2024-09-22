@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diffHeart.png">
+<SubTexture name="Easy0000" x="0" y="0" width="140" height="285"/>
+<SubTexture name="Normal0000" x="140" y="0" width="140" height="285"/>
+<SubTexture name="Hard0000" x="280" y="0" width="140" height="285"/>
+<SubTexture name="Extreme0000" x="420" y="0" width="140" height="285"/>
+<SubTexture name="Extreme0001" x="560" y="0" width="140" height="285"/>
+<SubTexture name="Extreme0002" x="700" y="0" width="140" height="285"/>
+<SubTexture name="Extreme0003" x="0" y="285" width="140" height="285"/>
+<SubTexture name="Extreme0004" x="140" y="285" width="140" height="285"/>
+<SubTexture name="Extreme0005" x="280" y="285" width="140" height="285"/>
+<SubTexture name="Extreme0006" x="420" y="285" width="140" height="285"/>
+<SubTexture name="Extreme0007" x="560" y="285" width="140" height="285"/>
+</TextureAtlas>

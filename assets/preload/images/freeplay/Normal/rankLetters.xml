@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diffHeart.png">
+<SubTexture name="PERFECT Rank0000" x="0" y="0" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0001" x="60" y="0" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0002" x="120" y="0" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0003" x="180" y="0" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0004" x="240" y="0" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0005" x="0" y="66" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0006" x="60" y="66" width="60" height="66"/>
+<SubTexture name="PERFECT Rank0007" x="120" y="66" width="60" height="66"/>
+<SubTexture name="SPECTACULAR Rank0000" x="180" y="66" width="60" height="66"/>
+<SubTexture name="SUPER Rank0000" x="240" y="66" width="60" height="66"/>
+<SubTexture name="AWESOME Rank0000" x="0" y="132" width="60" height="66"/>
+<SubTexture name="BEAUTIFUL Rank0000" x="60" y="132" width="60" height="66"/>
+<SubTexture name="COOL Rank0000" x="120" y="132" width="60" height="66"/>
+<SubTexture name="DUMB Rank0000" x="180" y="132" width="60" height="66"/>
+<SubTexture name="EMBERASSING Rank0000" x="240" y="132" width="60" height="66"/>
+<SubTexture name="FAILURE Rank0000" x="0" y="198" width="60" height="66"/>
+<SubTexture name="GARBAGE Rank0000" x="60" y="198" width="60" height="66"/>
+<SubTexture name="HORRIBLE Rank0000" x="120" y="198" width="60" height="66"/>
+<SubTexture name="LOSER Rank0000" x="180" y="198" width="60" height="66"/>
+<SubTexture name="LOSER Rank0001" x="240" y="198" width="60" height="66"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Festival Deluxe.png">
+<SubTexture name="Idle0000" x="0" y="0" width="400" height="551"/>
+<SubTexture name="Selected0000" x="400" y="0" width="400" height="551"/>
+<SubTexture name="Locked0000" x="800" y="0" width="400" height="551"/>
+</TextureAtlas>

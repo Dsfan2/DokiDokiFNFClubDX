@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="classic_songlist_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Candy Hearts idle0000" x="10" y="20" width="146" height="23"/>
+	<SubTexture name="Lavender Mist idle0000" x="10" y="74" width="159" height="22"/>
+	<SubTexture name="Strawberry Peppermint idle0000" x="9" y="131" width="263" height="24"/>
+	<SubTexture name="Candy Heartz idle0000" x="10" y="188" width="146" height="23"/>
+	<SubTexture name="My Song Your Note idle0000" x="10" y="245" width="215" height="22"/>
+	<SubTexture name="Play With Me idle0000" x="10" y="299" width="149" height="24"/>
+	<SubTexture name="Poem Panic idle0000" x="10" y="355" width="128" height="19"/>
+	<SubTexture name="Just Monika idle0000" x="9" y="411" width="134" height="19"/>
+	<SubTexture name="Doki Forever idle0000" x="10" y="467" width="145" height="19"/>
+	<SubTexture name="Dark Star idle0000" x="10" y="524" width="103" height="18"/>
+	<SubTexture name="You Can't Run idle0000" x="9" y="580" width="151" height="18"/>
+	<SubTexture name="Ultimate Glitcher idle0000" x="10" y="635" width="193" height="19"/>
+	<SubTexture name="Fresh Literature idle0000" x="48" y="691" width="175" height="19"/>
+	<SubTexture name="Cupcakes idle0000" x="105" y="744" width="108" height="26"/>
+	<SubTexture name="Poems Are Forever idle0000" x="10" y="805" width="215" height="17"/>
+	<SubTexture name="The Final Battle idle0000" x="52" y="859" width="172" height="19"/>
+	<SubTexture name="Your Reality idle0000" x="87" y="915" width="135" height="24"/>
+	<SubTexture name="Candy Hearts select0000" x="483" y="20" width="146" height="23"/>
+	<SubTexture name="Lavender Mist select0000" x="483" y="74" width="159" height="22"/>
+	<SubTexture name="Strawberry Peppermint select0000" x="482" y="131" width="263" height="24"/>
+	<SubTexture name="Candy Heartz select0000" x="483" y="188" width="146" height="23"/>
+	<SubTexture name="My Song Your Note select0000" x="483" y="245" width="215" height="22"/>
+	<SubTexture name="Play With Me select0000" x="483" y="299" width="149" height="24"/>
+	<SubTexture name="Poem Panic select0000" x="483" y="355" width="128" height="19"/>
+	<SubTexture name="Just Monika select0000" x="482" y="411" width="134" height="19"/>
+	<SubTexture name="Doki Forever select0000" x="483" y="467" width="145" height="19"/>
+	<SubTexture name="Dark Star select0000" x="483" y="524" width="103" height="18"/>
+	<SubTexture name="You Can't Run select0000" x="482" y="580" width="151" height="18"/>
+	<SubTexture name="Ultimate Glitcher select0000" x="483" y="635" width="193" height="19"/>
+	<SubTexture name="Fresh Literature select0000" x="521" y="691" width="175" height="19"/>
+	<SubTexture name="Cupcakes select0000" x="578" y="744" width="108" height="26"/>
+	<SubTexture name="Poems Are Forever select0000" x="483" y="805" width="215" height="17"/>
+	<SubTexture name="The Final Battle select0000" x="525" y="859" width="172" height="19"/>
+	<SubTexture name="Your Reality select0000" x="560" y="915" width="135" height="24"/>
+</TextureAtlas>
