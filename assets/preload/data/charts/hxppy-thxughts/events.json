@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "clubroom",
+		"player1": "bf",
+		"player2": "sayori",
+		"player3": null,
+		"events": [
+			[
+				69397.5903614458,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.2"
+					],
+					[
+						"Black Screen Fade",
+						"0.8",
+						"9.9"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"10.12"
+					]
+				]
+			],
+			[
+				79156.6265060242,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				79518.0722891567,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"Play Sound",
+						"Lights_Shut_off",
+						""
+					]
+				]
+			],
+			[
+				80602.4096385543,
+				[
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				80963.8554216868,
+				[
+					[
+						"Stage Morph",
+						"s-bedroom",
+						""
+					]
+				]
+			],
+			[
+				81325.3012048193,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sayori-hang"
+					]
+				]
+			],
+			[
+				85301.2048192772,
+				[
+					[
+						"Black Screen Fade",
+						"0.2",
+						"0"
+					],
+					[
+						"Glitch Effect",
+						"",
+						"0.2"
+					],
+					[
+						"Play Sound",
+						"Lights_Turn_On",
+						""
+					]
+				]
+			],
+			[
+				109879.518072289,
+				[
+					[
+						"Glitch Effect",
+						"",
+						"0.1"
+					]
+				]
+			],
+			[
+				179277.108433735,
+				[
+					[
+						"Glitch Effect",
+						"",
+						"9"
+					],
+					[
+						"Hud Fade",
+						"0",
+						"1.2"
+					]
+				]
+			],
+			[
+				186144.578313253,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"1.4"
+					]
+				]
+			],
+			[
+				187951.807228915,
+				[
+					[
+						"Show End Screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 166,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hxppy Thxughts"
+	}
+}

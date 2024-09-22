@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "field",
+		"player1": "bf",
+		"player2": "flower-monika_w-shd",
+		"player3": null,
+		"events": [
+			[
+				11098.2658959538,
+				[
+					[
+						"Song Blurb",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 173,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Flower Power"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "clubroom-skill",
+		"player1": "bf",
+		"player2": "glitchsuki",
+		"player3": null,
+		"events": [
+			[
+				20392.1568627451,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				75294.1176470588,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				104313.725490196,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				125490.196078431,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"12.55"
+					]
+				]
+			],
+			[
+				150588.235294118,
+				[
+					[
+						"Hud Fade",
+						"0",
+						"1.2"
+					]
+				]
+			],
+			[
+				153725.490196078,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					],
+					[
+						"Play Animation",
+						"break",
+						"dad"
+					],
+					[
+						"Play Sound",
+						"necc_cracc",
+						""
+					]
+				]
+			],
+			[
+				154509.803921569,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"0"
+					],
+					[
+						"Play Sound",
+						"running",
+						""
+					]
+				]
+			],
+			[
+				155294.117647059,
+				[
+					[
+						"Show End Screen",
+						"180",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 153,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Glitch"
+	}
+}

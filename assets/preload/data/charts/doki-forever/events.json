@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "spaceroom",
+		"player1": "bf-gone",
+		"player2": "monika-giga",
+		"player3": null,
+		"events": [
+			[
+				70727.2727272728,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				92909.090909091,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.53"
+					]
+				]
+			],
+			[
+				174363.636363636,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"2.46"
+					]
+				]
+			],
+			[
+				176727.272727272,
+				[
+					[
+						"Black Screen Fade",
+						"1",
+						"1.08"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Doki Forever"
+	}
+}

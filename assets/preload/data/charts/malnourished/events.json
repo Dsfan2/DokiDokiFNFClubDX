@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"DefaultCamZoom Change",
+						"1.5",
+						"1.68"
+					],
+					[
+						"Static Fade",
+						"0.7",
+						"1.68"
+					],
+					[
+						"Play Animation",
+						"ummm",
+						"dad"
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.4"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0"
+					],
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0"
+					]
+				]
+			],
+			[
+				136714.285714286,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.4"
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"glitchsuki"
+					],
+					[
+						"Static Fade",
+						"0.2",
+						"0"
+					],
+					[
+						"Stage Morph",
+						"clubroom-skill",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "s-bedroom",
+		"player1": "bf",
+		"player2": "sxyori",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Static Fade",
+						"1",
+						"1.635"
+					]
+				]
+			],
+			[
+				1643.83561643836,
+				[
+					[
+						"Static Fade",
+						"0",
+						"0.06"
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Screen Flash",
+						"3",
+						""
+					],
+					[
+						"Stage Morph",
+						"spaceroom",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"monika-upset"
+					],
+					[
+						"Heath Drain",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"monika-upset"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Static Fade",
+						"1",
+						"0"
+					],
+					[
+						"Change Character",
+						"dad",
+						"glitchsuki"
+					],
+					[
+						"Change Character",
+						"bf",
+						"jr"
+					],
+					[
+						"Stage Morph",
+						"clubroom-skill",
+						""
+					],
+					[
+						"Heath Drain",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				133253.424657534,
+				[
+					[
+						"Static Fade",
+						"0.2",
+						"0.07"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Screen Flash",
+						"3",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"monika-upset"
+					],
+					[
+						"Stage Morph",
+						"spaceroom",
+						""
+					],
+					[
+						"Heath Drain",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Stage Morph",
+						"clubroom-skill",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"yurdere"
+					],
+					[
+						"Change Character",
+						"bf",
+						"monika"
+					],
+					[
+						"Screen Flash",
+						"3",
+						""
+					],
+					[
+						"Black Screen Fade",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Black Screen Fade",
+						"0",
+						"0"
+					],
+					[
+						"Stage Morph",
+						"spaceroom-glitch",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"monika-giga"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-gone"
+					],
+					[
+						"Screen Flash",
+						"3",
+						"0"
+					],
+					[
+						"Heath Drain",
+						"0",
+						""
+					],
+					[
+						"DefaultCamZoom Change",
+						"0.5",
+						"0.01"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speakers",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Festival Deluxe"
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "clubroom",
+		"player1": "bf",
+		"player2": "sayori",
+		"player3": null,
+		"events": [
+			[
+				1043.47826086957,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				77217.3913043478,
+				[
+					[
+						"Glitch Effect",
+						"1",
+						"2.08"
+					],
+					[
+						"Static Fade",
+						"0.2",
+						"0"
+					],
+					[
+						"DefaultCamZoom Change",
+						"1.15",
+						"0.09"
+					],
+					[
+						"Play Animation",
+						"depress",
+						"dad"
+					]
+				]
+			],
+			[
+				79304.347826087,
+				[
+					[
+						"DefaultCamZoom Change",
+						"",
+						"0.001"
+					],
+					[
+						"Static Fade",
+						"0",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 115,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Depression"
+	}
+}
