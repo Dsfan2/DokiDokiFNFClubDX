@@ -7,6 +7,7 @@ import lime.utils.AssetManifest;
 
 class CoolUtil
 {
+	public static var easterEgg:String = "";
 	public static var programList:Array<String> = [
 		'obs32',
 		'obs64',
@@ -264,15 +265,10 @@ class CoolUtil
 	}
 
 	public static function getTitleTheme() {
-		if (TitleState.endEasterEgg)
-			return 'TheDokiFinale';
+		if (easterEgg == 'Classic')
+			return 'storiesOfFriendshipAndGettinFreaky';
 		else
-		{
-			if (TitleState.classicEasterEgg)
-				return 'storiesOfFriendshipAndGettinFreaky';
-			else
-				return 'DokiNightRemastered';
-		}
+			return 'DokiNightRemastered';
 	}
 
 	inline public static function getRankLetter(acc:Int = 0):String

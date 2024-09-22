@@ -30,7 +30,7 @@ class Paths
 		'doki-forever',
 		'dark-star',
 		"you-can't-run",
-		'ultimate-glicther',
+		'ultimate-glitcher',
 		'festival-deluxe'
 	];
 
