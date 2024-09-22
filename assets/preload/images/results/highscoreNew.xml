@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="highscoreNew.png">
+<SubTexture name="highscoreAnim0000" x="0" y="0" width="140" height="50"/>
+<SubTexture name="highscoreAnim0001" x="140" y="0" width="140" height="50"/>
+<SubTexture name="highscoreAnim0002" x="0" y="50" width="140" height="50"/>
+<SubTexture name="highscoreAnim0003" x="140" y="50" width="140" height="50"/>
+<SubTexture name="highscoreLoop0000" x="0" y="100" width="140" height="50"/>
+<SubTexture name="highscoreLoop0001" x="0" y="100" width="140" height="50"/>
+<SubTexture name="highscoreLoop0002" x="140" y="100" width="140" height="50"/>
+<SubTexture name="highscoreLoop0003" x="140" y="100" width="140" height="50"/>
+<SubTexture name="highscoreLoop0004" x="0" y="150" width="140" height="50"/>
+<SubTexture name="highscoreLoop0005" x="0" y="150" width="140" height="50"/>
+<SubTexture name="highscoreLoop0006" x="140" y="150" width="140" height="50"/>
+<SubTexture name="highscoreLoop0007" x="140" y="150" width="140" height="50"/>	
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tallieNumber.png">
+<SubTexture name="0 small0000" x="0" y="0" width="14" height="23" />
+<SubTexture name="1 small0000" x="14" y="0" width="14" height="23" />
+<SubTexture name="2 small0000" x="28" y="0" width="14" height="23" />
+<SubTexture name="3 small0000" x="42" y="0" width="14" height="23" />
+<SubTexture name="4 small0000" x="56" y="0" width="14" height="23" />
+<SubTexture name="5 small0000" x="0" y="23" width="14" height="23" />
+<SubTexture name="6 small0000" x="14" y="23" width="14" height="23" />
+<SubTexture name="7 small0000" x="28" y="23" width="14" height="23" />
+<SubTexture name="8 small0000" x="42" y="23" width="14" height="23" />
+<SubTexture name="9 small0000" x="56" y="23" width="14" height="23" />
+</TextureAtlas>

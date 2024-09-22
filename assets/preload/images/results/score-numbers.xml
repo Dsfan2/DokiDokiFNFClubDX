@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="score-digital-numbers.png">
+<SubTexture name="DISABLED 0001" x="0" y="0" width="23" height="39"/>
+<SubTexture name="ZERO 0001" x="23" y="0" width="23" height="39"/>
+<SubTexture name="ONE 0001" x="46" y="0" width="23" height="39"/>
+<SubTexture name="TWO 0001" x="69" y="0" width="23" height="39"/>
+<SubTexture name="THREE 0001" x="0" y="39" width="23" height="39"/>
+<SubTexture name="FOUR 0001" x="23" y="39" width="23" height="39"/>
+<SubTexture name="FIVE 0001" x="46" y="39" width="23" height="39"/>
+<SubTexture name="SIX 0001" x="69" y="39" width="23" height="39"/>
+<SubTexture name="SEVEN 0001" x="0" y="78" width="23" height="39"/>
+<SubTexture name="EIGHT 0001" x="23" y="78" width="23" height="39"/>
+<SubTexture name="NINE 0001" x="46" y="78" width="23" height="39"/>
+<SubTexture name="GLITCH 0001" x="69" y="78" width="23" height="39"/>
+</TextureAtlas>

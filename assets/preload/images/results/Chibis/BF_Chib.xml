@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Chib.png">
+<SubTexture name="P Rank0000" x="0" y="0" width="170" height="200"/>
+<SubTexture name="S Rank0000" x="170" y="0" width="170" height="200"/>
+<SubTexture name="A Rank0000" x="340" y="0" width="170" height="200"/>
+<SubTexture name="D Rank0000" x="510" y="0" width="170" height="200"/>
+<SubTexture name="L Rank0000" x="680" y="0" width="170" height="200"/>
+</TextureAtlas>

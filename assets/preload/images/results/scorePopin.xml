@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scorePopin.png">
+<SubTexture name="tally score0000" x="0" y="0" width="56" height="46"/>
+<SubTexture name="tally score0001" x="56" y="0" width="56" height="46"/>
+<SubTexture name="tally score0002" x="112" y="0" width="56" height="46"/>
+<SubTexture name="tally score0003" x="0" y="46" width="56" height="46"/>
+<SubTexture name="tally score0004" x="56" y="46" width="56" height="46"/>
+<SubTexture name="tally score0005" x="112" y="46" width="56" height="46"/>
+<SubTexture name="tally score0006" x="0" y="92" width="56" height="46"/>
+<SubTexture name="tally score0007" x="56" y="92" width="56" height="46"/>
+<SubTexture name="tally score0008" x="112" y="92" width="56" height="46"/>
+<SubTexture name="tally score0009" x="0" y="138" width="56" height="46"/>
+<SubTexture name="tally score0010" x="56" y="138" width="56" height="46"/>
+</TextureAtlas>

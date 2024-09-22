@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clearPercentNumber.png">
+<SubTexture name="number 0 0001" x="0" y="0" width="20" height="31"/>
+<SubTexture name="number 1 0001" x="20" y="4" width="20" height="31"/>
+<SubTexture name="number 2 0001" x="40" y="4" width="20" height="31"/>
+<SubTexture name="number 3 0001" x="60" y="4" width="20" height="31"/>
+<SubTexture name="number 4 0001" x="80" y="4" width="20" height="31"/>
+<SubTexture name="number 5 0001" x="0" y="31" width="20" height="31"/>
+<SubTexture name="number 6 0001" x="20" y="31" width="20" height="31"/>
+<SubTexture name="number 7 0001" x="40" y="31" width="20" height="31"/>
+<SubTexture name="number 8 0001" x="60" y="31" width="20" height="31"/>
+<SubTexture name="number 9 0001" x="80" y="31" width="20" height="31"/>
+</TextureAtlas>

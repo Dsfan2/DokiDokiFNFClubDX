@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tipTextThing.png">
+<SubTexture name="Writing Tip Of The Day 0000" x="0" y="0" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0001" x="0" y="0" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0002" x="196" y="0" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0003" x="196" y="0" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0004" x="0" y="60" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0005" x="0" y="60" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0006" x="196" y="60" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0007" x="196" y="60" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0008" x="0" y="120" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0009" x="0" y="120" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0010" x="196" y="120" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0011" x="196" y="120" width="196" height="60"/>
+<SubTexture name="Writing Tip Of The Day 0012" x="0" y="180" width="196" height="60"/>
+</TextureAtlas>

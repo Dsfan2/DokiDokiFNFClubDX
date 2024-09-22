@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="results.png">
+<SubTexture name="results instance 10000" x="0" y="0" width="175" height="58"/>
+<SubTexture name="results instance 10001" x="175" y="0" width="175" height="58"/>
+<SubTexture name="results instance 10002" x="0" y="58" width="175" height="58"/>
+<SubTexture name="results instance 10003" x="175" y="58" width="175" height="58"/>
+<SubTexture name="results instance 10004" x="0" y="116" width="175" height="58"/>
+<SubTexture name="results instance 10005" x="175" y="116" width="175" height="58"/>
+<SubTexture name="results instance 10006" x="0" y="174" width="175" height="58"/>
+</TextureAtlas>
