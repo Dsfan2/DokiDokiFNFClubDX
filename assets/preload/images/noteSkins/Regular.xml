@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Regular.png">
+<SubTexture name="arrowLEFT0000" x="0" y="0" width="150" height="150"/>
+<SubTexture name="arrowDOWN0000" x="150" y="0" width="150" height="150"/>
+<SubTexture name="arrowUP0000" x="300" y="0" width="150" height="150"/>
+<SubTexture name="arrowRIGHT0000" x="450" y="0" width="150" height="150"/>
+<SubTexture name="left press0000" x="600" y="0" width="150" height="150"/>
+<SubTexture name="left press0001" x="600" y="0" width="150" height="150"/>
+<SubTexture name="left press0002" x="750" y="0" width="150" height="150"/>
+<SubTexture name="left press0003" x="750" y="0" width="150" height="150"/>
+<SubTexture name="down press0000" x="0" y="150" width="150" height="150"/>
+<SubTexture name="down press0001" x="0" y="150" width="150" height="150"/>
+<SubTexture name="down press0002" x="150" y="150" width="150" height="150"/>
+<SubTexture name="down press0003" x="150" y="150" width="150" height="150"/>
+<SubTexture name="up press0000" x="300" y="150" width="150" height="150"/>
+<SubTexture name="up press0001" x="300" y="150" width="150" height="150"/>
+<SubTexture name="up press0002" x="450" y="150" width="150" height="150"/>
+<SubTexture name="up press0003" x="450" y="150" width="150" height="150"/>
+<SubTexture name="right press0000" x="600" y="150" width="150" height="150"/>
+<SubTexture name="right press0001" x="600" y="150" width="150" height="150"/>
+<SubTexture name="right press0002" x="750" y="150" width="150" height="150"/>
+<SubTexture name="right press0003" x="750" y="150" width="150" height="150"/>
+<SubTexture name="purple0000" x="0" y="300" width="150" height="150"/>
+<SubTexture name="blue0000" x="150" y="300" width="150" height="150"/>
+<SubTexture name="green0000" x="300" y="300" width="150" height="150"/>
+<SubTexture name="red0000" x="450" y="300" width="150" height="150"/>
+<SubTexture name="left confirm0000" x="600" y="300" width="150" height="150"/>
+<SubTexture name="left confirm0001" x="750" y="300" width="150" height="150"/>
+<SubTexture name="left confirm0002" x="0" y="450" width="150" height="150"/>
+<SubTexture name="left confirm0003" x="0" y="450" width="150" height="150"/>
+<SubTexture name="down confirm0000" x="150" y="450" width="150" height="150"/>
+<SubTexture name="down confirm0001" x="300" y="450" width="150" height="150"/>
+<SubTexture name="down confirm0002" x="450" y="450" width="150" height="150"/>
+<SubTexture name="down confirm0003" x="450" y="450" width="150" height="150"/>
+<SubTexture name="up confirm0000" x="600" y="450" width="150" height="150"/>
+<SubTexture name="up confirm0001" x="750" y="450" width="150" height="150"/>
+<SubTexture name="up confirm0002" x="0" y="600" width="150" height="150"/>
+<SubTexture name="up confirm0003" x="0" y="600" width="150" height="150"/>
+<SubTexture name="right confirm0000" x="150" y="600" width="150" height="150"/>
+<SubTexture name="right confirm0001" x="300" y="600" width="150" height="150"/>
+<SubTexture name="right confirm0002" x="450" y="600" width="150" height="150"/>
+<SubTexture name="right confirm0003" x="450" y="600" width="150" height="150"/>
+<SubTexture name="pruple end hold0000" x="750" y="600" width="74" height="64"/>
+<SubTexture name="purple hold piece0000" x="600" y="600" width="74" height="44"/>
+<SubTexture name="blue hold end0000" x="750" y="600" width="74" height="64"/>
+<SubTexture name="blue hold piece0000" x="600" y="600" width="74" height="44"/>
+<SubTexture name="green hold end0000" x="750" y="600" width="74" height="64"/>
+<SubTexture name="green hold piece0000" x="600" y="600" width="74" height="44"/>
+<SubTexture name="red hold end0000" x="750" y="600" width="74" height="64"/>
+<SubTexture name="red hold piece0000" x="600" y="600" width="74" height="44"/>
+</TextureAtlas>

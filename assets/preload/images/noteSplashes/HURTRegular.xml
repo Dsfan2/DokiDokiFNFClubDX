@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HURTnoteSplashes-doki.png">
+<SubTexture name="note splash anim0000" x="0" y="0" width="250" height="250"/>
+<SubTexture name="note splash anim0001" x="250" y="0" width="250" height="250"/>
+<SubTexture name="note splash anim0002" x="500" y="0" width="250" height="250"/>
+<SubTexture name="note splash anim0003" x="750" y="0" width="250" height="250"/>
+</TextureAtlas>
