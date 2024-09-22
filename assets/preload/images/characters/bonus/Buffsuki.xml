@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Buffsuki.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack!0000" x="0" y="0" width="474" height="800" frameX="0" frameY="0" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0001" x="474" y="0" width="480" height="783" frameX="-31" frameY="-17" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0002" x="954" y="0" width="483" height="783" frameX="-33" frameY="-17" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0003" x="1437" y="0" width="673" height="734" frameX="-105" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0004" x="1437" y="0" width="673" height="734" frameX="-105" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0005" x="2110" y="0" width="794" height="734" frameX="-102" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0006" x="2110" y="0" width="794" height="734" frameX="-102" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0007" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0008" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0009" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0010" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0011" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0012" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0013" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack!0014" x="2904" y="0" width="641" height="734" frameX="-98" frameY="-65" frameWidth="896" frameHeight="800"/>
+	<SubTexture name="Attack2!0000" x="3545" y="0" width="448" height="792" frameX="0" frameY="0" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0001" x="3545" y="0" width="448" height="792" frameX="0" frameY="0" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0002" x="0" y="800" width="438" height="782" frameX="-19" frameY="-10" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0003" x="438" y="800" width="435" height="777" frameX="-24" frameY="-15" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0004" x="873" y="800" width="631" height="723" frameX="-101" frameY="-69" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0005" x="873" y="800" width="631" height="723" frameX="-101" frameY="-69" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0006" x="1504" y="800" width="438" height="727" frameX="-95" frameY="-65" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0007" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0008" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0009" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0010" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0011" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0012" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0013" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0014" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0015" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0016" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0017" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0018" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0019" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0020" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0021" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0022" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0023" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0024" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0025" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0026" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0027" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0028" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0029" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0030" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0031" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0032" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0033" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0034" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0035" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0036" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0037" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0038" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Attack2!0039" x="1942" y="800" width="424" height="729" frameX="-94" frameY="-63" frameWidth="732" frameHeight="792"/>
+	<SubTexture name="Buffsuki down0000" x="2366" y="800" width="360" height="711" frameX="0" frameY="-16" frameWidth="360" frameHeight="727"/>
+	<SubTexture name="Buffsuki down0001" x="2366" y="800" width="360" height="711" frameX="0" frameY="-16" frameWidth="360" frameHeight="727"/>
+	<SubTexture name="Buffsuki down0002" x="2726" y="800" width="360" height="726" frameX="0" frameY="-1" frameWidth="360" frameHeight="727"/>
+	<SubTexture name="Buffsuki down0003" x="2726" y="800" width="360" height="726" frameX="0" frameY="-1" frameWidth="360" frameHeight="727"/>
+	<SubTexture name="Buffsuki down0004" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0005" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0006" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0007" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0008" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0009" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki down0010" x="3086" y="800" width="360" height="727"/>
+	<SubTexture name="Buffsuki idle0000" x="3446" y="800" width="405" height="725" frameX="-3" frameY="-13" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0001" x="3446" y="800" width="405" height="725" frameX="-3" frameY="-13" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0002" x="0" y="1582" width="397" height="733" frameX="-9" frameY="-5" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0003" x="0" y="1582" width="397" height="733" frameX="-9" frameY="-5" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0004" x="397" y="1582" width="410" height="734" frameX="-4" frameY="-4" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0005" x="397" y="1582" width="410" height="734" frameX="-4" frameY="-4" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0006" x="807" y="1582" width="406" height="738" frameX="-4" frameY="0" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0007" x="807" y="1582" width="406" height="738" frameX="-4" frameY="0" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0008" x="1213" y="1582" width="408" height="734" frameX="0" frameY="-4" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0009" x="1213" y="1582" width="408" height="734" frameX="0" frameY="-4" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki idle0010" x="1213" y="1582" width="408" height="734" frameX="0" frameY="-4" frameWidth="414" frameHeight="738"/>
+	<SubTexture name="Buffsuki left0000" x="1621" y="1582" width="383" height="737" frameX="0" frameY="0" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0001" x="1621" y="1582" width="383" height="737" frameX="0" frameY="0" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0002" x="2004" y="1582" width="379" height="723" frameX="-18" frameY="-14" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0003" x="2004" y="1582" width="379" height="723" frameX="-18" frameY="-14" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0004" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0005" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0006" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0007" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0008" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0009" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki left0010" x="2383" y="1582" width="380" height="725" frameX="-19" frameY="-12" frameWidth="399" frameHeight="737"/>
+	<SubTexture name="Buffsuki right0000" x="2763" y="1582" width="413" height="743" frameX="-5" frameY="0" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0001" x="2763" y="1582" width="413" height="743" frameX="-5" frameY="0" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0002" x="3176" y="1582" width="407" height="734" frameX="-1" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0003" x="3176" y="1582" width="407" height="734" frameX="-1" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0004" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0005" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0006" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0007" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0008" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0009" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki right0010" x="3583" y="1582" width="407" height="734" frameX="0" frameY="-9" frameWidth="418" frameHeight="743"/>
+	<SubTexture name="Buffsuki up0000" x="0" y="2325" width="618" height="766" frameX="0" frameY="0" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0001" x="0" y="2325" width="618" height="766" frameX="0" frameY="0" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0002" x="618" y="2325" width="611" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0003" x="618" y="2325" width="611" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0004" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0005" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0006" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0007" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0008" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0009" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+	<SubTexture name="Buffsuki up0010" x="1229" y="2325" width="612" height="750" frameX="-24" frameY="-15" frameWidth="636" frameHeight="766"/>
+</TextureAtlas>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spiders-gameover.png">
+<SubTexture name="Bite Of 87 0000" x="0" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0001" x="0" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0002" x="640" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0003" x="640" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0004" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0005" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0006" x="0" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0007" x="0" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0008" x="640" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0009" x="640" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0010" x="1280" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0011" x="1280" y="360" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0012" x="0" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0013" x="0" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0014" x="640" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0015" x="640" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0016" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0017" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0018" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0019" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0020" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0021" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0022" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0023" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0024" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0025" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0026" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0027" x="1280" y="0" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0028" x="1280" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0029" x="1280" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0030" x="1280" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0031" x="1280" y="720" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0032" x="0" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0033" x="0" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0034" x="0" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0035" x="0" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0036" x="640" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0037" x="640" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0038" x="640" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0039" x="640" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0040" x="1280" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0041" x="1280" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0042" x="1280" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0043" x="1280" y="1080" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0044" x="0" y="1440" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0045" x="0" y="1440" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0046" x="0" y="1440" width="640" height="360"/>
+<SubTexture name="Bite Of 87 0047" x="0" y="1440" width="640" height="360"/>
+<SubTexture name="Blod 0000" x="0" y="1440" width="640" height="360"/>
+<SubTexture name="Retry 0000" x="640" y="1440" width="640" height="360"/>
+<SubTexture name="Retry 0001" x="640" y="1440" width="640" height="360"/>
+<SubTexture name="Retry 0002" x="1280" y="1440" width="640" height="360"/>
+<SubTexture name="Retry 0003" x="1280" y="1440" width="640" height="360"/>
+<SubTexture name="Retry 0004" x="0" y="1800" width="640" height="360"/>
+<SubTexture name="Retry 0005" x="0" y="1800" width="640" height="360"/>
+<SubTexture name="Retry 0006" x="640" y="1800" width="640" height="360"/>
+<SubTexture name="Retry 0007" x="640" y="1800" width="640" height="360"/>
+</TextureAtlas>

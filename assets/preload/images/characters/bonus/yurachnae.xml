@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yurachnae.png">
+<SubTexture name="spider idle0000" x="0" y="0" width="1000" height="800"/>
+<SubTexture name="spider idle0001" x="1000" y="0" width="1000" height="800"/>
+<SubTexture name="spider idle0002" x="2000" y="0" width="1000" height="800"/>
+<SubTexture name="spider idle0003" x="0" y="800" width="1000" height="800"/>
+<SubTexture name="spider idle0004" x="0" y="800" width="1000" height="800"/>
+<SubTexture name="spider idle0005" x="0" y="800" width="1000" height="800"/>
+<SubTexture name="spider idle0006" x="0" y="800" width="1000" height="800"/>
+<SubTexture name="spider idle0007" x="0" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0000" x="1000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0001" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0002" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0003" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0004" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0005" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0006" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider left0007" x="2000" y="800" width="1000" height="800"/>
+<SubTexture name="spider down0000" x="0" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0001" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0002" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0003" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0004" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0005" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0006" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0007" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider down0001" x="1000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider up0000" x="2000" y="1600" width="1000" height="800"/>
+<SubTexture name="spider up0001" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0002" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0003" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0004" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0005" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0006" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider up0007" x="0" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0000" x="1000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0001" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0002" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0003" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0004" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0005" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0006" x="2000" y="2400" width="1000" height="800"/>
+<SubTexture name="spider right0007" x="2000" y="2400" width="1000" height="800"/>
+</TextureAtlas>

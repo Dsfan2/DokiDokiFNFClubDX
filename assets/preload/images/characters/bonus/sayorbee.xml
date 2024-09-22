@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sayorbee.png">
+<SubTexture name="sayori idle0000" x="0" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0001" x="600" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0002" x="1200" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0003" x="1800" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0004" x="2400" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0005" x="3000" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0006" x="3600" y="0" width="600" height="750"/>
+<SubTexture name="sayori idle0007" x="4200" y="0" width="600" height="750"/>
+<SubTexture name="sayori left0000" x="0" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0001" x="600" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0002" x="1200" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0003" x="1800" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0004" x="2400" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0005" x="3000" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0006" x="3600" y="750" width="600" height="750"/>
+<SubTexture name="sayori left0007" x="4200" y="750" width="600" height="750"/>
+<SubTexture name="sayori down0000" x="0" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0001" x="600" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0002" x="1200" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0003" x="1800" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0004" x="2400" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0005" x="3000" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0006" x="3600" y="1500" width="600" height="750"/>
+<SubTexture name="sayori down0007" x="4200" y="1500" width="600" height="750"/>
+<SubTexture name="sayori up0000" x="0" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0001" x="600" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0002" x="1200" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0003" x="1800" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0004" x="2400" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0005" x="3000" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0006" x="3600" y="2250" width="600" height="750"/>
+<SubTexture name="sayori up0007" x="4200" y="2250" width="600" height="750"/>
+<SubTexture name="sayori right0000" x="0" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0001" x="600" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0002" x="1200" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0003" x="1800" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0004" x="2400" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0005" x="3000" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0006" x="3600" y="3000" width="600" height="750"/>
+<SubTexture name="sayori right0007" x="4200" y="3000" width="600" height="750"/>
+</TextureAtlas>
