@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JR_Story.png">
+<SubTexture name="Idle0000" x="0" y="0" width="500" height="700"/>
+<SubTexture name="Idle0001" x="0" y="0" width="500" height="700"/>
+<SubTexture name="Idle0002" x="500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0003" x="500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0004" x="1000" y="0" width="500" height="700"/>
+<SubTexture name="Idle0005" x="1000" y="0" width="500" height="700"/>
+<SubTexture name="Idle0006" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0007" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0008" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0009" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0010" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0011" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0012" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Idle0013" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Hey0000" x="2000" y="0" width="500" height="700"/>
+<SubTexture name="Hey0001" x="2000" y="0" width="500" height="700"/>
+<SubTexture name="Hey0002" x="0" y="700" width="500" height="700"/>
+<SubTexture name="Hey0003" x="0" y="700" width="500" height="700"/>
+<SubTexture name="Hey0004" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Hey0005" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Hey0006" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Hey0007" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Hey0008" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Hey0009" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Hey0010" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Hey0011" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Null0000" x="1500" y="700" width="500" height="700"/>
+</TextureAtlas>

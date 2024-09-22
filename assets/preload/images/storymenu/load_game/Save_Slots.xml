@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Save_Slots.png">
+<SubTexture name="Locked0000" x="0" y="399" width="237" height="133"/>
+<SubTexture name="BF REGULAR0000" x="0" y="0" width="237" height="133"/>
+<SubTexture name="BF DOKI0000" x="237" y="0" width="237" height="133"/>
+<SubTexture name="JR REGULAR0000" x="0" y="133" width="237" height="133"/>
+<SubTexture name="JR DOKI0000" x="237" y="133" width="237" height="133"/>
+<SubTexture name="MONI REGULAR0000" x="0" y="266" width="237" height="133"/>
+<SubTexture name="MONI DOKI0000" x="237" y="266" width="237" height="133"/>
+</TextureAtlas>
