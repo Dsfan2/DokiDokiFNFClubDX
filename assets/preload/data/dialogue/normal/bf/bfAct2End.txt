@@ -1,0 +1,47 @@
+@bg::club-skill
+@startmusic::ButNobodyCame
+@edit-font::
+Yuri::Dead::L::"V2hhdCBkb2VzIEd5YXR0LCBTa2liaWRpLCBQaGFudW0gVGF4LCAmIFJpenpsZXIgbWVhbj8h"
+Yuri::Dead::L::"SSBhbSAyMSB5ZWFycyBvbGQgYnV0IHdoZW4gSSBoZWFyZCB0aGVzZSBjcmluZ2UgZ2VuIGFscGhhIHNsYW5nIHdvcmRzIEkgZmVsdCA1MC4uLg=="
+Yuri::Dead::L::"Uml6eiBpcyBzaG9ydCBmb3IgY2hhcmlzbWEuIEJ1dCBUaGUgUml6emxlciBzb3VuZHMgbGlrZSBhIHJldGlyZWQgTWNEb25hbGQncyBtYXNjb3QuLi4="
+@normal-font::
+BF::Scared::R::"Well now I need to bleach my eyes out after seeing that."
+BF::Upset::R::"Hey Sayori, I think Yuri's dying over here."
+@glitch::
+@edit-font::
+Sayori::Depress::L::"R3lhdHQgYXBwYXJlbnRseSBtZWFucyBhIGJpZywgZmF0LCBleHRyYSB0aGljYyByZWFyLi4uIHdoaWNoLi4uIHdoeT8/"
+Sayori::Depress::L::"U2tpYmlkaSBzb21laG93IG1lYW5zIGV2aWwsIHdoaWNoLi4uIGV4cGxhaW5zIFNraWJpZGkgVG9pbGV0IHRiaC4uLg=="
+@normal-font::
+BF::Scared::R::"S...Sayori?"
+BF::Upset::R::"Uh...Natsuki are you seeing this?"
+@edit-font::
+@glitch::
+Natsuki::Glitch::L::"QW5kIGEgcGhhbnVtIHRheCBpcyBsaWtlIHdoZW4gYSBmcmllbmQgc3RlYWxzIGEgZnJ5IGZyb20geW91IGFzIGEgZm9vZCB0YXguLi4="
+Natsuki::Glitch::L::"QnV0IGtpZHMgc2F5IGl0IGxpa2UgIllvdSdyZSBzbyBwaGFudW0gdGF4IiB3aGljaCB3b3VsZCBiZSBncmFtbWF0aWNhbGx5IGluY29ycmVjdCEhIENBTiBZJ0FMTCBKVVNUIFNUT1AgV0lUSCBUSEUgQ1JJTkdFPyE="
+Natsuki::Glitch::L::"NWhhcmsgd2FzIGhlcmUgeG94bw=="
+@normal-font::
+BF::Scared::R::"What?! I did see all those things happen to them?!"
+Monika::Pose::L::"Hey everyone! Sorry I took so long! How's it going-"
+Monika::Confused::L::"..."
+Monika::Scared::L::"EYAH!"
+Monika::Scared::L::"What the heck just happened?!"
+BF::Scared::R::"Monika! Thank goodness you're back!"
+GF::Scared::M::"After you left, everyone else just went crazy and I think they all died!"
+Monika::Scared::L::"I left Sayori in charge for a few minutes, and I come back to a disaster!"
+Monika::Scared::L::(This DEFINETELY didn't go as I expected it would!)
+Monika::Confused::L::"Not to worry. I think I can fix this."
+BF::Scared::R::"Oh thank goodness! Wait, how are you gonna fix this?"
+Monika::Confused::L::"Just give me a second..."
+@endmusic::
+@glitch::
+GF::Worried::M::
+@autoskip::"Hey, uh...I don't think I feel so gooooooooo-"
+@autoskip::"oooooooooo"
+@autoskip::"oooooooooo"
+@autoskip::"ooooooo"
+@autoskip::"ooo"
+@glitch::
+@hideMiddle::
+@hideall::
+@bg::black
+::::::.

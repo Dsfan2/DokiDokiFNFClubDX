@@ -1,0 +1,28 @@
+@bg::club
+@startmusic::Sayori-Theme-Act2
+Sayori::Yay::L::"Wow! That was awesome! What do you think?"
+BF::Yay::R::"Yeah! That was really funky! You sounded really good too!"
+GF::Speak::M::"I agree. That was quite impressive."
+Monika::Confused::M::"Hey...uh...I just remembered, I need to check on the festival supplies..."
+Sayori::Point::L::"Don't worry Monika. You can slip out for a bit, I can watch the club for you."
+Monika::Pose::M::"Thanks Sayori. I owe you one!"
+Monika::Normal::M::"Ahahaha..."
+GF::Normal::M::
+Sayori::Normal::L::"Well, as I was saying..."
+Sayori::Normal::L::"I kinda sing to myself sometimes. Helps keep my mind positive."
+BF::Speak::R::"Huh. I bet you've had to face a lot of negatives in your life. Haven't you?"
+BF::Normal::R::
+Sayori::Point::L::"Yeah... That's one way to look at it, but I'm happy when my friends are happy."
+Sayori::Normal::L::
+BF::Worried::R::"Uh...Is that really a good mindset to be in?"
+Sayori::Point::L::"Uhhh...Sometimes, it's best to keep your mind set on the happy thoughts."
+@endmusic::
+Sayori::Normal::L::"..."
+Sayori::Normal::L::"The happy thoughts..."
+BF::Worried::R::"Uh...Sayori? You doing okay?"
+Sayori::Upset::L::"..."
+Sayori::Upset::L::"the happy thoughts..."
+@glitch::
+@bg::club-skill
+Sayori::Depress::L::"..."
+Sayori::Depress::L::"...the hxppy thxughts..."

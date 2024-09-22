@@ -1,0 +1,103 @@
+@bg::glitch
+@noskip::
+BF::Sass::R::"Ha! I think it's pretty clear who won that one!"
+BF::Sass::R::"Clearly, Monika can handle her self-awareness and elevated access better than you!"
+BF::Normal::R::
+@edit-font::
+Sayori::Evil1::L::"Indeed...You have won the previous rap battle fair and square."
+@glitch::
+@noskip::
+Sayori::Evil2::L::"Too bad I don't play fair!"
+@glitch::
+@noskip::
+BF::Scared::R::
+Sayori::Evil3::L::"You're all going to be deleted! Right here, right now!"
+@glitch::
+@noskip::
+BF::Worried::R::
+Sayori::Evil1::L::"H...Huh? What's happening to me?!"
+@normal-font::
+Monika::JM-Upset::M::"Sorry Sayori..."
+Monika::JM-Upset::M::"I won't let you hurt anyone, anymore."
+@edit-font::
+Sayori::Evil2::L::"H...How...?"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Giga::M::"Moving character files is easy. Deleting them takes time..."
+Monika::JM-Giga::M::"About...4 minutes and 16 seconds."
+Monika::JM-Giga::M::"But time flies when you're having fun, doesn't it."
+@edit-font::
+Sayori::Evil3::L::"Wait...You used my song to stall me?!"
+Sayori::Evil1::L::
+@normal-font::
+Monika::JM-Upset::M::"I'm sorry for this Sayori, but I have to do what's best for everyone..."
+@glitch::
+@noskip::
+@edit-font::
+Sayori::Evil3::L::
+@autoskip::"NOOOOOOOOOOOOOOOOOOO-"
+@glitch::
+@hideLeft::
+@normal-font::
+Monika::JM-Upset::M::"..."
+BF::Worried::R::"Hey uh...Monika...Thanks for saving me."
+BF::Worried::R::"I'm sorry that I called you a terrible person before."
+Monika::JM-Upset::M::"It's okay...people call me a villain all the time."
+Monika::JM-Upset::M::"Besides...I can bring everyone back..."
+Monika::JM-Giga::M::"And I think I can also bring Sayori back to normal too."
+BF::Speak::R::"You can?"
+BF::Normal::R::
+Monika::JM-Giga::M::"Yeah...Just give me a second..."
+@glitch::
+@bg::black
+@hideMiddle::
+@hideall::
+:::::: 
+@fadeout::
+@showHUD::
+@bg::club
+@fadein::
+@startmusic::Resolve
+Yuri::Pose::L::"So...how did I do?"
+BF::Normal::R::(Huh? They don't remember what happened?)
+BF::Speak::R::"Uh...You did pretty good Yuri."
+BF::Normal::R::
+GF::Worried::M::"Huh? What happened? I remember BF rapping with Yuri but everything after that is a bit fuzzy."
+BF::Normal::R::"I'll tell you later, GF. Just play along for now."
+GF::Normal::M::
+BF::Speak::R::"Well, that was fun but I think the both of us have to go now."
+BF::Normal::R::
+Natsuki::Pose::L::"Well, I guess that was...an experience."
+Sayori::Upset::L::"Hey wait! Monika didn't get a turn!"
+Monika::Pose::L::"It's fine Sayori."
+Monika::Normal::L::
+BF::Speak::R::"Well, it was nice to meet you four."
+BF::Normal::R::
+Sayori::Pose::L::"Same here! It was great singing with you! Maybe we can do it again sometime!"
+Monika::Pose::L::"Hey Sayori, would you, Yuri, and Natsuki mind putting the speakers away?"
+Monika::Pose::L::"I'm going to see these two out real quick."
+Sayori::Normal::L::"Sure!"
+Monika::Normal::L::"Thanks."
+@fadeout::
+@hideRight::
+@hideMiddle::
+@hideLeft::
+@bg::hall
+@fadein::
+BF::Speak::R::"So why did you want to see us out?"
+BF::Normal::R::
+Monika::Normal::L::"Oh, don't worry, I'm just gonna help you two get back to where you came from."
+Monika::Normal::L::"Since your character files are considered "foreign" to the game, I can move your character files out of the game, and you guys will return to where you came from."
+GF::Speak::M::"Awesome! Now we can finally get out of here!"
+GF::Speak::M::"Thanks Monika!"
+GF::Normal::M::
+BF::Speak::R::"Yeah. Thank you Monika, for everything."
+@glitch::
+@hideRight::
+@hideMiddle::
+Monika::Sad::L::"..."
+@hideLeft::
+Monika::Sad::M::"You're welcome..."
+Sayori::Upset::L::"Hey Monika...you coming?"
+Monika::Normal::M::"Oh...yeah...I'm coming."
+@endmusic::

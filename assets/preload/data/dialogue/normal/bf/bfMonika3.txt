@@ -1,0 +1,47 @@
+@bg::hall
+@startmusic::Resolve
+Monika::Confused::L::"Hey, there's something I wanted to ask you."
+BF::Speak::R::"Sure, go ahead."
+BF::Normal::R::
+Monika::Confused::L::"What brought you two to my literature club?"
+BF::Speak::R::"Well, it's quite the awkward story..."
+BF::Speak::R::"So, my girlfriend and I were just chillin' at her house on a rainy day..."
+BF::Speak::R::"We thought that we would play the Nintendo Switch while we were there..."
+BF::Speak::R::"She suggested Doki Doki Literature Club Plus as our game to play, but as soon as she inserted the game card..."
+BF::Speak::R::"Her dad just had to ruin the fun, by trapping us in the game."
+BF::Normal::R::
+Monika::Confused::L::"Uhhh... How did he do that...?"
+GF::Speak::M::"Both of my parents and I are all demons, so something like that just comes naturally to us."
+GF::Speak::M::"Plus, trapping people in video games is just one of my dad's guilty pleasures."
+GF::Normal::M::
+Monika::Confused::L::"Okay... that's a bit weird..."
+BF::Speak::R::"So we need to find a way out of this game, somehow..."
+BF::Normal::R::
+@endmusic::
+Bowser Jr::Speak::L::"Hey, I heard some singing, what's going on here?!"
+Bowser Jr::Normal::L::
+@startmusic::Argument
+GF::Scared::M::
+BF::Scared::R::"What the heck is that?!"
+GF::Scared::M::"He kind of looks like Bowser Jr from Super Mario Bros Wonder..."
+Bowser Jr::Sass::L::"Oh wow! I've never seen anyone actually scared of me!"
+Bowser Jr::Sass::L::"I knew that I was doing something right!"
+Bowser Jr::Normal::L::
+BF::Sass::R::"Don't worry Girlfriend, I'll protect you from this monster!"
+GF::Normal::M::
+BF::Normal::R::
+Bowser Jr::Speak::L::"Huh, I was looking for a way out of here, but I'm always down for a fight!"
+Bowser Jr::Normal::L::
+BF::Sass::R::"There's only one way to fend off this fiend, a rap battle!"
+BF::Normal::R::
+Bowser Jr::Speak::L::"What a coincidence. I was actually getting ready to sing at my Dad's Epic Wonder concert!"
+Bowser Jr::Sass::L::"A blue pipsqueak like you should be easy for me!"
+Bowser Jr::Normal::L::
+BF::Sass::R::"Finally! A worthy opponent! Our battle shall be legendary!"
+@hideMiddle::
+@hideRight::
+Monika::Confused::L::"Uhh... what?"
+Monika::Confused::L::"I have no idea what's going on..."
+Monika::Confused::L::"But if things keep escalating like this..."
+Monika::Confused::L::"..."
+Monika::Confused::L::"I have to stop this, somehow..."

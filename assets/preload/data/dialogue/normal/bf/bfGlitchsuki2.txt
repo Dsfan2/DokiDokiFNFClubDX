@@ -1,0 +1,18 @@
+@bg::club-skill
+@startmusic::Natsuki-Theme-Act2
+BF::Yay::R::"That was pretty good! What do you think?"
+BF::Normal::R::
+@edit-font::
+Natsuki::noface::L::"TW9uaWthIGlzIE5PVCBhIFlhbmRlcmUhIFN0b3AgY2FsbGluZyBoZXIgdGhhdCE="
+@normal-font::
+BF::Worried::R::"N...Natsuki? What's wrong?"
+GF::Worried::M::"Yeah, are you okay?"
+@edit-font::
+Natsuki::Glitch::L::"RnJpZGF5IE5pZ2h0IEZ1bmtpbicgTW9kIENvbW11bml0eSBpcyBhd2Z1bGx5IHRveGljLg=="
+@normal-font::
+GF::Scared::M::
+BF::Scared::R::"W...What?"
+BF::Scared::R::"What is going on with your face?! Why is it covered in black blots?!"
+GF::Scared::M::"This is genuinely disturbing..."
+@edit-font::
+Natsuki::Glitch::L::"SSBoYWQgdG8gYnVpbGQgdXAgc3BlZWQgZm9yIDEyIGhvdXJzLCBidXQgdG8gYW5zd2VyIHRoYXQsIHdlIG5lZWQgdG8gdGFsayBhYm91dCBQQVJBTExFTCBVTklWRVJTRVMu"

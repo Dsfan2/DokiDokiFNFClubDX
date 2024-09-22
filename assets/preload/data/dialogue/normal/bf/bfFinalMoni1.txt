@@ -1,0 +1,21 @@
+@bg::spaceroom
+@startmusic::Act-Three
+@noskip::
+Monika::JM-Giga::M::"There we go. No more distractions."
+BF::Worried::R::"W...What the...Girlfriend, where are we?"
+BF::Worried::R::"..."
+BF::Worried::R::"Uhhh...Girlfriend?"
+Monika::JM-Giga::M::"Yeah...sorry Boyfriend."
+Monika::JM-Giga::M::"I kinda...moved her out of the game's main directory for a bit, along with Sayori, Yuri, Natsuki, and that dragon-turtle thing as well."
+BF::Scared::R::"Wait... Monika..."
+BF::Angry::R::"You did this?!"
+BF::Upset::R::
+Monika::JM-Upset::M::"Okay, I know this looks bad, but just hear me out for a second..."
+BF::Angry::R::"You killed everyone?!?!"
+BF::Upset::R::
+Monika::JM-Upset::M::"That...That's literally not what I said!"
+BF::Angry::R::"Okay, that's it! I thought you were cool! But apparently I was dead wrong!"
+BF::Angry::R::"I won't let you get away with this!"
+BF::Angry::R::"I will avenge my girlfriend, and YOU shall pay for your horrible actions!"
+Monika::JM-Upset::M::"..."
+Monika::JM-Upset::M::"I guess I won't get to talk to you until I prove my innocence to you."

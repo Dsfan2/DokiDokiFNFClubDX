@@ -1,0 +1,60 @@
+@bg::club
+@startmusic::Club-Theme
+BF::Yay::R::"Wow, I'm impressed! And that's saying a lot, I've faced a lot of people throughout my journeys!”
+Yuri::Happy::L::"Thanks... I was trying that time..."
+@endmusic::
+Natsuki::Pose::M::"Hey! I just realized, what happened to my box of manga?!"
+Yuri::Pose::L::"Oh, uhh... I put it on the top shelf of the closet there..."
+@startmusic::Argument
+BF::Worried::R::
+Natsuki::Angry::M::"Again?! Yuri! This is the fourth time this week this happened! This is getting annoying!"
+Natsuki::Pose::M::"You know I can't reach it from up there without standing on a chair!"
+Yuri::Pose::L::"Well, I wouldn't really consider manga to be literature..." 
+Yuri::Pose::L::"So I just put it on the top shelf so it would be out of the way for now..."
+Natsuki::Angry::M::"Wh... WHAT DID YOU JUST SAY?!?!"
+Natsuki::Angry::M::"Manga is literature and you know it!"
+Natsuki::Angry::M::"How many times must I tell you this?!"
+Yuri::Mad::L::"Yeah, well it's not the traditional kind of literature everyone here is used too."
+Natsuki::Angry::M::"That doesn't mean you should put my manga collection out of my reach!"
+Yuri::Mad::L::"So you admit that your small stature kind of weighs you down."
+Natsuki::Angry::M::"What?! Did you just call me 'Small'?!"
+Natsuki::Angry::M::"I'll have you know, I am petite and proud! There's a difference between petite and small!"
+Yuri::Mad::L::"No there is not. Stop gaslighting yourself!"
+BF::Worried::R::"Hey...uh, calm down you two! There's no need to argue like this!"
+Natsuki::Angry::M::"Well you know what?! At least I actually have experience singing before Boyfriend came along!"
+Yuri::Mad::L::"Eh... Hey! At least singing with Boyfriend helped me to become more confident in myself!"
+Natsuki::Angry::M::
+@autoskip::"Well, at least I wasn't the one who's bo-"
+@yesskip::
+@endmusic::
+@hideMiddle::
+Monika::Confused::L::"And we'll stop right there."
+Monika::Confused::L::"I think all this fighting has made Boyfriend and Girlfriend uncomfortable."
+Monika::Normal::L::"Uh...hey Sayori?"
+Sayori::Normal::M::"Yeah Monika?"
+Monika::Normal::L::"Would you mind chilling out Yuri and Natsuki for a minute? I'm gonna take BF and GF outside while you do."
+Sayori::Normal::M::"Uh...Okay!"
+Monika::Normal::L::"Great! Thanks!"
+@fadeout::
+@bg::hall
+@hideLeft::
+@hideRight::
+@hideMiddle::
+@startmusic::Monika-Theme
+@fadein::
+BF::Speak::R::"Thanks for getting us out of that sticky situation, Monika."
+BF::Normal::R::
+Monika::Pose::L::"Yeah, sorry about that..."
+Monika::Normal::L::
+GF::Speak::M::"Do those two usually fight like that?"
+GF::Normal::M::
+Monika::Normal::L::"Well, not exactly. That was the first time that happened actually."
+Monika::Normal::L::"Even I'm surprised. I know that they don't see eye-to-eye with each other, but they never went off the rails like that before."
+BF::Speak::R::"Yeah, I know what you mean..."
+BF::Speak::R::"So what shall we do while we wait for them to chill?"
+BF::Normal::R::
+Monika::Yoga::L::"Well, how about you and I do a quick song?"
+BF::Normal::R::"Hmmm..."
+BF::Speak::R::"Sure! I didn't get to sing with you yet."
+BF::Normal::R::
+Monika::Happy::L::"Ahahaha~ Great! This is gonna be fun!"

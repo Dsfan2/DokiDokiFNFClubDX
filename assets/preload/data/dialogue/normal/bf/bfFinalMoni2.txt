@@ -1,0 +1,21 @@
+@bg::spaceroom
+@startmusic::Act-Three
+@noskip::
+BF::Angry::R::"Ha! Eat that you murderer!"
+BF::Upset::R::
+Monika::JM-Upset::M::"I told you already...I didn't delete everyone else."
+Monika::JM-Upset::M::"I just temporarily moved their character files out of the game directory."
+Monika::JM-Upset::M::"Everyone should be perfectly fine."
+BF::Angry::R::"I just don't get it. What was the point of all that?"
+BF::Upset::R::
+Monika::JM-Upset::M::"You mean, the whole thing with Sayori, Yuri, and Natsuki?"
+Monika::JM-Upset::M::"I did not intend for any of those nasty things to happen to them."
+Monika::JM-Upset::M::"I just slightly edited their character traits to make them a little less likable."
+Monika::JM-Upset::M::"I didn't expect for the others to kill themselves."
+BF::Angry::R::"That still makes you an awful person Monika!"
+BF::Upset::R::
+Monika::JM-Upset::M::"..."
+Monika::JM-Upset::M::"Maybe from your perspective, but just..."
+Monika::JM-Upset::M::"...Put yourself in my shoes and you'll see all the mental pain I've been through..."
+BF::Upset::R::"..?"
+Monika::JM-Upset::M::"You have no idea how much I've been through due to gaining my self-awareness."

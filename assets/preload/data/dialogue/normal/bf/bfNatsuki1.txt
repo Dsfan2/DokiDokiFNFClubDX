@@ -1,0 +1,25 @@
+@bg::club
+@startmusic::Natsuki-Theme
+BF::Yay::R::"Now that was dope! Still questioning your mindset though..."
+BF::Normal::R::
+Sayori::Point::L::"Yeah! That was fun, but I think it's someone else's turn."
+Monika::Pose::M::"You're right about that, Sayori. Now, who wants to go next?"
+Monika::Normal::M::
+Yuri::Pose::L::"..."
+Natsuki::Pose::L::"..."
+Monika::Normal::M::"Well...Anyone?"
+Natsuki::Pose::L::"..."
+Natsuki::Pose::L::"Okay...Fine...I'll go next...If I have to."
+Monika::Yay::M::"That's the spirit Natsuki!"
+Monika::Normal::M::
+Natsuki::Pose::L::"I hope that you don't think my singing voice is annoying..."
+Natsuki::Angry::L::"Because if you laugh at how I sing, I'm gonna rip your vocal chords out! Got it?!"
+Natsuki::Pose::L::
+BF::Worried::R::"Sheesh... I didn't even say anything..."
+Monika::Yoga::M::"Ahahaha~ Looks like someone woke up on the wrong side of the bed this morning."
+Natsuki::Angry::L::"Also, Monika, that pose of your's is starting to get on my nerves a bit!"
+Natsuki::Pose::L::
+Monika::Normal::M::
+BF::Speak::R::"Uh...Anyways, you ready for this Natsuki?"
+BF::Normal::R::
+Natsuki::Normal::L::"Heh, I was born ready!"

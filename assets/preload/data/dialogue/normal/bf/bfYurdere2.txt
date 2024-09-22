@@ -1,0 +1,35 @@
+@bg::club-skill
+@startmusic::Yuri-Theme-Act2
+@glitch::
+Yuri::Yandere2::L::"Khahahaha! Singing felt... exhilerating!"
+Yuri::Yandere3::L::"Laying out my sick thoughts in song form is way better than I expected!"
+Yuri::Yandere1::L::
+BF::Scared::R::"Uhhh...Yuri you're starting to freak me out a little."
+GF::Scared::M::"Yeah, I agree. Something's not quite right. You were quite shy before."
+Yuri::Yandere2::L::"What are you talking about? I've never felt this good my whole life!"
+Yuri::Yandere2::L::"Which is why I have to tell you, I... I'm madly in love with you!"
+Yuri::Yandere1::L::
+BF::Scared::R::"What?!"
+Yuri::Yandere2::L::"You have the voice of an angel The Boyfriend! I wanna hear that voice for the rest of my life!"
+Yuri::Yandere2::L::"We can be together every day!"
+Yuri::Yandere3::L::"We can sing together..."
+Yuri::Yandere3::L::"Eat together..."
+Yuri::Yandere3::L::"Sleep together..."
+@autoskip::"I'll even use your microphone as a-"
+@yesskip::
+BF::Scared::R::"Okay Yuri, I think you're pushing it too far."
+Yuri::Yandere1::L::
+GF::Scared::M::"Yeah, forget this. Let's just leave so we can continue searching for a way out..."
+Yuri::Yandere1::L::"Oh I don't think so! You aren't going anywhere!"
+Yuri::Yandere2::L::"Boyfriend, you know you want to be with me forever!"
+Yuri::Yandere2::L::"Just break up with your sorry excuse of a girlfriend, and be with me forever!"
+Yuri::Yandere1::L::
+BF::Upset::R::"..."
+BF::Angry::R::"Are you kidding me? NO!"
+BF::Angry::R::"NO NO NO NO NO! THE LINE OF A THOUSAND NOS!"
+BF::Angry::R::"I'm with The Girlfriend forever! I would never date a psycho like you!"
+BF::Upset::R::
+@endmusic::
+@glitch::
+Yuri::Yandere1::L::"..."
+Yuri::Yandere1::L::"Ahahahaha!"

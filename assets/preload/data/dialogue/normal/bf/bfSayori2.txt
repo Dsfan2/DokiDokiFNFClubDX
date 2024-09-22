@@ -1,0 +1,16 @@
+@bg::club
+@startmusic::Sayori-Theme
+Sayori::Yay::L::"Wow! That was awesome! What do you think?"
+BF::Yay::R::"Yeah! That was really funky! You sounded really good too!"
+GF::Speak::M::"I agree. That was quite impressive."
+GF::Normal::M::
+Sayori::Normal::L::"Yeah. I kinda sing to myself sometimes. Helps keep my mind positive."
+BF::Speak::R::"Huh. I bet you've had to face a lot of negatives in your life, haven't you?"
+BF::Normal::R::
+Sayori::Point::L::"Yeah...That's one way to look at it, but I'm happy when my friends are happy."
+Sayori::Normal::L::
+BF::Worried::R::"Uh...Is that really a good mindset to be in?"
+Sayori::Point::L::"Uhhh...Sometimes, it's best to keep your mind set on the happy thoughts."
+Sayori::Point::L::"Maybe another song can make things more clear."
+Sayori::Normal::L::
+BF::Speak::R::"Uh, okay, I can do with another song."

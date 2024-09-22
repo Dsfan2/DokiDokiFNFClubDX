@@ -1,0 +1,42 @@
+The new dialogue system is a bit complex but also not at the same time.
+
+Every line with a character portrait is formated like this:
+Character::Portrait Frame::Position::Dialogue
+
+The Character should be the image for your dialogue, the image should be in "images/dialogue/Regular/portraits/"
+and the portrait should be named (Character Name)_Portraits (You need both .png & .xml files for a character) (Example: BF_Portraits)
+
+The Portrait Frame should be the portrait animation listed on the .xml file (Example: Normal)
+
+The Position should be one of these three letters: L, M, R (Left, Middle, Right)
+
+And Dialogue should be the dialogue, duh.
+
+Example of Portrait Line: BF::Worried::R::"W...What the...GF, where are we?"
+
+Every line that doesn't have a portrait is formated like this:
+@Variable::Value (OPTIONAL)
+
+Here's all the compatable Variables:
+
+bg = shows a background, specify what the background is in the Value. The background image should be in the folder "images/dialogue/Regular/bg/"
+and it should be called "bg_(Background Name)" (Example: bg_club)
+hideBG = hides the background
+glitch = glitch effect
+noskip = can't skip
+yesskip = can skip
+autoskip = automatically skips through dialogue
+hideRight = right portrait vanish
+hideLeft = left portrait vanish
+hideMiddle = middle portrait vanish
+playsound = plays a sound, specity the sound in the Value. The sound file should be in the folder sounds/dialogue
+startmusic = plays background music, specity the music in the Value. The music file should be in the folder music/dialogue
+endmusic = music fades out
+normal-font = text appears in regular font
+edit-font = text appears in edited font
+showHUD = shows dialogue box, and texts
+hideall = hides dialogue box, texts, and portraits
+fadeout = fades to black
+fadein = black fades away
+
+Example of Variable line: @bg::club

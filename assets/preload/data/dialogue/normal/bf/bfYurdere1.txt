@@ -1,0 +1,23 @@
+@bg::club-skill
+@startmusic::Yuri-Theme
+BF::Yay::R::"That was better than the previous song! What do you think, Natsuki?"
+BF::Normal::R::(That's odd, I thought I heard the sound of a bone breaking...)
+Natsuki::Angry::L::"Bleh...I think I've had enough now. Someone else can have a turn."
+Sayori::Normal::M::"Yeah, I think Yuri hasn't had a turn yet."
+BF::Worried::R::
+Yuri::Nervous::L::"..."
+Sayori::Point::M::"C'mon Yuri, You got this!"
+Yuri::Nervous::L::"Uu..."
+Yuri::Nervous::L::"It's just...I've never done this before..."
+Yuri::Nervous::L::"I...don't even know if I'll sound good..."
+Sayori::Normal::M::"Don't worry Yuri, I know you'll be great!"
+Yuri::Pose::L::"Y...You really think so?"
+@edit-font::
+BF::Speak::R::"Hey, if a multiverse of you's can do it, surely you can too!"
+@normal-font::
+BF::Normal::R::
+@endmusic::
+@glitch::
+Yuri::Pose::L::"W...well, singing...does look kind of fun..."
+Yuri::Normal::L::"I'll do it."
+BF::Speak::R::"That's the spirit!"

@@ -1,0 +1,19 @@
+@bg::club
+@startmusic::Natsuki-Theme
+BF::Yay::R::"That was pretty good! What do you think?"
+BF::Normal::R::
+Natsuki::Angry::L::"Hey! It's not like this is my first time doing something like this, or anything!"
+Natsuki::Pose::L::
+GF::Speak::M::"Oh, so you've done rap battles before?"
+GF::Normal::M::
+Natsuki::Pose::L::"Well, uh...it's a bit...embarrassing to say..."
+Sayori::Point::L::"Well, anything you have to say, you can say in front of us!"
+Natsuki::Angry::L::"It's not you three, it's those two!"
+Natsuki::Pose::L::
+BF::Worried::R::"How come we make it so embarrassing?"
+Natsuki::Angry::L::"Umm, how do I phrase this? Because I don't know you?!"
+Natsuki::Pose::L::
+BF::Worried::R::"Oh yeah, valid point. Fine I won't question your past."
+Natsuki::Pose::L::"Thank you..."
+GF::Worried::M::"Uhh...Let's lighten the mood with another song!"
+BF::Speak::R::"Yeah, I second that notion."

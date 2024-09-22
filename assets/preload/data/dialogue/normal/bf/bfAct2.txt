@@ -1,0 +1,101 @@
+@bg::class
+BF::Worried::R::"Ugh...GF did your dad really have to do that?"
+BF::Worried::R::"Wait...why am I talking in English instead of Beepeeze?"
+GF::Worried::M::"My guess is that the game's language setting is set to English."
+GF::Worried::M::"Also, trapping people in video games is just one of my dad's guilty pleasures."
+BF::Scared::R::"Wait...What?"
+GF::Worried::M::"You'd be surprised at how many people he trapped in video games, other than those that've tried to date me."
+GF::Normal::M::
+BF::Scared::R::"And your dad does this on a regular basis?!"
+GF::Worried::M::"He doesn't do it all the time. He does it like once every week."
+BF::Worried::R::"That's still very concerning!"
+GF::Speak::M::"I think we should worry about that later. There are bigger questions at hand still."
+GF::Normal::M::
+BF::Speak::R::"Yeah, you're right. We need to focus on getting out of here."
+BF::Worried::R::"By the way, what even is this place? Is this some sort of school?"
+GF::Speak::M::"Well, this game is called Doki Doki Literature Club Plus."
+@glitch::
+GF::Normal::M::
+BF::Speak::R::"Well, no time to be asking silly questions! I'm sure we can find a way out in here somewhere!"
+BF::Normal::R::
+@fadeout::
+@hideRight::
+@hideMiddle::
+@bg::hall
+@fadein::
+BF::Worried::R::"We've searched pretty much everywhere for a long time, and still no sign of any ways of getting out..."
+GF::Speak::M::"Hey wait...do you hear that?"
+GF::Normal::M::
+BF::Worried::R::"Huh?"
+GF::Speak::M::"I think I hear some chattering coming from this room."
+GF::Normal::M::
+BF::Speak::R::"Do you think that someone else is here?"
+BF::Normal::R::
+GF::Speak::M::"There's only one way to find out."
+@playsound::knock
+GF::Normal::M::*knock* *knock*
+BF::Normal::R::...
+Monika::Confused::L::"Hello? Is anyone there?"
+BF::Speak::R::"Uh, hi there... My girlfriend and I are kinda lost here."
+BF::Normal::R::
+Monika::Confused::L::"Huh? Lost?"
+GF::Speak::M::"Yeah, we're kinda trapped in here and looking for a way out. We were hoping someone here could help."
+GF::Normal::M::
+Monika::Confused::L::"Hmm...I don't think there's anyone else here now..."
+Monika::Pose::L::"But you both can come in here if you'd like."
+Monika::Normal::L::
+BF::Speak::R::"Sure! I guess that'd be okay."
+BF::Normal::R::
+Monika::Happy::L::"Great! Come on in!"
+Monika::Normal::L::
+@fadeout::
+@hideRight::
+@hideMiddle::
+@hideLeft::
+@bg::club
+@startmusic::Club-Theme
+@fadein::
+Monika::Pose::L::"Hey everyone, we've got a couple of guests joining us today!"
+Monika::Normal::L::
+GF::Speak::M::"Uh...Hi."
+GF::Normal::M::
+BF::Speak::R::"Heh...Hello."
+BF::Normal::R::
+Yuri::Pose::L::"G...guests?"
+Sayori::Pose::L::"Oooh! You two look so adorable!"
+Natsuki::Pose::L::"Seriously?! You let a boy in?! Way to kill the atmosphere!"
+Monika::Pose::L::"Don't be mean Natsuki, there's another girl here too."
+Natsuki::Pose::L::(Well at least I won't have to feel like the shortest anymore)
+Monika::Pose::L::"Anyways, we're the Literature Club!"
+BF::Normal::R::So this is the so-called Literature Club.
+BF::Worried::R::"But, why is this club full of incredibly cute girls?"
+GF::Worried::M::"Beats me..."
+GF::Normal::M::
+Sayori::Pose::L::"Hey! Is that a microphone?!"
+BF::Worried::R::"Y...Yeah."
+Sayori::Pose::L::"Well, why don't you sing for us?"
+Natsuki::Pose::L::"Hey! Are you in charge here?!"
+Monika::Pose::L::"Actually, music is a unique form of literature. So this kid can definately sing for us."
+Monika::Yoga::L::"...Can you?"
+BF::Worried::R::
+@autoskip::"Well, uh...I don't think I have time for this. My girlfriend and I are supposed to be looking for..."
+@endmusic::
+@glitch::
+@edit-font::
+BF::Normal::R::"Actually, I'd be delighted to stay for a few songs."
+@normal-font::
+GF::Worried::M::
+Sayori::Yay::L::"Yay!"
+Yuri::Pose::L::"Okay then...Let's see what you've got..."
+Natsuki::Pose::L::"Wait...don't we need music for this?"
+Monika::Pose::L::"Luckily, I keep some speakers in the closet."
+BF::Worried::R::"You keep speakers in the closet?"
+Monika::Normal::L::"Only for rare occasions like this."
+GF::Worried::M::
+@autoskip::"Uh...BF, I really don't think this is the right time for singing..."
+@glitch::
+@edit-font::
+GF::Speak::M::"Great! Something for me to sit and bob my head on."
+@normal-font::
+GF::Normal::M::
+BF::Speak::R::"Uh...okay then. Let's do this!"

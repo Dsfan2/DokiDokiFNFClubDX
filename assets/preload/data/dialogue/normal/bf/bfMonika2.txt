@@ -1,0 +1,17 @@
+@bg::hall
+@startmusic::Monika-Theme
+BF::Yay::R::"Wow! Out of everyone in the literature club, you have the best singing voice, by far!"
+BF::Normal::R::
+Monika::Happy::L::"Ahahaha~ Do you really think so?"
+Monika::Normal::L::
+BF::Speak::R::"Hey, you just proved it yourself."
+BF::Normal::R::
+Monika::Pose::L::"Well, I guess you're right."
+Monika::Pose::L::"Usually, I'd play piano while I sing but this isn't a bad change of pace."
+Monika::Normal::L::
+GF::Speak::M::"Are Yuri and Natsuki chilled out now?"
+GF::Normal::M::
+Monika::Confused::L::"Hmmm... It looks like Sayori is still talking to them."
+Monika::Normal::L::"So maybe we have time for another song."
+BF::Speak::R::"Uh...Sure! I guess we can go again."
+BF::Speak::R::"After all, it's not every week you get to perform more than three times in one go."

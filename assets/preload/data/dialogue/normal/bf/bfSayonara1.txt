@@ -1,0 +1,46 @@
+@bg::club
+@startmusic::Sayori-Theme-Act2
+Sayori::Pose::L::"Wow! That was amazing!"
+Sayori::Normal::L::
+GF::Yay::M::"Impressive as always!"
+GF::Normal::M::
+BF::Yay::R::"Yeah. I've done plenty of rap battles before, so I have some singing experience."
+BF::Normal::R::
+Monika::Pose::L::"I figured, since I've never really seen someone like you before."
+Monika::Normal::L::"If you don't mind me asking, who are you two exactly?"
+GF::Speak::M::"Well, my name's The Girlfriend, and this is my boyfriend, The Boyfriend."
+GF::Normal::M::
+BF::Speak::R::"And you four are..."
+BF::Normal::R::
+Monika::Pose::L::"Well, my name's Monika. I'm the president of this club."
+Sayori::Pose::L::"I'm Sayori!"
+Sayori::Normal::L::"The... happy one..."
+Yuri::Nervous::L::"M...my name's... Yuri..."
+Yuri::Nervous::L::"S...Sorry, I kinda get... nervous sometimes."
+Natsuki::Pose::L::"Well, my name's Natsuki."
+Natsuki::Pose::L::"But don't expect any quirky details out of me!"
+BF::Worried::R::"Uh...okay..."
+Monika::Normal::L::"You said you've done rap battles before, right?"
+BF::Worried::R::"Yeah..."
+Monika::Happy::L::"That's perfect! Rap is a very unique form of literature."
+Monika::Normal::L::
+BF::Speak::R::"Wait...really?"
+BF::Normal::R::
+Monika::Pose::L::"Yeah! So here's my idea: We can each take turns rap battling against The Boyfriend."
+Monika::Pose::L::"It would be a great way to try out a different form of literature!"
+Monika::Yoga::L::"So what do you say?"
+@edit-font::
+BF::Speak::R::"That sounds like a great idea. I haven't had a rap battle just for fun in a long while."
+BF::Normal::R::
+@normal-font::
+Sayori::Pose::L::"Ooh! Can I go first?"
+Monika::Confused::L::"Uh...I kinda wanted to go first..."
+Monika::Pose::L::"But, I guess you can go first instead."
+Sayori::Yay::L::"Yay!"
+Sayori::Normal::L::
+BF::Sass::R::"You ready then, Sayori?"
+BF::Normal::R::
+@endmusic::
+Sayori::Depress::L::
+@glitch::
+Sayori::Point::L::"Yeah! Let's go."

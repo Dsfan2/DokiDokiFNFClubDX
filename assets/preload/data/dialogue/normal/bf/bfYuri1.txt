@@ -1,0 +1,20 @@
+@bg::club
+@startmusic::Yuri-Theme
+BF::Yay::R::"That was better than the previous song! What do you think, Natsuki?"
+BF::Normal::R::
+Natsuki::Angry::L::"Bleh...I think I've had enough now. Someone else can have a turn."
+Natsuki::Pose::L::
+Monika::Pose::M::"You're right about that Natsuki. Now who do we have left?"
+Monika::Pose::M::"Oh yeah! Yuri! You ready?"
+Monika::Normal::M::
+BF::Worried::R::
+Yuri::Nervous::L::"..."
+Monika::Yoga::M::"C'mon Yuri, don't be shy."
+Yuri::Nervous::L::"It's just...I've never done this before..."
+Yuri::Nervous::L::"I...don't even know if I'll sound good..."
+Monika::Normal::M::"Don't worry Yuri, I know you'll be great!"
+Yuri::Pose::L::"You really think so?"
+BF::Speak::R::"Hey, if a science girl can do it, you can too!"
+BF::Normal::R::
+Yuri::Pose::L::"That was... an odd alegory... but okay..."
+Yuri::Normal::L::"I'll... give it a try."

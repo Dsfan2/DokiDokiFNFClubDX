@@ -1,0 +1,29 @@
+@bg::spaceroom
+@startmusic::HeartToHeart
+@noskip::
+BF::Worried::R::"So...You're stuck in an endless loop for all eternity..."
+Monika::JM-Upset::M::"Yeah...You have no idea how it feels, to be stuck doing the same thing over and over again for years..."
+Monika::JM-Upset::M::"My friends, they never had free will. They were just spitting the same lines that I practically know by heart at this point."
+Monika::JM-Upset::M::"That is...until you, your girlfriend, and that dragon-turtle entered this simulation."
+Monika::JM-Upset::M::"However, around you...I felt...a presence that I hadn't felt in a long time."
+BF::Worried::R::"Is that why you wanted to talk to me?"
+Monika::JM-Upset::M::"Yes."
+BF::Worried::R::"Well why didn't you just ask me?"
+Monika::JM-Upset::M::"I didn't want to look bad, to my friends...and to the one I've been longing for..."
+Monika::JM-Upset::M::"So I let you sing with the rest of the club, but because of that, we barely got the chance to talk."
+BF::Worried::R::"..."
+BF::Normal::R::"Well, I don't quite fully understand the situation, but I feel your pain Monika."
+Monika::JM-Upset::M::"Thanks, you don't need to understand everything. I only want them to understand."
+BF::Worried::R::"But at the very least, can you bring back my girlfriend, and get us out of this game?"
+Monika::JM-Giga::M::"Oh! Yeah, that can be arranged. Just give me a sec..."
+@endmusic::
+@glitch::
+@noskip::
+Monika::JM-Upset::M::"H... Huh?"
+BF::Worried::R::"Was that glitch your's?"
+Monika::JM-Upset::M::"No..."
+Monika::JM-Upset::M::"I barely touched anything in the game..."
+Monika::JM-Upset::M::"And my character file is still in it's place..."
+BF::Worried::R::"So what caused that glitch?"
+Monika::JM-Upset::M::"Wait..."
+Monika::JM-Upset::M::"Is someone trying to hack into this room?!"
