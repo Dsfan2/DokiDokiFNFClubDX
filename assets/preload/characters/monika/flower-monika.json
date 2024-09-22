@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "monika idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monika NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monika NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "monika NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "monika NOTE LEFT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/flower-monika",
+	"position": [
+		-30,
+		-130
+	],
+	"healthicon": "flower",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		214,
+		112
+	],
+	"camera_position": [
+		190,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.81
+}

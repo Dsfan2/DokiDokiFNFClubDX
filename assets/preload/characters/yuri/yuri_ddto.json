@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Yuri Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Yuri Miss Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri Sing Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-38
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Yuri Miss Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-11
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Yuri Miss Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri Sing Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-50
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Yuri Miss Note Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Doki_Yuri_Assets",
+	"position": [
+		140,
+		50
+	],
+	"healthicon": "yuri_ddto",
+	"flip_x": true,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		100,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

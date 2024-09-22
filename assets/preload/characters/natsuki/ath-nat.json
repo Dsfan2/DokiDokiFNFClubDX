@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "natsuki idle"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "natsuki left"
+		},
+		{
+			"offsets": [
+				-14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "natsuki down"
+		},
+		{
+			"offsets": [
+				5,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "natsuki up"
+		},
+		{
+			"offsets": [
+				-11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "natsuki right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsuki_new_assets",
+	"position": [
+		-117,
+		-27
+	],
+	"healthicon": "natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		123,
+		143
+	],
+	"camera_position": [
+		0,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.48
+}

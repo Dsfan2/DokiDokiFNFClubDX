@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yuri idle"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yuri left"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yuri down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yuri up"
+		},
+		{
+			"offsets": [
+				3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yuri right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/raccoon-yuri",
+	"position": [
+		-120,
+		-50
+	],
+	"healthicon": "raccoon-yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		82,
+		224
+	],
+	"camera_position": [
+		30,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.91
+}

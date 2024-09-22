@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "natkqko idle"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "natkqko left"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "natkqko down"
+		},
+		{
+			"offsets": [
+				11,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "natkqko up"
+		},
+		{
+			"offsets": [
+				-21,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "natkqko right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				0
+			],
+			"anim": "break",
+			"fps": 24,
+			"name": "necc cracc",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsuki_new_assets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "glitchsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		173,
+		184
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.87
+}

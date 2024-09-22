@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ghost idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ghost left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ghost down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ghost up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ghost right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonus/ghostyori",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		181,
+		209
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

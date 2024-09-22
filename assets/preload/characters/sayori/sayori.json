@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sayori idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sayori left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sayori down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sayori up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sayori right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "depress",
+			"indices": [
+				7,
+				8
+			],
+			"name": "sayonara idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayori_new_assets",
+	"position": [
+		-20,
+		40
+	],
+	"healthicon": "sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		187,
+		230
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
