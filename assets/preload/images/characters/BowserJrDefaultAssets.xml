@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BowserJrAllAssets.png">
+<SubTexture name="Def Idle0000" x="0" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0001" x="0" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0002" x="500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0003" x="500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0004" x="1000" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0005" x="1000" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0006" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0007" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0008" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0009" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0010" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0011" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0012" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Idle0013" x="1500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0000" x="2000" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0001" x="2000" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0002" x="2500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0003" x="2500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0004" x="3000" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0005" x="3000" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0006" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0007" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0008" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0009" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0010" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Left0011" x="3500" y="0" width="500" height="700"/>
+<SubTexture name="Def Down0000" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0001" x="1000" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0002" x="1500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0003" x="1500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0004" x="2000" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0005" x="2000" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0006" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0007" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0008" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0009" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0010" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Down0011" x="2500" y="700" width="500" height="700"/>
+<SubTexture name="Def Up0000" x="0" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0001" x="0" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0002" x="500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0003" x="500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0004" x="1000" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0005" x="1000" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0006" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0007" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0008" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0009" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0010" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Up0011" x="1500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Right0000" x="3000" y="1400" width="500" height="700"/>
+<SubTexture name="Def Right0001" x="3000" y="1400" width="500" height="700"/>
+<SubTexture name="Def Right0002" x="3500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Right0003" x="3500" y="1400" width="500" height="700"/>
+<SubTexture name="Def Right0004" x="0" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0005" x="0" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0006" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0007" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0008" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0009" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0010" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Def Right0011" x="500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Left0000" x="0" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0001" x="0" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0002" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0003" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0004" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0005" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0006" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0007" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0008" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0009" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0010" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Left0011" x="500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0000" x="3000" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0001" x="3000" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0002" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0003" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0004" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0005" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0006" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0007" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0008" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0009" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0010" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Down0011" x="3500" y="700" width="500" height="700"/>
+<SubTexture name="Miss Up0000" x="2000" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0001" x="2000" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0002" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0003" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0004" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0005" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0006" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0007" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0008" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0009" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0010" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Up0011" x="2500" y="1400" width="500" height="700"/>
+<SubTexture name="Miss Right0000" x="1000" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0001" x="1000" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0002" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0003" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0004" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0005" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0006" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0007" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0008" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0009" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0010" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Miss Right0011" x="1500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0000" x="2000" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0001" x="2000" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0002" x="2500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0003" x="2500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0004" x="3000" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0005" x="3000" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0006" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0007" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0008" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0009" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0010" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Yay0011" x="3500" y="2100" width="500" height="700"/>
+<SubTexture name="Scared0000" x="0" y="2800" width="500" height="700"/>
+<SubTexture name="Scared0001" x="500" y="2800" width="500" height="700"/>
+<SubTexture name="Scared0002" x="1000" y="2800" width="500" height="700"/>
+<SubTexture name="Scared0003" x="1500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0000" x="2000" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0001" x="2000" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0002" x="2500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0003" x="2500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0004" x="3000" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0005" x="3000" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0006" x="3500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0007" x="3500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0008" x="3500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0009" x="3500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0010" x="3500" y="2800" width="500" height="700"/>
+<SubTexture name="Hurt0011" x="3500" y="2800" width="500" height="700"/>
+</TextureAtlas>
