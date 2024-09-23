@@ -4,6 +4,12 @@ All notable changes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.0.1] - 2024-09-23
+### Fixed
+- Fixed the 100% completion screen because... how did I miss that?!
+- Fixed the random notes in Play With Me that were supposed to be Glitch Notes...
+- Fixed the background cutoff in Sayori's Room when playing as Bowser Jr...
+
 ## [4.0.0] - 2024-09-22
 THE END UPDATE PART 1/2!
 ### Overhauled
