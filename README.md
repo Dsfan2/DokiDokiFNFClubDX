@@ -9,8 +9,6 @@ This README will provide some information on how to compile the source code for 
 You must have [Haxe Version 4.2.5](https://haxe.org/download/version/4.2.5/), DO NOT USE older or newer versions, it won't work!
 
 ## Step 2:
-
-## Step 2:
 If you're not on Windows, or you've FNF compiled on Windows before you can skip this step.
 But if you're compiling on Windows, and you've never compiled FNF Source Code before, PLEASE READ THIS.
 You're gonna need to download Visual Studio Community 2019 if you haven't already:
