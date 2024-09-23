@@ -4473,7 +4473,7 @@ class PlayState extends MusicBeatState
 
 					if (SaveData.clearAllNormal && SaveData.clearAllClassic && SaveData.clearAllBonus && !SaveData.seenCompScreen)
 					{
-						CoolUtil.playMusic('AFreshTrailer');
+						FlxG.sound.music.stop();
 						openSubState(new CustomFadeTransition(0.4, false, new CompletionScreen()));
 					}
 					else

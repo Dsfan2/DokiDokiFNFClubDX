@@ -25,14 +25,11 @@ class CompletionScreen extends MusicBeatState
 		transIn = FlxTransitionableState.defaultTransIn;
 		transOut = FlxTransitionableState.defaultTransOut;
 
-		if (!FlxG.sound.music.playing)
-		{
-			CoolUtil.playMusic('AFreshTrailer');
-		}
+		CoolUtil.playMusic('AFreshTrailer');
 
 		persistentUpdate = persistentDraw = true;
 
-		completeScreen = new FlxSprite(0, 0).loadGraphic(Paths.image('gallery/completion'));
+		completeScreen = new FlxSprite(0, 0).loadGraphic(Paths.image('gallery/img/completion'));
 		add(completeScreen);
 
 		completeText = new FlxText(0, 17, FlxG.width, "Congratulations! You've cleared every REGULAR song!\nThe Gallery has been unlocked as your 100% completion prize!", 40);
